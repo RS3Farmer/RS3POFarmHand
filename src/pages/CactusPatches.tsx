@@ -1,11 +1,10 @@
 import { Accordion } from "@mantine/core";
 import { useState } from "react";
-require("./../assets/Images/CactusPatches/CactusPatchAlkharid3d.png");
-require("./../assets/Images/CactusPatches/CactusPatchanachronia3d.png");
-require("./../assets/Images/CactusPatches/HetsOasisCactusPatch3d.png");
-require("./../assets/Images/CactusPatches/MenaphosCactusPatch3d.png");
-require("./../assets/Images/CactusPatches/catctuspatchreg.png");
-
+require("./../assets/Images/Cactus Patches/CactusPatchAlkharid3d.png");
+require("./../assets/Images/Cactus Patches/CactusPatchanachronia3d.png");
+require("./../assets/Images/Cactus Patches/HetsOasisCactusPatch3d.png");
+require("./../assets/Images/Cactus Patches/MenaphosCactusPatch3d.png");
+require("./../assets/Images/Cactus Patches/catctuspatchreg.png");
 export const CactusPatches = () => {
   const [isAlkharidComplete] = useState(false);
   const [isAnachroniaComplete] = useState(false);

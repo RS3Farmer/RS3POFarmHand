@@ -1,6 +1,5 @@
 import { Tabs } from "@mantine/core";
 import "@mantine/core/styles/Tabs.css";
-require("./../assets/globals.css");
 require("./../assets/index.css");
 export const NavList: React.FC = () => {
   return (
@@ -11,10 +10,11 @@ export const NavList: React.FC = () => {
         className="NavigationMenu"
         styles={{
           tab: {
+            height: "25px",
             justifyContent: "center",
             backgroundColor: "#665d47",
           },
-          tabLabel: { height: "25px" },
+          tabLabel: { height: "15px" },
         }}
       >
         <Tabs.List grow>

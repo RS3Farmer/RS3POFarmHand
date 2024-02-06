@@ -2,7 +2,6 @@ import { Accordion } from "@mantine/core";
 import { useState } from "react";
 
 //Styles
-require("./../assets/globals.css");
 require("@mantine/core/styles/Accordion.css");
 require("./../assets/index.css");
 //Ardougne Images

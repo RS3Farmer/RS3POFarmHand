@@ -1,6 +1,6 @@
 import { HashRouter, Outlet, Route, Routes } from "react-router-dom";
 import { FarmingIndex } from "./pages/farmingMain";
-
+require("./assets/index.css");
 require("./assets/globals.css");
 function App() {
   return (
