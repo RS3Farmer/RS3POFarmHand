@@ -1,0 +1,72 @@
+[
+  {
+    "goal": "Increasing breeding rate",
+    "trait": "Studly or Virile",
+    "notes": [
+      "Can be used with several other combinations to improve breeding success where other more specific or preferable traits are unnecessary"
+    ]
+  },
+  {
+    "goal": "Producing offspring with 2 traits from 1-trait parents",
+    "trait": "Both parents with Genetic Mutation",
+    "notes": [
+      "Intermediate step to getting offspring with 3 traits",
+      "Less effective options: One parent with Studly and one with Genetic Mutation"
+    ]
+  },
+  {
+    "goal": "Producing offspring with 3 traits from 2-trait parents",
+    "trait": "Both parents with Genetic Mutation (slot 1) and Genetic Instability (slot 2)",
+    "notes": [
+      "Less effective options: Parents with Studly and Genetic Mutation"
+    ]
+  },
+  {
+    "goal": "Shiny Achievements",
+    "trait": "Sparkling (slot 1), Glistening (slot 2), and Radiant (slot 3)",
+    "notes": [
+      "Less effective options: combinations of Studly, Sparkling (Shiny+, any slot), Glistening (Shiny++, slots 2 and 3 only), and Radiant (Shiny+++, slot 3 only).",
+      "Breeders for shiny (royal) dragons cannot use the most effective combination because the parents must have Shock Breath, Poisonous Breath, and Frost Breath between them. [Breath 1] (slot 1), [Breath 2] (slot 2), Radiant (slot 3) and [Breath 3] (slot 1), Glistening (slot 2), Radiant (slot 3) would be optimal for dragons."
+    ]
+  },
+  {
+    "goal": "Bad Egg Achievement",
+    "trait": "Studly and Evil ",
+    "notes": [
+      "Some achievements that require traits can be achieved using trait rerollers. If the achievement needs an animal to be born with a trait, it is possible to get the trait with a reroller and then breed that animal (since its offspring will be more likely to have the same trait)."
+    ]
+  },
+  {
+    "goal": "Tickety Boom! achievement",
+    "trait": "Studly and Nuclear or Unstable",
+    "notes": [
+      "Some achievements that require traits can be achieved using trait rerollers. If the achievement needs an animal to be born with a trait, it is possible to get the trait with a reroller and then breed that animal (since its offspring will be more likely to have the same trait)."
+    ]
+  },
+  {
+    "goal": "Ravensworn achievements",
+    "trait": "Studly and Mysterious",
+    "notes": [
+      "requires The Ravensworn title to be unlocked",
+      "Trait rerollers cannot be used to get the Ravensworn traits.",
+      "Because Ravensworn is only available in slot 2, trait+ traits like Genetic Mutation and Genetic Instability paired with Mysterious will help ensure offspring are eligible to roll for Ravensworn by having 2+ traits."
+    ]
+  },
+  {
+    "goal": "Farming without needing food",
+    "trait": "Studly, Joyful, and Immune",
+    "notes": [
+      "Lowest amount of effort required",
+      "Lowest cost",
+      "Charmed is less effective but could be a reasonable placeholder for Joyful or Immune if the player does not have enough beans to roll the optimal combination"
+    ]
+  },
+  {
+    "goal": "Maximizing output",
+    "trait": "Studly in all 3 slots",
+    "notes": [
+      "Commonly referred to as '6x studly' in pairs",
+      "All but ensures the player does not miss a breeding cycle"
+    ]
+  }
+]

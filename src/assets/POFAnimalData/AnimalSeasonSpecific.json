@@ -1,0 +1,22 @@
+[
+  {
+    "season": "Spring",
+    "seasonedAnimal": ["Springsheared ewe", "Springsheared ram", "Fever spider"]
+  },
+  {
+    "season": "Summer",
+    "seasonedAnimal": ["Summerdown ewe ", " Summerdown ram", "Fever spider"]
+  },
+  {
+    "season": "Winter",
+    "seasonedAnimal": ["Winterwold ewe", "Winterwold ram", "Ice spider"]
+  },
+  {
+    "season": "Autumn/Fall",
+    "seasonedAnimal": ["Fallfaced ewe", "Fallfaced ram", "Corpse spider"]
+  },
+  {
+    "season": "Night",
+    "seasonedAnimal": ["Black ewe", "Black ram", "Night spider"]
+  }
+]

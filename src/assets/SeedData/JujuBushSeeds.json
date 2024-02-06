@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Lergberry Seed",
+    "growthTime": 7200000,
+    "checkHealth": true,
+    "plantExperience": 145.5,
+    "harvestExperience": 31.5,
+    "totalAssumedExperience": 570.8,
+    "uses": [
+      "Lergberries are used as payment to protect Shengo herb patches and Kalferberry bushes"
+    ]
+  },
+  {
+    "name": "Kalferberry Seed",
+    "growthTime": 6000000,
+    "checkHealth": true,
+    "plantExperience": 220,
+    "harvestExperience": 52.5,
+    "totalAssumedExperience": 910,
+    "uses": [
+      "Kalferberries are used as payment to protect Samaden herb patches"
+    ]
+  }
+]

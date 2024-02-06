@@ -1,0 +1,186 @@
+[
+  {
+    "animal": "Rabbit",
+    "breedingRate": 5,
+    "breedingRateMax": 25,
+    "successPercentageChance": 40,
+    "averageBaseTime": 12,
+    "averageRabbitPerkTime": 11
+  },
+  {
+    "animal": "Chicken",
+    "breedingRate": 50,
+    "breedingRateMax": 250,
+    "successPercentageChance": 45,
+    "averageBaseTime": 106,
+    "averageRabbitPerkTime": 98
+  },
+  {
+    "animal": "Chinchompa",
+    "breedingRate": 150,
+    "breedingRateMax": 750,
+    "successPercentageChance": 60,
+    "averageBaseTime": 248,
+    "averageRabbitPerkTime": 227
+  },
+  {
+    "animal": "Sheep",
+    "breedingRate": 100,
+    "breedingRateMax": 500,
+    "successPercentageChance": 45,
+    "averageBaseTime": 212,
+    "averageRabbitPerkTime": 196
+  },
+  {
+    "animal": "Spider",
+    "breedingRate": 180,
+    "breedingRateMax": 900,
+    "successPercentageChance": 50,
+    "averageBaseTime": 349,
+    "averageRabbitPerkTime": 322
+  },
+  {
+    "animal": "Zygomite",
+    "breedingRate": 500,
+    "breedingRateMax": 2500,
+    "successPercentageChance": 70,
+    "averageBaseTime": 713,
+    "averageRabbitPerkTime": 649
+  },
+  {
+    "animal": "Cow",
+    "breedingRate": 300,
+    "breedingRateMax": 1500,
+    "successPercentageChance": 70,
+    "averageBaseTime": 428,
+    "averageRabbitPerkTime": 390
+  },
+  {
+    "animal": "Yak",
+    "breedingRate": 400,
+    "breedingRateMax": 2000,
+    "successPercentageChance": 60,
+    "averageBaseTime": 660,
+    "averageRabbitPerkTime": 604
+  },
+  {
+    "animal": "Dragon",
+    "breedingRate": 1000,
+    "breedingRateMax": 5000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 1250,
+    "averageRabbitPerkTime": 1137
+  },
+  {
+    "animal": "Frog",
+    "breedingRate": 12000000,
+    "breedingRateMax": 60000000,
+    "successPercentageChance": 60,
+    "averageBaseTime": 19800000,
+    "averageRabbitPerkTime": 18600000
+  },
+  {
+    "animal": "Salamander",
+    "breedingRate": 36000000,
+    "breedingRateMax": 180000000,
+    "successPercentageChance": 60,
+    "averageBaseTime": 59400000,
+    "averageRabbitPerkTime": 55800000
+  },
+  {
+    "animal": "Jadinko",
+    "breedingRate": 42000000,
+    "breedingRateMax": 210000000,
+    "successPercentageChance": 70,
+    "averageBaseTime": 59880000,
+    "averageRabbitPerkTime": 56040000
+  },
+  {
+    "animal": "Varanusaur",
+    "breedingRate": 48000000,
+    "breedingRateMax": 240000000,
+    "successPercentageChance": 70,
+    "averageBaseTime": 68460000,
+    "averageRabbitPerkTime": 64140000
+  },
+  {
+    "animal": "Brutish dinosaur",
+    "breedingRate": 66000000,
+    "breedingRateMax": 330000000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 82500000,
+    "averageRabbitPerkTime": 77100000
+  },
+  {
+    "animal": "Arcane apoterrasaur",
+    "breedingRate": 66000000,
+    "breedingRateMax": 330000000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 82500000,
+    "averageRabbitPerkTime": 77100000
+  },
+  {
+    "animal": "Spicati apoterrasaur",
+    "breedingRate": 72000000,
+    "breedingRateMax": 360000000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 90000000,
+    "averageRabbitPerkTime": 84120000
+  },
+  {
+    "animal": "Oculi apoterrasaur",
+    "breedingRate": 78000000,
+    "breedingRateMax": 390000000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 97500000,
+    "averageRabbitPerkTime": 91140000
+  },
+  {
+    "animal": "Scimitops",
+    "breedingRate": 66000000,
+    "breedingRateMax": 330000000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 82500000,
+    "averageRabbitPerkTime": 77100000
+  },
+  {
+    "animal": "Asciatops",
+    "breedingRate": 72000000,
+    "breedingRateMax": 360000000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 90000000,
+    "averageRabbitPerkTime": 84120000
+  },
+  {
+    "animal": "Malletops",
+    "breedingRate": 78000000,
+    "breedingRateMax": 390000000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 97500000,
+    "averageRabbitPerkTime": 91140000
+  },
+  {
+    "animal": "Bagrada rex",
+    "breedingRate": 72000000,
+    "breedingRateMax": 360000000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 90000000,
+    "averageRabbitPerkTime": 84120000
+  },
+  {
+    "animal": "Corbicula rex",
+    "breedingRate": 72000000,
+    "breedingRateMax": 360000000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 90000000,
+    "averageRabbitPerkTime": 84120000
+  },
+  {
+    "animal": "Pavosaurus rex",
+    "breedingRate": 84000000,
+    "breedingRateMax": 420000000,
+    "successPercentageChance": 80,
+    "averageBaseTime": 105000000,
+    "averageRabbitPerkTime": 98160000
+  }
+]

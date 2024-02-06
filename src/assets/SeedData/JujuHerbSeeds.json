@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Erzille Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "plantExperience": 87,
+    "harvestExperience": 87,
+    "totalAssumedExperience": 174,
+    "uses": ["Clean erzille is used to make Juju hunter potions (3)"]
+  },
+  {
+    "name": "Argway Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "plantExperience": 110,
+    "harvestExperience": 125,
+    "totalAssumedExperience": 235,
+    "uses": ["Clean argway is used to make scentless potions (3)"]
+  },
+  {
+    "name": "Ugune Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "plantExperience": 135,
+    "harvestExperience": 152,
+    "totalAssumedExperience": 287,
+    "uses": ["Clean ugune is used to make Juju farming potions (3)"]
+  },
+  {
+    "name": "Shengo Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "plantExperience": 140.5,
+    "harvestExperience": 160,
+    "totalAssumedExperience": 300.5,
+    "uses": [
+      "Clean shengo is used to make Juju cooking potions (3)",
+      "Juju fishing potions (3)"
+    ]
+  },
+  {
+    "name": "Samaden Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "plantExperience": 170,
+    "harvestExperience": 190,
+    "totalAssumedExperience": 360,
+    "uses": ["Clean samaden is used to make various Juju potions and blessings"]
+  }
+]

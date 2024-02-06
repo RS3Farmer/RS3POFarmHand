@@ -1,0 +1,119 @@
+[
+  {
+    "name": "Apple Tree Seed",
+    "growthTime": 57600000,
+    "checkHealth": true,
+    "plantExperience": 22,
+    "harvestExperience": 8.5,
+    "totalAssumedExperience": 1272.5,
+    "uses": [
+      "Cooking ingredient",
+      "Payment to protect strawberries, willow trees, and banana trees"
+    ]
+  },
+  {
+    "name": "Banana Tree Seed",
+    "growthTime": 57600000,
+    "checkHealth": true,
+    "plantExperience": 28,
+    "harvestExperience": 10.5,
+    "totalAssumedExperience": 1841.5,
+    "uses": [
+      "Cooking ingredient",
+      "Creating Fruit bat pouch Ape Atoll Teleport"
+    ]
+  },
+
+  {
+    "name": "Orange Tree Seed",
+    "growthTime": 57600000,
+    "checkHealth": true,
+    "plantExperience": 35.5,
+    "harvestExperience": 13.5,
+    "totalAssumedExperience": 2586.7,
+    "uses": ["Cooking ingredient"]
+  },
+
+  {
+    "name": "Curry Tree Seed",
+    "growthTime": 57600000,
+    "checkHealth": true,
+    "plantExperience": 40,
+    "harvestExperience": 15,
+    "totalAssumedExperience": 3036.9,
+    "uses": ["Curry ingredient"]
+  },
+
+  {
+    "name": "Pineapple Seed",
+    "growthTime": 57600000,
+    "checkHealth": true,
+    "plantExperience": 57,
+    "harvestExperience": 21.5,
+    "totalAssumedExperience": 4791.7,
+    "uses": ["Cooking ingredient"]
+  },
+
+  {
+    "name": "Papaya Tree Seed",
+    "growthTime": 57600000,
+    "checkHealth": true,
+    "plantExperience": 72,
+    "harvestExperience": 27,
+    "totalAssumedExperience": 6380.4,
+    "uses": ["Hunting Pawya", "Adrenaline potion ingredient"]
+  },
+
+  {
+    "name": "Palm Tree Seed",
+    "growthTime": 57600000,
+    "checkHealth": true,
+    "plantExperience": 110.5,
+    "harvestExperience": 41.5,
+    "totalAssumedExperience": 10509.6,
+    "uses": ["Making high-level potions", "Payment for Magic tree seed care"]
+  },
+
+  {
+    "name": "Calquat Tree Seed",
+    "growthTime": 76800000,
+    "checkHealth": true,
+    "plantExperience": 130.5,
+    "harvestExperience": 48.5,
+    "totalAssumedExperience": 12517.5,
+    "uses": ["Making Calquat keg", "Used to damage Broodoo victims"]
+  },
+
+  {
+    "name": "Ciku Seed",
+    "growthTime": 48000000,
+    "checkHealth": true,
+    "plantExperience": 471,
+    "harvestExperience": 524.4,
+    "totalAssumedExperience": 25663.7,
+    "uses": ["Making primal fruit pulp", "Payment to protect Lychee"]
+  },
+
+  {
+    "name": "Guarana Seed",
+    "growthTime": 48000000,
+    "checkHealth": true,
+    "plantExperience": 591,
+    "harvestExperience": 669.9,
+    "totalAssumedExperience": 32768.3,
+    "uses": [
+      "Making primal fruit pulp",
+      "Payment to protect golden dragonfruit"
+    ]
+  },
+
+  {
+    "name": "Carambola Seed",
+    "growthTime": 48000000,
+    "checkHealth": true,
+    "plantExperience": 811,
+    "harvestExperience": 897.5,
+    "totalAssumedExperience": 41253.9,
+    "uses": ["Making primal fruit pulp"]
+  }
+]

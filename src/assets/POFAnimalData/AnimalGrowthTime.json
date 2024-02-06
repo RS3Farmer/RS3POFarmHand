@@ -1,0 +1,186 @@
+[
+  {
+    "animal": "Rabbits",
+    "eggToChild": 0,
+    "childToAdolescent": 720000,
+    "adolescentToAdult": 1260000,
+    "adultToElder": 1620000,
+    "totalTimeToElder": 3600000
+  },
+  {
+    "animal": "Chickens",
+    "eggToChild": 1500000,
+    "childToAdolescent": 2280000,
+    "adolescentToAdult": 4560000,
+    "adultToElder": 6780000,
+    "totalTimeToElder": 15000000
+  },
+  {
+    "animal": "Chinchompas",
+    "eggToChild": 0,
+    "childToAdolescent": 30240000,
+    "adolescentToAdult": 52920000,
+    "adultToElder": 68040000,
+    "totalTimeToElder": 151200000
+  },
+  {
+    "animal": "Sheep",
+    "eggToChild": 0,
+    "childToAdolescent": 1440000,
+    "adolescentToAdult": 2520000,
+    "adultToElder": 3240000,
+    "totalTimeToElder": 7200000
+  },
+  {
+    "animal": "Spiders",
+    "eggToChild": 9060000,
+    "childToAdolescent": 13620000,
+    "adolescentToAdult": 27240000,
+    "adultToElder": 40800000,
+    "totalTimeToElder": 90720000
+  },
+  {
+    "animal": "Zygomites",
+    "eggToChild": 0,
+    "childToAdolescent": 60480000,
+    "adolescentToAdult": 105840000,
+    "adultToElder": 136080000,
+    "totalTimeToElder": 302400000
+  },
+  {
+    "animal": "Cows",
+    "eggToChild": 0,
+    "childToAdolescent": 4320000,
+    "adolescentToAdult": 7560000,
+    "adultToElder": 9720000,
+    "totalTimeToElder": 21600000
+  },
+  {
+    "animal": "Yaks",
+    "eggToChild": 0,
+    "childToAdolescent": 48360000,
+    "adolescentToAdult": 84720000,
+    "adultToElder": 108840000,
+    "totalTimeToElder": 241920000
+  },
+  {
+    "animal": "Dragons",
+    "eggToChild": 60480000,
+    "childToAdolescent": 90720000,
+    "adolescentToAdult": 181440000,
+    "adultToElder": 272160000,
+    "totalTimeToElder": 604800000
+  },
+  {
+    "animal": "Frogs",
+    "eggToChild": 4320000,
+    "childToAdolescent": 6480000,
+    "adolescentToAdult": 12960000,
+    "adultToElder": 19440000,
+    "totalTimeToElder": 43200000
+  },
+  {
+    "animal": "Jadinkos",
+    "eggToChild": 24480000,
+    "childToAdolescent": 36720000,
+    "adolescentToAdult": 73440000,
+    "adultToElder": 110160000,
+    "totalTimeToElder": 244800000
+  },
+  {
+    "animal": "Salamanders",
+    "eggToChild": 28800000,
+    "childToAdolescent": 43200000,
+    "adolescentToAdult": 73440000,
+    "adultToElder": 129600000,
+    "totalTimeToElder": 288000000
+  },
+  {
+    "animal": "Varanusaurs",
+    "eggToChild": 39600000,
+    "childToAdolescent": 59400000,
+    "adolescentToAdult": 118800000,
+    "adultToElder": 178200000,
+    "totalTimeToElder": 396000000
+  },
+  {
+    "animal": "Arcane apoterrasaurs",
+    "eggToChild": 63036000,
+    "childToAdolescent": 94554000,
+    "adolescentToAdult": 189108000,
+    "adultToElder": 283662000,
+    "totalTimeToElder": 630360000
+  },
+  {
+    "animal": "Brutish dinosaurs",
+    "eggToChild": 64800000,
+    "childToAdolescent": 97200000,
+    "adolescentToAdult": 194400000,
+    "adultToElder": 291600000,
+    "totalTimeToElder": 648000000
+  },
+  {
+    "animal": "Scimitops",
+    "eggToChild": 68400000,
+    "childToAdolescent": 102600000,
+    "adolescentToAdult": 205200000,
+    "adultToElder": 307800000,
+    "totalTimeToElder": 684000000
+  },
+  {
+    "animal": "Bagrada rex",
+    "eggToChild": 70236000,
+    "childToAdolescent": 105354000,
+    "adolescentToAdult": 210708000,
+    "adultToElder": 316062000,
+    "totalTimeToElder": 702360000
+  },
+  {
+    "animal": "Spicati apoterrasaurs",
+    "eggToChild": 72000000,
+    "childToAdolescent": 108000000,
+    "adolescentToAdult": 216000000,
+    "adultToElder": 324000000,
+    "totalTimeToElder": 720000000
+  },
+  {
+    "animal": "Asciatops",
+    "eggToChild": 77436000,
+    "childToAdolescent": 116154000,
+    "adolescentToAdult": 232308000,
+    "adultToElder": 348462000,
+    "totalTimeToElder": 774360000
+  },
+  {
+    "animal": "Corbicula rex",
+    "eggToChild": 78336000,
+    "childToAdolescent": 117534000,
+    "adolescentToAdult": 235008000,
+    "adultToElder": 352512000,
+    "totalTimeToElder": 783360000
+  },
+  {
+    "animal": "Oculi apoterrasaurs",
+    "eggToChild": 86400000,
+    "childToAdolescent": 129600000,
+    "adolescentToAdult": 259200000,
+    "adultToElder": 388800000,
+    "totalTimeToElder": 864000000
+  },
+  {
+    "animal": "Malletops",
+    "eggToChild": 90000000,
+    "childToAdolescent": 135000000,
+    "adolescentToAdult": 270000000,
+    "adultToElder": 405000000,
+    "totalTimeToElder": 900000000
+  },
+  {
+    "animal": "Pavosaurus rex",
+    "eggToChild": 95436000,
+    "childToAdolescent": 143154000,
+    "adolescentToAdult": 286308000,
+    "adultToElder": 429462000,
+    "totalTimeToElder": 954360000
+  }
+]

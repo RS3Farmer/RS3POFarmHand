@@ -1,0 +1,12 @@
+[
+  {
+    "rank": "Competent Farmer",
+    "percentageGainIfShiny": 10,
+    "percentainGainIfNotShiny": 0
+  },
+  {
+    "rank": "Grandmaster Farmer",
+    "percentageGainIfShiny": 20,
+    "percentageGainIfNotShiny": 10
+  }
+]

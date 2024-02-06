@@ -1,0 +1,819 @@
+[
+  {
+    "animal": "Rabbit",
+    "farmingLevel": "17",
+    "xpFromEgg": 0,
+    "xpFromChild": 50,
+    "xpFromAdolescent": 87.5,
+    "xpFromAdult": 112.5,
+    "xpFromElder": 250,
+    "xpAnHourOfGrowth": 250,
+    "standardBreeds": [
+      "Common brown rabbit",
+      "Rellekkan cream rabbit",
+      "Piscatorian cottontail rabbit"
+    ],
+    "shinyBreed": "Jackalope",
+    "source": [
+      "Obtained during the tutorial and from killing rabbits",
+      "Killing bunnies in the Fremennik Province near the swaying tree.",
+      "Hunting white rabbits in Piscatoris Hunter area."
+    ],
+    "eggToChild": 0,
+    "childToAdolescent": 720000,
+    "adolescentToAdult": 1260000,
+    "adultToElder": 1620000,
+    "totalTimeToElder": 3600000,
+    "forAnimal": ["Rabbit"],
+    "penSize": "Small",
+    "perkName": ["Like Rabbits"],
+    "skill": ["Farming"],
+    "tier1Effect": ["Breeding success increased by 7% (10%)."],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Chickens",
+    "farmingLevel": "28",
+    "xpFromEgg": 125,
+    "xpFromChild": 187.5,
+    "xpFromAdolescent": 375,
+    "xpFromAdult": 562.5,
+    "xpFromElder": 1250,
+    "xpAnHourOfGrowth": 300,
+    "standardBreeds": [
+      "Common white hen",
+      "Bandosian bantam hen",
+      "Varrockian red hen",
+      "Oomlie hen",
+      "Rooster"
+    ],
+    "shinyBreed": "Lizard chicken",
+    "source": [
+      "Purchasing chicken eggs from the Farmers' Market. 50/50 chance at male/female."
+    ],
+    "eggToChild": 1500000,
+    "childToAdolescent": 2280000,
+    "adolescentToAdult": 4560000,
+    "adultToElder": 6780000,
+    "totalTimeToElder": 15000000,
+    "forAnimal": ["Hen (Chicken)", "Rooster (Chicken)"],
+    "penSize": "Small",
+    "perkName": ["Headless Chicken", "As the Rooster Crows"],
+    "skill": ["Fletching", "Combat"],
+    "tier1Effect": [
+      "A 3% (5%) chance to halve feathers used (minimum 1) when fletching arrows, darts, or bolts.",
+      "A 7% (10%) drop chance increase to receive ghostly essence while fighting enemies that drop it, for a number of kills after hearing a rooster's crow."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Sheep",
+    "farmingLevel": "35",
+    "xpFromEgg": 0,
+    "xpFromChild": 125,
+    "xpFromAdolescent": 218.75,
+    "xpFromAdult": 281.25,
+    "xpFromElder": 625,
+    "xpAnHourOfGrowth": 312.5,
+    "standardBreeds": [
+      "White ewe",
+      "Black ewe",
+      "Black ram",
+      "Summerdown ewe",
+      "Summerdown ram",
+      "Springsheared ewe",
+      "Springsheared ram",
+      "Winterwold ewe",
+      "Winterwold ram",
+      "Fallfaced ewe",
+      "Fallfaced ram",
+      "White ram"
+    ],
+    "shinyBreed": "Golden ewe / Golden ram",
+    "source": ["Purchased from the Farmers' Market."],
+    "eggToChild": 0,
+    "childToAdolescent": 1440000,
+    "adolescentToAdult": 2520000,
+    "adultToElder": 3240000,
+    "totalTimeToElder": 7200000,
+    "forAnimal": ["Ewe (Sheep)", "Ram (Sheep)"],
+    "penSize": "Medium",
+    "perkName": ["Have Ewe (Many Wool)", "Randomly Accessed Memories"],
+    "skill": ["Farming"],
+    "tier1Effect": [
+      "Gain 2 (3) pieces of wool on successful shearing.",
+      "Gain memory strands from Farming activities at 50% (75%) of the rate from Divination."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Cows",
+    "farmingLevel": "49",
+    "xpFromEgg": 0,
+    "xpFromChild": 500,
+    "xpFromAdolescent": 875,
+    "xpFromAdult": 1225,
+    "xpFromElder": 2500,
+    "xpAnHourOfGrowth": 416.5,
+    "standardBreeds": [
+      "Kandarin cow",
+      "Chocolate cow",
+      "Strawberry cow",
+      "Vanilla cow",
+      "Bull"
+    ],
+    "shinyBreed": "Harlequin cow",
+    "source": ["Purchased from the Farmers' Market."],
+    "eggToChild": 0,
+    "childToAdolescent": 4320000,
+    "adolescentToAdult": 7560000,
+    "adultToElder": 9720000,
+    "totalTimeToElder": 21600000,
+    "forAnimal": ["Cow (Cow)", "Bull (Cow)"],
+    "penSize": "Large",
+    "perkName": ["Milky, Milky", "Bully for You"],
+    "skill": ["Cooking", "Farming"],
+    "tier1Effect": [
+      "All Cooking XP earned from churning is at 2x (4x) normal.",
+      "A 1-in-5 (1-in-3) chance to save 50% of unprocessed compost that would be consumed when a compost bin creates finished compost."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Chinchompas",
+    "farmingLevel": "54",
+    "xpFromEgg": 0,
+    "xpFromChild": 3000,
+    "xpFromAdolescent": 5250,
+    "xpFromAdult": 6750,
+    "xpFromElder": 15000,
+    "xpAnHourOfGrowth": 357,
+    "standardBreeds": [
+      "Grey chinchompa",
+      "Carnivorous chinchompa",
+      "Cobalt chinchompa",
+      "Viridian chinchompa",
+      "Azure chinchompa",
+      "Crimson chinchompa",
+      "Crystal chinchompa"
+    ],
+    "shinyBreed": "Golden Chinchompa",
+    "source": [
+      "Hunting chinchompas.",
+      "Hunting carnivorous chinchompas.",
+      "Hunting cobalt skillchompas.",
+      "Hunting viridian skillchompas.",
+      "Hunting azure skillchompas.",
+      "Hunting crimson skillchompas.",
+      "Hunting crystal skillchompas."
+    ],
+    "eggToChild": 0,
+    "childToAdolescent": 30240000,
+    "adolescentToAdult": 52920000,
+    "adultToElder": 68040000,
+    "totalTimeToElder": 151200000,
+    "forAnimal": ["Chinchompa"],
+    "penSize": "Small",
+    "perkName": ["If Chins Could Skill"],
+    "skill": ["Skills"],
+    "tier1Effect": [
+      "A 3% (5%) chance to not lose a skillchompa when using them."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Spiders",
+    "farmingLevel": "64",
+    "xpFromEgg": 1000,
+    "xpFromChild": 1500,
+    "xpFromAdolescent": 3000,
+    "xpFromAdult": 4500,
+    "xpFromElder": 10000,
+    "xpAnHourOfGrowth": 400,
+    "standardBreeds": [
+      "Spirit spider",
+      "Night spider",
+      "Corpse spider",
+      "Fever spider",
+      "Giant spider",
+      "Ice spider"
+    ],
+    "shinyBreed": "Araxyte spider",
+    "source": [
+      "Spiders around Gielinor may drop a spider egg when killed. Upon checking it will become a spirit spider.",
+      "Night spider ",
+      "Corpse spider",
+      "Fever spider ",
+      "Giant spider",
+      "Ice spider ",
+      "Obtained as a very rare drop from killing Araxxi if at least tier-1 spider perk is active at the farm."
+    ],
+    "eggToChild": 9060000,
+    "childToAdolescent": 13620000,
+    "adolescentToAdult": 27240000,
+    "adultToElder": 40800000,
+    "totalTimeToElder": 90720000,
+    "forAnimal": ["Spider"],
+    "penSize": "Medium",
+    "perkName": ["NopeNopeNope"],
+    "skill": "Combat",
+    "tier1Effect": [
+      "Increases damage against all spiders by 2% (3%) (including Araxxor/Araxxi)."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Yaks",
+    "farmingLevel": "71",
+    "xpFromEgg": 0,
+    "xpFromChild": 6500,
+    "xpFromAdolescent": 11375,
+    "xpFromAdult": 14625,
+    "xpFromElder": 32500,
+    "xpAnHourOfGrowth": 485,
+    "standardBreeds": ["Fremennik yak", "Spirit yak"],
+    "shinyBreed": "Sacred yak",
+    "source": ["Killing yaks on Neitiznot", "Making pack yak pouches"],
+    "eggToChild": 0,
+    "childToAdolescent": 48360000,
+    "adolescentToAdult": 84720000,
+    "adultToElder": 108840000,
+    "totalTimeToElder": 241920000,
+    "forAnimal": ["Yak"],
+    "penSize": "Large",
+    "perkName": ["Nigel's Gift"],
+    "skill": ["Farming"],
+    "tier1Effect": [
+      "A 1/50 (1/40) chance to find a clue scroll either when checking health in, or harvesting the last crop from any patch."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Zygomites",
+    "farmingLevel": "81",
+    "xpFromEgg": 0,
+    "xpFromChild": 8000,
+    "xpFromAdolescent": 14000,
+    "xpFromAdult": 18000,
+    "xpFromElder": 40000,
+    "xpAnHourOfGrowth": 476,
+    "standardBreeds": [
+      "Gloomshroom zygomite",
+      "Zanarian zygomite",
+      "Daemoncap zygomite",
+      "Arcspore zygomite"
+    ],
+    "shinyBreed": "Magical zygomite",
+    "source": [
+      "Harvesting morchella, bittercap, and Arc Mushroom cluster, harvesting Mort Myre fungus[Chance 4], as well as Zygomite Carestyling."
+    ],
+    "eggToChild": 0,
+    "childToAdolescent": 60480000,
+    "adolescentToAdult": 105840000,
+    "adultToElder": 136080000,
+    "totalTimeToElder": 302400000,
+    "forAnimal": ["Zygomite"],
+    "penSize": "Medium",
+    "perkName": ["Uncapped Potential"],
+    "skill": ["Farming"],
+    "tier1Effect": [
+      "A 7% (10%) chance to yield an additional mushroom when gathering them from patches, clusters, or bloomed logs."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Dragons",
+    "farmingLevel": "92",
+    "xpFromEgg": 10000,
+    "xpFromChild": 15000,
+    "xpFromAdolescent": 3000,
+    "xpFromAdult": 45000,
+    "xpFromElder": 100000,
+    "xpAnHourOfGrowth": 595,
+    "standardBreeds": [
+      "Green dragon",
+      "Blue dragon",
+      "Red dragon",
+      "Black dragon"
+    ],
+    "shinyBreed": "Royal dragon",
+    "source": [
+      "Killing green dragons.",
+      "Killing blue dragons.",
+      "Killing red dragons.",
+      "Killing black dragons (King Black Dragon and Queen Black Dragon included) and from Wilderness Flash Event rewards."
+    ],
+    "eggToChild": 4320000,
+    "childToAdolescent": 6480000,
+    "adolescentToAdult": 181440000,
+    "adultToElder": 272160000,
+    "totalTimeToElder": 604800000,
+    "forAnimal": ["Dragon"],
+    "penSize": "Large",
+    "perkName": ["Dragon Ultra Combo"],
+    "skill": ["Farming"],
+    "tier1Effect": [
+      "A 1/1000 (1/750) chance to get an ancient effigy while checking a fully-grown Farming patch, only if ultracompost is used."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Frog",
+    "farmingLevel": "42",
+    "xpFromEgg": 500,
+    "xpFromChild": 750,
+    "xpFromAdolescent": 1500,
+    "xpFromAdult": 2250,
+    "xpFromElder": 5000,
+    "xpAnHourOfGrowth": 416.17,
+    "standardBreeds": [
+      "Common green frog",
+      "Phantasmal poison frog",
+      "Sky-blue poison frog",
+      "Golden poison frog"
+    ],
+    "shinyBreed": "Cactoad",
+    "source": ["Purchased from Farmers' Market."],
+    "eggToChild": 4320000,
+    "childToAdolescent": 6480000,
+    "adolescentToAdult": 12960000,
+    "adultToElder": 19440000,
+    "totalTimeToElder": 43200000,
+    "forAnimal": ["Frog"],
+    "penSize": "Small",
+    "perkName": ["Flycatcher"],
+    "skill": ["Farming"],
+    "tier1Effect": ["Yield from stinkshrooms is doubled."],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Salamander",
+    "farmingLevel": "102",
+    "xpFromEgg": 3000,
+    "xpFromChild": 4500,
+    "xpFromAdolescent": 9000,
+    "xpFromAdult": 13500,
+    "xpFromElder": 30000,
+    "xpAnHourOfGrowth": 375,
+    "standardBreeds": [
+      "Green salamander",
+      "Red salamander",
+      "Orange salamander",
+      "Black salamander"
+    ],
+    "shinyBreed": "Wytchfire salamander",
+    "source": ["Purchased from Farmers' Market."],
+    "eggToChild": 28800000,
+    "childToAdolescent": 43200000,
+    "adolescentToAdult": 73440000,
+    "adultToElder": 129600000,
+    "totalTimeToElder": 288000000,
+    "forAnimal": ["Salamander"],
+    "penSize": "102",
+    "perkName": ["La La La La"],
+    "skill": ["Hunter"],
+    "tier1Effect": ["XP gained from catching salamanders is increased by 5%."],
+    "tier2Effect": [""]
+  },
+
+  {
+    "animal": "Jadinko",
+    "farmingLevel": "76",
+    "xpFromEgg": 3000,
+    "xpFromChild": 4500,
+    "xpFromAdolescent": 9000,
+    "xpFromAdult": 13500,
+    "xpFromElder": 30000,
+    "xpAnHourOfGrowth": 441.18,
+    "standardBreeds": [
+      "Amphibious jadinko",
+      "Aquatic jadinko",
+      "Camouflaged jadinko",
+      "Cannibal jadinko",
+      "Carrion jadinko",
+      "Common jadinko",
+      "Diseased jadinko",
+      "Draconic jadinko",
+      "Igneous jadinko",
+      "Shadow jadinko"
+    ],
+    "shinyBreed": "Luminous jadinko",
+    "source": [
+      "Hunting amphibious jadinkos.",
+      "Hunting aquatic jadinkos.",
+      "Hunting camouflaged jadinkos.",
+      "Hunting cannibal jadinkos.",
+      "Hunting carrion jadinkos.",
+      "Hunting common jadinkos.",
+      "Hunting diseased jadinkos.[",
+      "Hunting draconic jadinkos.",
+      "Hunting igneous jadinkos.",
+      "Hunting shadow jadinkos."
+    ],
+    "eggToChild": 24480000,
+    "childToAdolescent": 36720000,
+    "adolescentToAdult": 73440000,
+    "adultToElder": 110160000,
+    "totalTimeToElder": 244800000,
+    "forAnimal": ["Jadinko"],
+    "penSize": "Medium",
+    "perkName": ["The Old Black Magic"],
+    "skill": ["Skills"],
+    "tier1Effect": [
+      "Increases the duration of juju potions by 30 seconds when consumed."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Varanusaur",
+    "farmingLevel": "97",
+    "xpFromEgg": 5500,
+    "xpFromChild": 8250,
+    "xpFromAdolescent": 16500,
+    "xpFromAdult": 24750,
+    "xpFromElder": 55000,
+    "xpAnHourOfGrowth": 500,
+    "standardBreeds": [
+      "Feral dinosaur",
+      "Venomous dinosaur",
+      "Ripper dinosaur"
+    ],
+    "shinyBreed": "Hypnotic dinosaur",
+    "source": [
+      "Killing Feral Dinosaurs.",
+      "Collecting the pile of dinosaur eggs.",
+      "Possible reward from crafting stations at Dream of Iaia.",
+      "Killing venomous dinosaurs.",
+      "Killing ripper dinosaurs."
+    ],
+    "eggToChild": 39600000,
+    "childToAdolescent": 59400000,
+    "adolescentToAdult": 118800000,
+    "adultToElder": 178200000,
+    "totalTimeToElder": 396000000,
+    "forAnimal": ["Varanusaur"],
+    "penSize": "97",
+    "perkName": ["Envenomed"],
+    "skill": ["Herblore"],
+    "tier1Effect": [
+      "10% chance to make 4 doses instead of 3 doses when mixing weapon poison or antipoison potions."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "animal": "Arcane apoterrasaur",
+    "farmingLevel": "98",
+    "xpFromEgg": 10500,
+    "xpFromChild": 15750,
+    "xpFromAdolescent": 31500,
+    "xpFromAdult": 47250,
+    "xpFromElder": 105000,
+    "xpAnHourOfGrowth": 599.66,
+    "standardBreeds": [
+      "Arcane apoterrasaur",
+      "Arcane apoterrasaur natura",
+      "Arcane apoterrasaur iratum"
+    ],
+    "shinyBreed": "Arcane apoterrasaur lucidum",
+    "source": [
+      "Hunting arcane apoterrasaurs.",
+      "Collecting the pile of dinosaur eggs.",
+      "Possible reward from crafting stations at Dream of Iaia."
+    ],
+    "eggToChild": 63036000,
+    "childToAdolescent": 94554000,
+    "adolescentToAdult": 189108000,
+    "adultToElder": 283662000,
+    "totalTimeToElder": 630360000,
+    "forAnimal": ["Arcane apoterrasaur"],
+    "penSize": "Large",
+    "perkName": ["Arcane Elements"],
+    "skill": ["Runecrafting"],
+    "tier1Effect": [
+      "Increases your 'runes per essence' multiplier by 1 while crafting elemental runes."
+    ],
+    "tier2Effect": [
+      "Increases your 'runes per essence' multiplier by 2 while crafting elemental runes."
+    ]
+  },
+  {
+    "animal": "Brutish dinosaur",
+    "farmingLevel": "100",
+    "xpFromEgg": 11000,
+    "xpFromChild": 16500,
+    "xpFromAdolescent": 33000,
+    "xpFromAdult": 49500,
+    "xpFromElder": 110000,
+    "xpAnHourOfGrowth": 611.11,
+    "standardBreeds": ["Brutish dinosaur", "Forest dinosaur", "Beach dinosaur"],
+    "shinyBreed": "Magnificent dinosaur",
+    "source": [
+      "Killing brutish dinosaurs.",
+      "Collecting the pile of dinosaur eggs.",
+      "Possible reward from crafting stations at Dream of Iaia."
+    ],
+    "eggToChild": 64800000,
+    "childToAdolescent": 97200000,
+    "adolescentToAdult": 194400000,
+    "adultToElder": 291600000,
+    "totalTimeToElder": 648000000,
+    "forAnimal": ["Brutish dinosaur"],
+    "penSize": 100,
+    "perkName": ["Stubborn"],
+    "skill": ["Combat"],
+    "tier1Effect": [
+      "Increases each heal from Regenerate to 3% of your maximum life points."
+    ],
+    "tier2Effect": [
+      "Increases each heal from Regenerate to 4% of your maximum life points."
+    ]
+  },
+  {
+    "animal": "Scimitops",
+    "farmingLevel": "104",
+    "xpFromEgg": 12500,
+    "xpFromChild": 18000,
+    "xpFromAdolescent": 35500,
+    "xpFromAdult": 54000,
+    "xpFromElder": 120000,
+    "xpAnHourOfGrowth": 631.58,
+    "standardBreeds": [
+      "Scimitops",
+      "Scimitops palus",
+      "Scimitops blavum",
+      "Scimitops lucidum"
+    ],
+    "shinyBreed": "Scimitops lucidum",
+    "source": [
+      "Hunting scimitops",
+      "Collecting the pile of dinosaur eggs",
+      "Possible reward from crafting stations at Dream of Iaia"
+    ],
+    "eggToChild": 68400000,
+    "childToAdolescent": 102600000,
+    "adolescentToAdult": 205200000,
+    "adultToElder": 307800000,
+    "totalTimeToElder": 684000000,
+    "forAnimal": ["Scimitops"],
+    "penSize": 104,
+    "perkName": ["Living Mountain"],
+    "skill": ["Mining"],
+    "tier1Effect": [
+      "Increases the chance of finding a geode while Mining by 1%."
+    ],
+    "tier2Effect": [
+      "Increases the chance of finding a geode while Mining by 2%."
+    ]
+  },
+  {
+    "animal": "Bagrada rex",
+    "farmingLevel": "106",
+    "xpFromEgg": 12500,
+    "xpFromChild": 18750,
+    "xpFromAdolescent": 37500,
+    "xpFromAdult": 56250,
+    "xpFromElder": 125000,
+    "xpAnHourOfGrowth": 640.7,
+    "standardBreeds": [
+      "Bagrada rex",
+      "Bagrada nemus",
+      "Bagrada purpura",
+      "Bagrada lucidum"
+    ],
+    "shinyBreed": "Bagrada lucidum",
+    "source": [
+      "Hunting bagrada rex or killing Orikalka",
+      "Collecting the pile of dinosaur eggs",
+      "Possible reward from crafting stations at Dream of Iaia"
+    ],
+    "eggToChild": 70236000,
+    "childToAdolescent": 105354000,
+    "adolescentToAdult": 210708000,
+    "adultToElder": 316062000,
+    "totalTimeToElder": 702360000,
+    "forAnimal": ["Bagrada rex"],
+    "penSize": 106,
+    "perkName": ["King of Beasts"],
+    "skill": ["Combat"],
+    "tier1Effect": ["5% chance to conserve a bomb when thrown."],
+    "tier2Effect": ["10% chance to conserve a bomb when thrown."]
+  },
+  {
+    "animal": "Spicati apoterrasaur",
+    "farmingLevel": "108",
+    "xpFromEgg": 13000,
+    "xpFromChild": 19500,
+    "xpFromAdolescent": 39000,
+    "xpFromAdult": 58500,
+    "xpFromElder": 130000,
+    "xpAnHourOfGrowth": 650,
+    "standardBreeds": [
+      "Spicati apoterrasaur",
+      "Spicati apoterrasaur tilia",
+      "Spicati apoterrasaur purpura",
+      "Spicati apoterrasaur lucidum"
+    ],
+    "shinyBreed": "Spicati apoterrasaur lucidum",
+    "source": [
+      "Hunting spicati apoterrasaurs",
+      "Collecting the pile of dinosaur eggs",
+      "Possible reward from crafting stations at Dream of Iaia"
+    ],
+    "eggToChild": 72000000,
+    "childToAdolescent": 108000000,
+    "adolescentToAdult": 216000000,
+    "adultToElder": 324000000,
+    "totalTimeToElder": 720000000,
+    "forAnimal": ["Spicati apoterrasaur"],
+    "penSize": 108,
+    "perkName": ["Butterfly Effect"],
+    "skill": ["Farming"],
+    "tier1Effect": [
+      "There is a small chance of spawning a Guthixian butterfly when gathering produce from adolescent, adult, and elder animals."
+    ],
+    "tier2Effect": [
+      "There is a small chance of spawning a Guthixian butterfly when gathering produce from adolescent, adult, and elder animals."
+    ]
+  },
+  {
+    "animal": "Asciatops",
+    "farmingLevel": "110",
+    "xpFromEgg": 14000,
+    "xpFromChild": 21000,
+    "xpFromAdolescent": 42000,
+    "xpFromAdult": 63000,
+    "xpFromElder": 140000,
+    "xpAnHourOfGrowth": 650.86,
+    "standardBreeds": [
+      "Asciatops",
+      "Asciatops acta",
+      "Asciatops aurum",
+      "Asciatops lucidum"
+    ],
+    "shinyBreed": "Asciatops lucidum",
+    "source": [
+      "Hunting asciatops",
+      "Collecting the pile of dinosaur eggs",
+      "Possible reward from crafting stations at Dream of Iaia"
+    ],
+    "eggToChild": 77436000,
+    "childToAdolescent": 116154000,
+    "adolescentToAdult": 232308000,
+    "adultToElder": 348462000,
+    "totalTimeToElder": 774360000,
+    "forAnimal": ["Asciatops"],
+    "penSize": 110,
+    "perkName": ["Powerful Beast"],
+    "skill": ["Mining"],
+    "tier1Effect": [
+      "Increases the chance of a critical swing while Mining by 3%."
+    ],
+    "tier2Effect": [
+      "Increases the chance of a critical swing while Mining by 6%."
+    ]
+  },
+  {
+    "animal": "Corbicula rex",
+    "farmingLevel": "112",
+    "xpFromEgg": 15000,
+    "xpFromChild": 22500,
+    "xpFromAdolescent": 45000,
+    "xpFromAdult": 67500,
+    "xpFromElder": 150000,
+    "xpAnHourOfGrowth": 666.37,
+    "standardBreeds": [
+      "Corbicula rex",
+      "Corbicula gelum",
+      "Corbicula malum",
+      "Corbicula lucidum"
+    ],
+    "shinyBreed": "Corbicula lucidum",
+    "source": [
+      "Hunting corbicula rex or killing Rathis",
+      "Collecting the pile of dinosaur eggs",
+      "Possible reward from crafting stations at Dream of Iaia"
+    ],
+    "eggToChild": 78336000,
+    "childToAdolescent": 117534000,
+    "adolescentToAdult": 235008000,
+    "adultToElder": 352512000,
+    "totalTimeToElder": 783360000,
+    "forAnimal": ["Corbicula rex"],
+    "penSize": 112,
+    "perkName": ["No Fear"],
+    "skill": ["Combat"],
+    "tier1Effect": [
+      "Increases the critical hit chance of Meteor Strike by 20%."
+    ],
+    "tier2Effect": [
+      "Increases the critical hit chance of Meteor Strike by 40%."
+    ]
+  },
+  {
+    "animal": "Oculi apoterrasaur",
+    "farmingLevel": "115",
+    "xpFromEgg": 16100,
+    "xpFromChild": 24150,
+    "xpFromAdolescent": 48300,
+    "xpFromAdult": 74250,
+    "xpFromElder": 162800,
+    "xpAnHourOfGrowth": 670.83,
+    "standardBreeds": [
+      "Oculi apoterrasaur",
+      "Oculi apoterrasaur oceanum",
+      "Oculi apoterrasaur glacies",
+      "Oculi apoterrasaur lucidum"
+    ],
+    "shinyBreed": "Oculi apoterrasaur lucidum",
+    "source": [
+      "Hunting oculi apoterrasaurs",
+      "Collecting the pile of dinosaur eggs",
+      "Possible reward from crafting stations at Dream of Iaia"
+    ],
+    "eggToChild": 86400000,
+    "childToAdolescent": 129600000,
+    "adolescentToAdult": 259200000,
+    "adultToElder": 388800000,
+    "totalTimeToElder": 864000000,
+    "forAnimal": ["Oculi apoterrasaur"],
+    "penSize": 115,
+    "perkName": ["Steak Out"],
+    "skill": ["Hunter"],
+    "tier1Effect": [
+      "A 3% chance of receiving an extra piece of meat when skinning a Big Game Hunter creature."
+    ],
+    "tier2Effect": [
+      "A 5% chance of receiving an extra piece of meat when skinning a Big Game Hunter creature."
+    ]
+  },
+  {
+    "animal": "Malletops",
+    "farmingLevel": "117",
+    "xpFromEgg": 17500,
+    "xpFromChild": 26250,
+    "xpFromAdolescent": 52500,
+    "xpFromAdult": 78750,
+    "xpFromElder": 175000,
+    "xpAnHourOfGrowth": 700,
+    "standardBreeds": [
+      "Malletops",
+      "Malletops palus",
+      "Malletops purpura",
+      "Malletops lucidum"
+    ],
+    "shinyBreed": "Malletops lucidum",
+    "source": [
+      "Hunting malletops",
+      "Collecting the pile of dinosaur eggs",
+      "Possible reward from crafting stations at Dream of Iaia"
+    ],
+    "eggToChild": 90000000,
+    "childToAdolescent": 135000000,
+    "adolescentToAdult": 270000000,
+    "adultToElder": 405000000,
+    "totalTimeToElder": 900000000,
+    "forAnimal": ["Malletops"],
+    "penSize": 117,
+    "perkName": ["Armoured Hide"],
+    "skill": ["Combat"],
+    "tier1Effect": [
+      "Increases the duration of Barricade by 1.8 seconds (3 ticks)."
+    ],
+    "tier2Effect": [
+      "Increases the duration of Barricade by 3.6 seconds (6 ticks)."
+    ]
+  },
+  {
+    "animal": "Pavosaurus rex",
+    "farmingLevel": "118",
+    "xpFromEgg": 19000,
+    "xpFromChild": 28500,
+    "xpFromAdolescent": 57000,
+    "xpFromAdult": 85500,
+    "xpFromElder": 190000,
+    "xpAnHourOfGrowth": 716.71,
+    "standardBreeds": [
+      "Pavosaurus rex",
+      "Pavosaurus nemus",
+      "Pavosaurus desertum",
+      "Pavosaurus lucidum"
+    ],
+    "shinyBreed": "Pavosaurus lucidum",
+    "source": [
+      "Hunting pavosaurus rex or killing Pthentraken",
+      "Collecting the pile of dinosaur eggs",
+      "Possible reward from crafting stations at Dream of Iaia"
+    ],
+    "eggToChild": 95436000,
+    "childToAdolescent": 143154000,
+    "adolescentToAdult": 286308000,
+    "adultToElder": 429462000,
+    "totalTimeToElder": 954360000,
+    "forAnimal": ["Pavosaurus rex"],
+    "penSize": 118,
+    "perkName": ["Rep-tile"],
+    "skill": ["Farming"],
+    "tier1Effect": ["All Farming Guild reputation gains are increased by 5%."],
+    "tier2Effect": ["All Farming Guild reputation gains are increased by 10%."]
+  }
+]

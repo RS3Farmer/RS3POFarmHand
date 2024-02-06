@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Potato Seed",
+    "growthTime": 2400000,
+    "checkHealth": false,
+    "plantExperience": 8,
+    "harvestExperience": 9,
+    "totalAssumedExperience": 98,
+    "uses": ["Cooking ingredient", "Payment to protect onion plants"]
+  },
+  {
+    "name": "Onion Seed",
+    "growthTime": 2400000,
+    "checkHealth": false,
+    "plantExperience": 9.5,
+    "harvestExperience": 10.5,
+    "totalAssumedExperience": 114.5,
+    "uses": [
+      "Cooking ingredient",
+      "Payment to protect cabbage plants and asgarnian hops"
+    ]
+  },
+  {
+    "name": "Cabbage Seed",
+    "growthTime": 2400000,
+    "checkHealth": false,
+    "plantExperience": 10,
+    "harvestExperience": 11.5,
+    "totalAssumedExperience": 125,
+    "uses": [
+      "Garden pie ingredient",
+      "Payment to protect tomato plants, krandorian hops, and redberry bush"
+    ]
+  },
+  {
+    "name": "Tomato Seed",
+    "growthTime": 2400000,
+    "checkHealth": false,
+    "plantExperience": 12.5,
+    "harvestExperience": 14,
+    "totalAssumedExperience": 152.5,
+    "uses": [
+      "Pizza ingredient",
+      "Payment to protect yanillian hops, oak tree, and cadavaberry bush"
+    ]
+  },
+  {
+    "name": "Sweetcorn Seed",
+    "growthTime": 3000000,
+    "checkHealth": false,
+    "plantExperience": 17,
+    "harvestExperience": 19,
+    "totalAssumedExperience": 207,
+    "uses": ["Cooking ingredient", "Payment to protect apple tree"]
+  },
+  {
+    "name": "Strawberry Seed",
+    "growthTime": 3600000,
+    "checkHealth": false,
+    "plantExperience": 26,
+    "harvestExperience": 29,
+    "totalAssumedExperience": 316,
+    "uses": [
+      "Summer pie ingredient",
+      "Payment to protect dwellberry bush and orange tree"
+    ]
+  },
+  {
+    "name": "Watermelon Seed",
+    "growthTime": 4200000,
+    "checkHealth": false,
+    "plantExperience": 48.5,
+    "harvestExperience": 54.5,
+    "totalAssumedExperience": 593.5,
+    "uses": [
+      "Summer pie ingredient",
+      "Used to make scarecrow",
+      "Payment to protect jangerberry bush, pineapple tree, and potato cactus patch"
+    ]
+  },
+  {
+    "name": "Snape Grass Seed",
+    "growthTime": 12000000,
+    "checkHealth": false,
+    "plantExperience": 175,
+    "harvestExperience": 80,
+    "totalAssumedExperience": 975,
+    "uses": ["Herblore ingredient"]
+  },
+  {
+    "name": "Sunchoke Seed",
+    "growthTime": 12000000,
+    "checkHealth": false,
+    "plantExperience": 208,
+    "harvestExperience": 95,
+    "totalAssumedExperience": 303,
+    "uses": ["Strength experience"]
+  },
+  {
+    "name": "Fly Trap Seed",
+    "growthTime": 12000000,
+    "checkHealth": false,
+    "plantExperience": 225,
+    "harvestExperience": 50,
+    "totalAssumedExperience": 275,
+    "uses": ["Thieving experience"]
+  }
+]

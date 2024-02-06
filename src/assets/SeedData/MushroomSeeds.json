@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Bittercap Mushroom Seed",
+    "growthTime": 14400000,
+    "checkHealth": false,
+    "plantExperience": 61.5,
+    "harvestExperience": 57.7,
+    "totalAssumedExperience": 407.7,
+    "uses": [
+      "Cooking ingredient",
+      "Moonlight Mead ingredient",
+      "Repairing the fairy rings in Ancient Cavern (Code: BJQ), Kharazi Jungle (Code: CJS), and The Lost Grove (Code: BJS)"
+    ]
+  },
+  {
+    "name": "Morchella Mushroom Seed",
+    "growthTime": 14400000,
+    "checkHealth": false,
+    "plantExperience": 160,
+    "harvestExperience": 77.7,
+    "totalAssumedExperience": 859.3,
+    "uses": ["Prayer renewal ingredient"]
+  },
+  {
+    "name": "Stinkshroom Seed",
+    "growthTime": 14400000,
+    "checkHealth": false,
+    "plantExperience": 500,
+    "harvestExperience": 8576.6,
+    "totalAssumedExperience": 8576.6,
+    "uses": ["Making buggy mush"]
+  },
+  {
+    "name": "Tombshroom Seed",
+    "growthTime": 14400000,
+    "checkHealth": false,
+    "plantExperience": 650,
+    "harvestExperience": 9032.4,
+    "totalAssumedExperience": 9682.4,
+    "uses": ["Summoning renewal ingredient", "Payment to protect guarana"]
+  }
+]

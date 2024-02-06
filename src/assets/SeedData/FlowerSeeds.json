@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Marigold Seed",
+    "growthTime": 300000,
+    "checkHealth": false,
+    "plantExperience": 8.5,
+    "harvestExperience": 47,
+    "totalAssumedExperience": 55.5,
+    "uses": [
+      "Creating Bull ant pouch",
+      "Protecting potato, onion, and tomato plants",
+      "Payment to protect hammerstone hops"
+    ]
+  },
+  {
+    "name": "Rosemary Seed",
+    "growthTime": 300000,
+    "checkHealth": false,
+    "plantExperience": 12,
+    "harvestExperience": 66.5,
+    "totalAssumedExperience": 78.5,
+    "uses": ["Making Impling jars", "Protecting cabbage plants"]
+  },
+  {
+    "name": "Nasturtium Seed",
+    "growthTime": 300000,
+    "checkHealth": false,
+    "plantExperience": 19.5,
+    "harvestExperience": 111,
+    "totalAssumedExperience": 130.5,
+    "uses": ["Making Imp repellent", "Protecting watermelon plants"]
+  },
+  {
+    "name": "Woad Seed",
+    "growthTime": 300000,
+    "checkHealth": false,
+    "plantExperience": 20.5,
+    "harvestExperience": 115.5,
+    "totalAssumedExperience": 136,
+    "uses": ["Making Blue dye"]
+  },
+  {
+    "name": "Limpwurt Seed",
+    "growthTime": 300000,
+    "checkHealth": true,
+    "plantExperience": 21.5,
+    "harvestExperience": 120,
+    "totalAssumedExperience": 160,
+    "uses": ["Strength and super strength potion ingredient"]
+  },
+  {
+    "name": "White Lily Seed",
+    "growthTime": 1200000,
+    "checkHealth": false,
+    "plantExperience": 70,
+    "harvestExperience": 250,
+    "totalAssumedExperience": 320,
+    "uses": ["Protects all allotment plants"]
+  },
+  {
+    "name": "Butterfly Flower Seed",
+    "growthTime": 300000,
+    "checkHealth": false,
+    "plantExperience": 210,
+    "harvestExperience": 280,
+    "totalAssumedExperience": 490,
+    "uses": ["Forge regent pouch ingredient"]
+  }
+]

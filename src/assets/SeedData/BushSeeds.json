@@ -1,0 +1,103 @@
+[
+  {
+    "name": "Redberry Seed",
+    "growthTime": 1200000,
+    "checkHealth": true,
+    "plantExperience": 11.5,
+    "harvestExperience": 64,
+    "totalAssumedExperience": 93.5,
+    "uses": [
+      "Redberry pie ingredient",
+      "Making red dye",
+      "Ranging potion ingredient"
+    ]
+  },
+  {
+    "name": "Cadavaberry Seed",
+    "growthTime": 2400000,
+    "checkHealth": true,
+    "plantExperience": 18,
+    "harvestExperience": 102.5,
+    "totalAssumedExperience": 148.5,
+    "uses": [
+      "Making Cadava potion",
+      "Payment to protect Cactus",
+      "Necromancy potion Ingredient"
+    ]
+  },
+  {
+    "name": "Dwellberry Seed",
+    "growthTime": 2800000,
+    "checkHealth": true,
+    "plantExperience": 31.5,
+    "harvestExperience": 177.5,
+    "totalAssumedExperience": 257,
+    "uses": ["Quest item - Plague City", "Cooking ingredient"]
+  },
+  {
+    "name": "Jangerberry Seed",
+    "growthTime": 3200000,
+    "checkHealth": true,
+    "plantExperience": 50.5,
+    "harvestExperience": 284.5,
+    "totalAssumedExperience": 411,
+    "uses": ["Quest item - Watchtower", "Zamorak brew ingredient"]
+  },
+  {
+    "name": "Whiteberry Seed",
+    "growthTime": 3600000,
+    "checkHealth": true,
+    "plantExperience": 78,
+    "harvestExperience": 437.5,
+    "totalAssumedExperience": 631.5,
+    "uses": [
+      "Quest item - The Hand in the Sand",
+      "Defence and super defence potion ingredient"
+    ]
+  },
+  {
+    "name": "Poison ivy Seed",
+    "growthTime": 3600000,
+    "checkHealth": true,
+    "plantExperience": 120,
+    "harvestExperience": 675,
+    "totalAssumedExperience": 975,
+    "uses": ["Weapon poison++ ingredient"]
+  },
+  {
+    "name": "Barberry Seed",
+    "growthTime": 7200000,
+    "checkHealth": true,
+    "plantExperience": 175,
+    "harvestExperience": 1600,
+    "totalAssumedExperience": 1825,
+    "uses": ["Agility experience"]
+  },
+  {
+    "name": "Avocado Seed",
+    "growthTime": 24000000,
+    "checkHealth": true,
+    "plantExperience": 450,
+    "harvestExperience": 3957.4,
+    "totalAssumedExperience": 5947.8,
+    "uses": ["Making primal fruit pulp", "Payment to protect Mango"]
+  },
+  {
+    "name": "Mango Seed",
+    "growthTime": 24000000,
+    "checkHealth": true,
+    "plantExperience": 540,
+    "harvestExperience": 4774.2,
+    "totalAssumedExperience": 7105.4,
+    "uses": ["Making primal fruit pulp", "Making primal dessert"]
+  },
+  {
+    "name": "Lychee Seed",
+    "growthTime": 24000000,
+    "checkHealth": true,
+    "plantExperience": 720,
+    "harvestExperience": 7049.7,
+    "totalAssumedExperience": 10175.3,
+    "uses": ["Making primal fruit pulp"]
+  }
+]

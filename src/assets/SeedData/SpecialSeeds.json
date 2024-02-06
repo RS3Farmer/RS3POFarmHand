@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Evil Turnip Seed",
+    "growthTime": 270000,
+    "checkHealth": false,
+    "plantExperience": 41,
+    "harvestExperience": 46,
+    "totalAssumedExperience": 87,
+    "uses": ["Creating evil turnip pouch"]
+  },
+  {
+    "name": "Jade Vine Seed",
+    "growthTime": 57600000,
+    "checkHealth": true,
+    "plantExperience": 50,
+    "harvestExperience": 30,
+    "totalAssumedExperience": 1580,
+    "uses": ["Killing the Wild Jade Vine for Slayer experience"]
+  },
+  {
+    "name": "Cave Nightshade Seed",
+    "growthTime": 19200000,
+    "checkHealth": false,
+    "plantExperience": 91,
+    "harvestExperience": 512,
+    "totalAssumedExperience": 603,
+    "uses": ["Weapon poison++ ingredient"]
+  },
+  {
+    "name": "Spirit Seed",
+    "growthTime": 211200000,
+    "checkHealth": true,
+    "plantExperience": 199.5,
+    "harvestExperience": 0,
+    "totalAssumedExperience": 19501.3,
+    "uses": ["Spirit tree network"]
+  },
+  {
+    "name": "Elder Seed",
+    "growthTime": 252000000,
+    "checkHealth": true,
+    "plantExperience": 321,
+    "harvestExperience": 0,
+    "totalAssumedExperience": 23562,
+    "uses": ["Source of elder logs"]
+  },
+  {
+    "name": "Money Tree Seed",
+    "growthTime": 172800000,
+    "checkHealth": true,
+    "plantExperience": 1000,
+    "harvestExperience": 0,
+    "totalAssumedExperience": 61000,
+    "uses": ["Source of money (Between 999,999 and 1,500,000)"]
+  }
+]

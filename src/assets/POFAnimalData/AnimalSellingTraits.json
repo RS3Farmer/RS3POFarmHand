@@ -1,0 +1,32 @@
+[
+  {
+    "traitName": "Nice but Dim",
+    "beansLossGainPercentage": -10,
+    "description": "Generous with experience but less popular with farmers and is not so good with materials on harvesting."
+  },
+  {
+    "traitName": "Surly",
+    "beansLossGainPercentage": -5,
+    "description": "This animal is unpleasant and so worth fewer beans."
+  },
+  {
+    "traitName": "Limited Efficiency",
+    "beansLossGainPercentage": -3,
+    "description": "Harvesting this animal will award more materials but at the cost of lower experience and bean value."
+  },
+  {
+    "traitName": "Lucky",
+    "beansLossGainPercentage": 2,
+    "description": "This animal is worth more beans when sold."
+  },
+  {
+    "traitName": "Unlucky for Some",
+    "beansLossGainPercentage": 3,
+    "description": "Other farmers will happily purchase this animal, but it's not so good for experience or materials."
+  },
+  {
+    "traitName": "Fortunate",
+    "beansLossGainPercentage": 5,
+    "description": "This animal is considered very special and farmers will pay more beans for it."
+  }
+]

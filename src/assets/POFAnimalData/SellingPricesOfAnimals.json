@@ -1,0 +1,209 @@
+[
+  {
+    "animal": "Rabbit",
+    "eggBeans": 0,
+    "childBeans": 5,
+    "adolescentBeans": 25,
+    "adultBeans": 21,
+    "elderBeans": 17,
+    "shakesBeans": 2
+  },
+  {
+    "animal": "Chicken",
+    "eggBeans": 4,
+    "childBeans": 8,
+    "adolescentBeans": 40,
+    "adultBeans": 21,
+    "elderBeans": 17,
+    "shakesBeans": 2
+  },
+  {
+    "animal": "Chinchompa",
+    "eggBeans": 0,
+    "childBeans": 50,
+    "adolescentBeans": 250,
+    "adultBeans": 213,
+    "elderBeans": 175,
+    "shakesBeans": 25
+  },
+  {
+    "animal": "Sheep",
+    "eggBeans": 0,
+    "childBeans": 16,
+    "adolescentBeans": 80,
+    "adultBeans": 68,
+    "elderBeans": 56,
+    "shakesBeans": 8
+  },
+  {
+    "animal": "Spider",
+    "eggBeans": 25,
+    "childBeans": 50,
+    "adolescentBeans": 250,
+    "adultBeans": 213,
+    "elderBeans": 175,
+    "shakesBeans": 25
+  },
+  {
+    "animal": "Zygomite",
+    "eggBeans": 0,
+    "childBeans": 187,
+    "adolescentBeans": 850,
+    "adultBeans": 722,
+    "elderBeans": 595,
+    "shakesBeans": 85
+  },
+  {
+    "animal": "Cow",
+    "eggBeans": 0,
+    "childBeans": 34,
+    "adolescentBeans": 170,
+    "adultBeans": 144,
+    "elderBeans": 119,
+    "shakesBeans": 17
+  },
+  {
+    "animal": "Yak",
+    "eggBeans": 0,
+    "childBeans": 150,
+    "adolescentBeans": 750,
+    "adultBeans": 638,
+    "elderBeans": 525,
+    "shakesBeans": 75
+  },
+  {
+    "animal": "Dragon",
+    "eggBeans": 200,
+    "childBeans": 400,
+    "adolescentBeans": 2000,
+    "adultBeans": 1700,
+    "elderBeans": 1400,
+    "shakesBeans": 200
+  },
+  {
+    "animal": "Frog",
+    "eggBeans": 10,
+    "childBeans": 21,
+    "adolescentBeans": 108,
+    "adultBeans": 91,
+    "elderBeans": 75,
+    "shakesBeans": 10
+  },
+  {
+    "animal": "Salamander",
+    "eggBeans": 36,
+    "childBeans": 72,
+    "adolescentBeans": 360,
+    "adultBeans": 306,
+    "elderBeans": 252,
+    "shakesBeans": 36
+  },
+  {
+    "animal": "Jadinko",
+    "eggBeans": 64,
+    "childBeans": 129,
+    "adolescentBeans": 648,
+    "adultBeans": 550,
+    "elderBeans": 453,
+    "shakesBeans": 64
+  },
+  {
+    "animal": "Varanusaur",
+    "eggBeans": 126,
+    "childBeans": 252,
+    "adolescentBeans": 1260,
+    "adultBeans": 1071,
+    "elderBeans": 882,
+    "shakesBeans": 126
+  },
+  {
+    "animal": "Brutish Dinosaur",
+    "eggBeans": 207,
+    "childBeans": 414,
+    "adolescentBeans": 2070,
+    "adultBeans": 1759,
+    "elderBeans": 1449,
+    "shakesBeans": 207
+  },
+  {
+    "animal": "Arcane apoterrasaur",
+    "eggBeans": 193,
+    "childBeans": 387,
+    "adolescentBeans": 1935,
+    "adultBeans": 1644,
+    "elderBeans": 1354,
+    "shakesBeans": 193
+  },
+  {
+    "animal": "Spicati apoterrasaur",
+    "eggBeans": 230,
+    "childBeans": 459,
+    "adolescentBeans": 2295,
+    "adultBeans": 1951,
+    "elderBeans": 1607,
+    "shakesBeans": 230
+  },
+  {
+    "animal": "Oculi apoterrasaur",
+    "eggBeans": 301,
+    "childBeans": 603,
+    "adolescentBeans": 3015,
+    "adultBeans": 2562,
+    "elderBeans": 2110,
+    "shakesBeans": 301
+  },
+  {
+    "animal": "Scimitops",
+    "eggBeans": 211,
+    "childBeans": 423,
+    "adolescentBeans": 2115,
+    "adultBeans": 1798,
+    "elderBeans": 1481,
+    "shakesBeans": 211
+  },
+  {
+    "animal": "Asciatops",
+    "eggBeans": 252,
+    "childBeans": 504,
+    "adolescentBeans": 2520,
+    "adultBeans": 2142,
+    "elderBeans": 1764,
+    "shakesBeans": 252
+  },
+  {
+    "animal": "Malletops",
+    "eggBeans": 327,
+    "childBeans": 655,
+    "adolescentBeans": 3276,
+    "adultBeans": 2785,
+    "elderBeans": 2293,
+    "shakesBeans": 328
+  },
+  {
+    "animal": "Bagrada rex",
+    "eggBeans": 221,
+    "childBeans": 443,
+    "adolescentBeans": 2214,
+    "adultBeans": 1882,
+    "elderBeans": 1550,
+    "shakesBeans": 221
+  },
+  {
+    "animal": "Corbicula rex",
+    "eggBeans": 274,
+    "childBeans": 547,
+    "adolescentBeans": 2736,
+    "adultBeans": 2325,
+    "elderBeans": 1915,
+    "shakesBeans": 274
+  },
+  {
+    "animal": "Pavosaurus rex",
+    "eggBeans": 360,
+    "childBeans": 720,
+    "adolescentBeans": 3600,
+    "adultBeans": 3060,
+    "elderBeans": 2520,
+    "shakesBeans": 360
+  }
+]

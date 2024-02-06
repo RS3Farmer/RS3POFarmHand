@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Barley Seed",
+    "growthTime": 2400000,
+    "checkHealth": false,
+    "plantExperience": 8.5,
+    "harvestExperience": 9.5,
+    "totalAssumedExperience": 103.5,
+    "uses": ["Raw ingredient for brewing", "Payment to protect jute plants"]
+  },
+  {
+    "name": "Hammerstone Seed",
+    "growthTime": 2400000,
+    "checkHealth": false,
+    "plantExperience": 9,
+    "harvestExperience": 10,
+    "totalAssumedExperience": 109,
+    "uses": ["Dwarven stout ingredient", "Payment to protect barberry bush"]
+  },
+  {
+    "name": "Asgarnian Seed",
+    "growthTime": 3000000,
+    "checkHealth": false,
+    "plantExperience": 10.9,
+    "harvestExperience": 12,
+    "totalAssumedExperience": 130.9,
+    "uses": ["Asgarnian ale ingredient", "Payment to protect reed plants"]
+  },
+  {
+    "name": "Jute Seed",
+    "growthTime": 3000000,
+    "checkHealth": false,
+    "plantExperience": 13,
+    "harvestExperience": 14.5,
+    "totalAssumedExperience": 158,
+    "uses": [
+      "Weaving an empty sack on a loom",
+      "Repairing the windscreen of the 12th beacon near the God Wars Dungeon"
+    ]
+  },
+  {
+    "name": "Yanillian Seed",
+    "growthTime": 3600000,
+    "checkHealth": false,
+    "plantExperience": 14.5,
+    "harvestExperience": 16,
+    "totalAssumedExperience": 174.5,
+    "uses": [
+      "Wizard's mind bomb ingredient",
+      "Payment to protect sunchoke plants"
+    ]
+  },
+  {
+    "name": "Krandorian Seed",
+    "growthTime": 4200000,
+    "checkHealth": false,
+    "plantExperience": 17.5,
+    "harvestExperience": 19.5,
+    "totalAssumedExperience": 212.5,
+    "uses": ["Dragon bitter ingredient", "Payment to protect grapevines"]
+  },
+  {
+    "name": "Wildblood Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "plantExperience": 23,
+    "harvestExperience": 26,
+    "totalAssumedExperience": 283,
+    "uses": [
+      "Slayer's respite ingredient",
+      "Payment to protect wishing well bush and jade vine"
+    ]
+  },
+  {
+    "name": "Reed Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "plantExperience": 180,
+    "harvestExperience": 190,
+    "totalAssumedExperience": 570,
+    "uses": ["Ingredient of barker toad pouches"]
+  },
+  {
+    "name": "Grapevine Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "plantExperience": 250,
+    "harvestExperience": 330,
+    "totalAssumedExperience": 580,
+    "uses": ["Creating God wine"]
+  }
+]

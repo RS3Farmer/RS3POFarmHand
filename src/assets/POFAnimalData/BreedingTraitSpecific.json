@@ -1,0 +1,138 @@
+[
+  {
+    "traitName": "Radiant",
+    "traitEffect": "Shiny +5% shiny chance",
+    "traitDescription": "This animal is practically shining.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Glistening",
+    "traitEffect": "Shiny +3% shiny chance",
+    "traitDescription": "This animal is more likely to produce shiny offspring.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Sparkling",
+    "traitEffect": "Shiny +2% shiny chance",
+    "traitDescription": "There's something almost 'shiny' about this animal.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Good Breeding",
+    "traitEffect": "Increased chance of different breed from parent. Does not work for any chinchompas. Dragon offspring are of equal or higher tier e.g. green dragons can produce blue, but blue dragons cannot produce green.",
+    "traitDescription": "This animal carries some rare breed ancestry in its genetics.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Strong Genes",
+    "traitEffect": "This animal is more likely to produce offspring of the same breed. Increased chance of same breed as parent. Conflicts with Good Breeding.",
+    "traitDescription": "",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Genetic Instability",
+    "traitEffect": "Multi-trait++",
+    "traitDescription": "The unusual genetics in this animal means its offspring are more likely to have multiple traits.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Genetic Mutation",
+    "traitEffect": "Multi-trait+",
+    "traitDescription": "The unusual nature of this animal means its offspring are more likely to have multiple traits.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Charmed",
+    "traitEffect": "Happy+ Healthy+",
+    "traitDescription": "This animal is happier and healthier than other animals.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Joyful",
+    "traitEffect": "Happy++",
+    "traitDescription": "This animal is almost always happy.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Jovial",
+    "traitEffect": "Happy+",
+    "traitDescription": "This animal always sees the glass as half full.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "traitName": "Immune",
+    "traitEffect": "Healthy++",
+    "traitDescription": "This animal is practically immune to disease.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Robust",
+    "traitEffect": "Healthy+",
+    "traitDescription": "This animal is more resistant to disease.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "traitName": "Studly",
+    "traitEffect": "Breeding++",
+    "traitDescription": "This animal has a much higher breeding chance than other animals.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Virile",
+    "traitEffect": "Breeding+",
+    "traitDescription": "This animal has a higher breeding chance than some others.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "traitName": "Frost Breath",
+    "traitEffect": "Shiny unlock (Dragons only)",
+    "traitDescription": "A breeding pair of dragons with Frost Breath and Poisonous Breath and Shock Breath between them allows for a Royal Dragon to be bred. Does not increase base chance for Shiny offspring.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Poisonous Breath",
+    "traitEffect": "Shiny unlock (Dragons only)",
+    "traitDescription": "A breeding pair of dragons with Frost Breath and Poisonous Breath and Shock Breath between them allows for a Royal Dragon to be bred. Does not increase base chance for Shiny offspring.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "traitName": "Shock Breath",
+    "traitEffect": "Shiny unlock (Dragons only)",
+    "traitDescription": "A breeding pair of dragons with Frost Breath and Poisonous Breath and Shock Breath between them allows for a Royal Dragon to be bred. Does not increase base chance for Shiny offspring.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  }
+]

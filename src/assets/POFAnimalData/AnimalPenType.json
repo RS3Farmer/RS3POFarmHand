@@ -1,0 +1,241 @@
+[
+  {
+    "forAnimal": ["Rabbit"],
+    "penSize": "Small",
+    "perkName": ["Like Rabbits"],
+    "skill": ["Farming"],
+    "tier1Effect": ["Breeding success increased by 7% (10%)."],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Hen (Chicken)", "Rooster (Chicken)"],
+    "penSize": "Small",
+    "perkName": ["Headless Chicken", "As the Rooster Crows"],
+    "skill": ["Fletching", "Combat"],
+    "tier1Effect": [
+      "A 3% (5%) chance to halve feathers used (minimum 1) when fletching arrows, darts, or bolts.",
+      "A 7% (10%) drop chance increase to receive ghostly essence while fighting enemies that drop it, for a number of kills after hearing a rooster's crow."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Chinchompa"],
+    "penSize": "Small",
+    "perkName": ["If Chins Could Skill"],
+    "skill": ["Skills"],
+    "tier1Effect": [
+      "A 3% (5%) chance to not lose a skillchompa when using them."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Ewe (Sheep)", "Ram (Sheep)"],
+    "penSize": "Medium",
+    "perkName": ["Have Ewe (Many Wool)", "Randomly Accessed Memories"],
+    "skill": ["Farming"],
+    "tier1Effect": [
+      "Gain 2 (3) pieces of wool on successful shearing.",
+      "Gain memory strands from Farming activities at 50% (75%) of the rate from Divination."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Spider"],
+    "penSize": "Medium",
+    "perkName": ["NopeNopeNope"],
+    "skill": "Combat",
+    "tier1Effect": [
+      "Increases damage against all spiders by 2% (3%) (including Araxxor/Araxxi)."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Zygomite"],
+    "penSize": "Medium",
+    "perkName": ["Uncapped Potential"],
+    "skill": ["Farming"],
+    "tier1Effect": [
+      "A 7% (10%) chance to yield an additional mushroom when gathering them from patches, clusters, or bloomed logs."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Cow (Cow)", "Bull (Cow)"],
+    "penSize": "Large",
+    "perkName": ["Milky, Milky", "Bully for You"],
+    "skill": ["Cooking", "Farming"],
+    "tier1Effect": [
+      "All Cooking XP earned from churning is at 2x (4x) normal.",
+      "A 1-in-5 (1-in-3) chance to save 50% of unprocessed compost that would be consumed when a compost bin creates finished compost."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Yak"],
+    "penSize": "Large",
+    "perkName": ["Nigel's Gift"],
+    "skill": ["Farming"],
+    "tier1Effect": [
+      "A 1/50 (1/40) chance to find a clue scroll either when checking health in, or harvesting the last crop from any patch."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Dragon"],
+    "penSize": "Large",
+    "perkName": ["Dragon Ultra Combo"],
+    "skill": ["Farming"],
+    "tier1Effect": [
+      "A 1/1000 (1/750) chance to get an ancient effigy while checking a fully-grown Farming patch, only if ultracompost is used."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Frog"],
+    "penSize": "Small",
+    "perkName": ["Flycatcher"],
+    "skill": ["Farming"],
+    "tier1Effect": ["Yield from stinkshrooms is doubled."],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Salamander"],
+    "penSize": "102",
+    "perkName": ["La La La La"],
+    "skill": ["Hunter"],
+    "tier1Effect": ["XP gained from catching salamanders is increased by 5%."],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Jadinko"],
+    "penSize": "Medium",
+    "perkName": ["The Old Black Magic"],
+    "skill": ["Skills"],
+    "tier1Effect": [
+      "Increases the duration of juju potions by 30 seconds when consumed."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Varanusaur"],
+    "penSize": "97",
+    "perkName": ["Envenomed"],
+    "skill": ["Herblore"],
+    "tier1Effect": [
+      "10% chance to make 4 doses instead of 3 doses when mixing weapon poison or antipoison potions."
+    ],
+    "tier2Effect": [""]
+  },
+  {
+    "forAnimal": ["Arcane apoterrasaur"],
+    "penSize": "Large",
+    "perkName": ["Arcane Elements"],
+    "skill": ["Runecrafting"],
+    "tier1Effect": [
+      "Increases your 'runes per essence' multiplier by 1 while crafting elemental runes."
+    ],
+    "tier2Effect": [
+      "Increases your 'runes per essence' multiplier by 2 while crafting elemental runes."
+    ]
+  },
+  {
+    "forAnimal": ["Brutish dinosaur"],
+    "penSize": 100,
+    "perkName": ["Stubborn"],
+    "skill": ["Combat"],
+    "tier1Effect": [
+      "Increases each heal from Regenerate to 3% of your maximum life points."
+    ],
+    "tier2Effect": [
+      "Increases each heal from Regenerate to 4% of your maximum life points."
+    ]
+  },
+  {
+    "forAnimal": ["Scimitops"],
+    "penSize": 104,
+    "perkName": ["Living Mountain"],
+    "skill": ["Mining"],
+    "tier1Effect": [
+      "Increases the chance of finding a geode while Mining by 1%."
+    ],
+    "tier2Effect": [
+      "Increases the chance of finding a geode while Mining by 2%."
+    ]
+  },
+  {
+    "forAnimal": ["Bagrada rex"],
+    "penSize": 106,
+    "perkName": ["King of Beasts"],
+    "skill": ["Combat"],
+    "tier1Effect": ["5% chance to conserve a bomb when thrown."],
+    "tier2Effect": ["10% chance to conserve a bomb when thrown."]
+  },
+  {
+    "forAnimal": ["Spicati apoterrasaur"],
+    "penSize": 108,
+    "perkName": ["Butterfly Effect"],
+    "skill": ["Farming"],
+    "tier1Effect": [
+      "There is a small chance of spawning a Guthixian butterfly when gathering produce from adolescent, adult, and elder animals."
+    ],
+    "tier2Effect": [
+      "There is a small chance of spawning a Guthixian butterfly when gathering produce from adolescent, adult, and elder animals."
+    ]
+  },
+  {
+    "forAnimal": ["Asciatops"],
+    "penSize": 110,
+    "perkName": ["Powerful Beast"],
+    "skill": ["Mining"],
+    "tier1Effect": [
+      "Increases the chance of a critical swing while Mining by 3%."
+    ],
+    "tier2Effect": [
+      "Increases the chance of a critical swing while Mining by 6%."
+    ]
+  },
+  {
+    "forAnimal": ["Corbicula rex"],
+    "penSize": 112,
+    "perkName": ["No Fear"],
+    "skill": ["Combat"],
+    "tier1Effect": [
+      "Increases the critical hit chance of Meteor Strike by 20%."
+    ],
+    "tier2Effect": [
+      "Increases the critical hit chance of Meteor Strike by 40%."
+    ]
+  },
+  {
+    "forAnimal": ["Oculi apoterrasaur"],
+    "penSize": 115,
+    "perkName": ["Steak Out"],
+    "skill": ["Hunter"],
+    "tier1Effect": [
+      "A 3% chance of receiving an extra piece of meat when skinning a Big Game Hunter creature."
+    ],
+    "tier2Effect": [
+      "A 5% chance of receiving an extra piece of meat when skinning a Big Game Hunter creature."
+    ]
+  },
+  {
+    "forAnimal": ["Malletops"],
+    "penSize": 117,
+    "perkName": ["Armoured Hide"],
+    "skill": ["Combat"],
+    "tier1Effect": [
+      "Increases the duration of Barricade by 1.8 seconds (3 ticks)."
+    ],
+    "tier2Effect": [
+      "Increases the duration of Barricade by 3.6 seconds (6 ticks)."
+    ]
+  },
+  {
+    "forAnimal": ["Pavosaurus rex"],
+    "penSize": 118,
+    "perkName": ["Rep-tile"],
+    "skill": ["Farming"],
+    "tier1Effect": ["All Farming Guild reputation gains are increased by 5%."],
+    "tier2Effect": ["All Farming Guild reputation gains are increased by 10%."]
+  }
+]

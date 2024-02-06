@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Acorn",
+    "growthTime": 9600000,
+    "checkHealth": true,
+    "plantExperience": 14,
+    "harvestExperience": 467.3,
+    "totalExperience": 481.3,
+    "uses": [
+      "Source of oak logs",
+      "Oak roots: Axeman's folly ingredient",
+      "Requested by Pauline Polaris on Manor Farm"
+    ]
+  },
+  {
+    "name": "Willow Seed",
+    "growthTime": 14400000,
+    "checkHealth": true,
+    "plantExperience": 25,
+    "harvestExperience": 1456.5,
+    "totalExperience": 1481.5,
+    "uses": [
+      "Source of willow logs",
+      "Willow branches: weaving a basket using a loom",
+      "Creating Giant ent pouches",
+      "Quest item - Enlightened Journey"
+    ]
+  },
+  {
+    "name": "Maple Seed",
+    "growthTime": 16800000,
+    "checkHealth": true,
+    "plantExperience": 45,
+    "harvestExperience": 3403.4,
+    "totalExperience": 3448.4,
+    "uses": ["Source of maple logs"]
+  },
+  {
+    "name": "Yew Seed",
+    "growthTime": 21600000,
+    "checkHealth": true,
+    "plantExperience": 60,
+    "harvestExperience": 7069.9,
+    "totalExperience": 7150.9,
+    "uses": ["Source of yew logs", "Yew roots: antipoison+ ingredient"]
+  },
+  {
+    "name": "Magic Seed",
+    "growthTime": 26400000,
+    "checkHealth": true,
+    "plantExperience": 81,
+    "harvestExperience": 13768.3,
+    "totalExperience": 13913.8,
+    "uses": [
+      "Source of magic logs",
+      "Magic roots: making magic string",
+      "Antipoison++ ingredient"
+    ]
+  }
+]

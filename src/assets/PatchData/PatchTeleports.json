@@ -1,0 +1,80 @@
+[
+  {
+    "location": "Draynor",
+    "teleports": [
+      "Cabbage-port using Explorer's ring 3 and above",
+      "South Falador Teleport (Lunar Spellbook)",
+      "Port Sarim lodestone or Draynor Village lodestone",
+      "Captain's log to Player Owned Ports",
+      "Arc journal to Port Sarim",
+      "Modified blacksmith's helmet to Artisans' Workshop"
+    ]
+  },
+  {
+    "location": "Phasmatys Patch",
+    "teleports": [
+      "Modified farmer's hat (3 teleports daily)",
+      "Ectophial",
+      "Fairy ring code ALQ",
+      "Teleport to Slayer Tower via Ring of slaying",
+      "Charter Ship to Port Phasmatys",
+      "Canifis lodestone",
+      "Teleport to Mazchna via Slayer cape"
+    ]
+  },
+  {
+    "location": "Catherby Patch",
+    "teleports": [
+      "Modified botanist's mask (3 teleports daily)",
+      "Catherby lodestone",
+      "Camelot Teleport",
+      "Catherby Teleport (Lunar Spellbook)"
+    ]
+  },
+  {
+    "location": "Ardougne Patch",
+    "teleports": [
+      "Manor farm Teleport (requires Ardougne cloak 2 and above or using any of the master farmer outfit variants)",
+      "Ardougne lodestone",
+      "Ardougne Teleport",
+      "North Ardougne Teleport (Lunar Spellbook)",
+      "Skills necklace to Fishing Guild",
+      "Fishing Guild Teleport (Lunar Spellbook)",
+      "Combat bracelet to Ranging Guild",
+      "Fairy ring code BLR",
+      "Teleport to Stormguard Citadel Dig Site via Master archaeologist's outfit or dig sites map in Archaeology Guild",
+      "Cape of legends to Legends' Guild"
+    ]
+  },
+  {
+    "location": "Wilderness (level 22)",
+    "teleports": [
+      "Wilderness obelisk teleport to level 27 wilderness and run south-west.",
+      "Wilderness sword 2 teleport to the Forinthry dungeon and run west.",
+      "Trollheim Agility shortcut (requiring 64 Agility and Spirit of Summer)",
+      "Dareeyak Teleport (Ancient Spellbook)"
+    ]
+  },
+  {
+    "location": "Harmony Island",
+    "teleports": [
+      "Charter ship to Mos Le'Harmless",
+      "Rum (Trouble Brewing)",
+      "Pirate spell sheet",
+      "Big Book o' Piracy",
+      "Ectophial to Port Phasmatys"
+    ]
+  },
+  {
+    "location": "Livid Farm",
+    "teleports": [
+      "Teleport to Lunar Isle lodestone",
+      "Moonclan Teleport",
+      "Seal of passage teleport option"
+    ]
+  },
+  {
+    "location": "Troll Stronghold",
+    "teleports": [""]
+  }
+]

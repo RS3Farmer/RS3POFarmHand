@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Jade Vine Seed",
+    "growthTime": 57600000,
+    "checkHealth": true,
+    "plantExperience": 50,
+    "harvestExperience": 50,
+    "totalAssumedExperience": 1550,
+    "uses": ["Growing the wild jade vine monster for Slayer experience"]
+  },
+  {
+    "name": "Devil's Snare Seed",
+    "growthTime": 0,
+    "checkHealth": false,
+    "plantExperience": 200,
+    "harvestExperience": 600,
+    "totalAssumedExperience": 800,
+    "uses": ["Grows a devil's snare for combat"]
+  },
+  {
+    "name": "Luminous Snaggler Seed",
+    "growthTime": 0,
+    "checkHealth": false,
+    "plantExperience": 200,
+    "harvestExperience": 600,
+    "totalAssumedExperience": 800,
+    "uses": ["Grows a luminous snaggler for combat"]
+  },
+  {
+    "name": "Lampenflora Seed",
+    "growthTime": 0,
+    "checkHealth": false,
+    "plantExperience": 200,
+    "harvestExperience": 600,
+    "totalAssumedExperience": 800,
+    "uses": ["Grows a lampenflora for combat"]
+  },
+  {
+    "name": "Liverwort Seed",
+    "growthTime": 0,
+    "checkHealth": false,
+    "plantExperience": 200,
+    "harvestExperience": 600,
+    "totalAssumedExperience": 800,
+    "uses": ["Grows a liverwort for combat"]
+  }
+]

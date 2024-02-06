@@ -1,0 +1,704 @@
+[
+  {
+    "animal": "Yaks",
+    "traitName": "Baroo",
+    "description": "What does this ancient word mean?",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Yaks",
+    "traitName": "Baroo Baroo",
+    "description": "Well, that's just rude.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Yaks",
+    "traitName": "Baroo?",
+    "description": "Is it a question? What is the question? Speak to me, oh noble yak.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Big Boned",
+    "description": "This animal puts on weight more easily.",
+    "traitEffect": "Weight+. Conflicts with Fussy Eater.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Butterface",
+    "description": "A fantastic physical specimen, just not much to look at.",
+    "traitEffect": "Weight+, Speed+, Attractiveness-. Conflicts with Curvy and Lithe.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Chickens",
+    "traitName": "Chaotic",
+    "description": "This chicken walks the path of chaos. Required for Life, Uh, Found a Way achievement.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Charmed",
+    "description": "This animal is happier and healthier than other animals. Health and happiness will both remain at 50% when food runs out. Conflicts with Sullen and Sickly.",
+    "traitEffect": "Healthy+, Happy+. Conflicts with Sullen and Sickly.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Chatty",
+    "description": "This animal won't be quiet.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "Rabbits",
+    "traitName": "Chief",
+    "description": "This rabbit commands the warren. Dominant trait.",
+    "traitEffect": "Cosmetic. Dominant trait.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Cows",
+    "traitName": "Chocolatey Goodness",
+    "description": "Its hide tastes ever-so-slightly chocolatey. It's hard to resist licking it. Increased chance of offspring being chocolate cows.",
+    "traitEffect": "Increased chance of offspring being chocolate cows.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Constipated",
+    "description": "This animal never produces dung. Changes chance of manure from 50% to 0% every manure cycle. Conflicts with Regular. No traitEffect on Zygomites/Spiders.",
+    "traitEffect": "Changes chance of manure from 50% to 0% every manure cycle. Conflicts with Regular. No traitEffect on Zygomites/Spiders.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Curvy",
+    "description": "This big-boned beauty will win many competitions, just not a race. Weight+, Attractiveness+, Speed-. Conflicts with Butterface and Lithe.",
+    "traitEffect": "Weight+, Attractiveness+, Speed-. Conflicts with Butterface and Lithe.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Enigmatic",
+    "description": "You're not sure what this trait does. If, indeed, it does anything.",
+    "traitEffect": "Unknown",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Evil",
+    "description": "This animal is not nice. Conflicts with Good. Required for Bad Egg achievement.",
+    "traitEffect": "Cosmetic. Conflicts with Good. Required for Bad Egg achievement.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Exalted",
+    "description": "This animal is so special it awards more XP on harvesting produce. 3% more XP on harvesting produce.",
+    "traitEffect": "3% more XP on harvesting produce.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Rabbits",
+    "traitName": "Fearless",
+    "description": "Why are you running? Dogs aren't dangerous.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Fortunate",
+    "description": "This animal is considered very special and farmers will pay more beans for it. +5% beans on sales. Conflicts with Surly.",
+    "traitEffect": "+5% beans on sales. Conflicts with Surly.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Freak of Nature",
+    "description": "This creature is a medical marvel. Curing it is worthwhile. More Farming XP when curing diseases.",
+    "traitEffect": "More Farming XP when curing diseases.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Dragons",
+    "traitName": "Frost Breath",
+    "description": "It can breathe a deadly stream of frost. Required to breed royal dragons.",
+    "traitEffect": "Required to breed royal dragons.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Fussy Eater",
+    "description": "This animal puts on less weight. Weight-. Conflicts with Big Boned.",
+    "traitEffect": "Weight-. Conflicts with Big Boned.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Genetic Inferiority",
+    "description": "Offspring of this animal are less likely to have multiple traits. Multi-trait-",
+    "traitEffect": "Multi-trait-",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Genetic Instability",
+    "description": "The unusual genetics in this animal means its offspring are more likely to have multiple traits. Multi-trait++",
+    "traitEffect": "Multi-trait++",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Genetic Mutation",
+    "description": "The unusual nature of this animal means its offspring are more likely to have multiple traits. Multi-trait+.",
+    "traitEffect": "Multi-trait+.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Genius",
+    "description": "This animal is super smart.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Giver",
+    "description": "This animal awards more XP when harvested. 3% more XP when gathering produce. Conflicts with Taker.",
+    "traitEffect": "3% more XP when gathering produce. Conflicts with Taker.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Glistening",
+    "description": "This animal is more likely to produce shiny offspring. Shiny++. Adds 3% to shiny chance.",
+    "traitEffect": "Shiny++. Adds 3% to shiny chance.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Chinchompa",
+    "traitName": "Glorious",
+    "description": "This chinchompa is simply glorious.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Golden Gift",
+    "description": "There are no golden eggs, but this creature will occasionally pass...'nuggets'. Wash hands after handling. When harvesting, you will obtain a few gold coins.",
+    "traitEffect": "When harvesting, you will obtain a few gold coins.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Good",
+    "description": "This animal is really rather pleasant.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Good Breeding",
+    "description": "This animal carries some rare breed ancestry in its genetics. Increased chance of different breed from parents. Conflicts with Charming and Unicorn Sparkle.",
+    "traitEffect": "Increased chance of different breed from parents. Conflicts with Charming and Unicorn Sparkle.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Handsome",
+    "description": "This animal is better looking than most others. Attractiveness+. Conflicts with Plain and Nightmare.",
+    "traitEffect": "Attractiveness+. Conflicts with Plain and Nightmare.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Hyperactive",
+    "description": "This animal is faster than most others. Speed+. Conflicts with Slowpoke.",
+    "traitEffect": "Speed+. Conflicts with Slowpoke.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Immune",
+    "description": "This animal is practically immune to disease. Healthy++. Health and happiness will both remain at 50% when food runs out. Conflicts with Sickly.",
+    "traitEffect": "Healthy++. Health and happiness will both remain at 50% when food runs out. Conflicts with Sickly.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Spiders",
+    "traitName": "Incy",
+    "description": "Involuntarily cynical, like many spiders.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Insane",
+    "description": "This animal thinks it's a biscuit. We have no idea why.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Jovial",
+    "description": "This animal always sees the glass as half full. Happiness stays at 50% when food runs out. Conflicts with Sullen.",
+    "traitEffect": "Happy+. Happiness stays at 50% when food runs out. Conflicts with Sullen.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Joyful",
+    "description": "This animal is almost always happy. Happiness stays at 100% when food runs out. Conflicts with Sullen.",
+    "traitEffect": "Happy++. Happiness stays at 100% when food runs out. Conflicts with Sullen.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Chickens",
+    "traitName": "Lawful",
+    "description": "This chicken walks the path of law.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Limited Efficiency",
+    "description": "Harvesting this animal will award more materials, but at the cost of lower XP and bean value. -3% XP and beans on sales. Chance of extra materials on harvest.",
+    "traitEffect": "-3% XP and beans on sales. Chance of extra materials on harvest.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Lithe",
+    "description": "Fast and beautiful, but not terribly sturdy. Speed+, Attractiveness+, Weight-. Conflicts with Butterface and Curvy.",
+    "traitEffect": "Speed+, Attractiveness+, Weight-. Conflicts with Butterface and Curvy.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Loyal",
+    "description": "You're not sure what this trait does. If, indeed, it does anything. Cosmetic. Required for Ever So Clever achievement.",
+    "traitEffect": "Cosmetic. Required for Ever So Clever achievement.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Lucky",
+    "description": "This animal is worth more beans when sold. +2% beans on sales. Conflicts with Surly.",
+    "traitEffect": "+2% beans on sales. Conflicts with Surly.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Mysterious",
+    "description": "Does something mysterious...or nothing, but if nothing it does so mysteriously. Increases the chance of Ravensworn trait appearing upon breeding if the Ravensworn title is also unlocked. Used to help with gaining the player-owned farm's hidden achievements at Manor Farm.",
+    "traitEffect": "Increases the chance of Ravensworn trait appearing upon breeding if the Ravensworn title is also unlocked. Used to help with gaining the player-owned farm's hidden achievements at Manor Farm.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Chickens",
+    "traitName": "Neutral",
+    "description": "This chicken walks a neutral path.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Nice but Dim",
+    "description": "Generous with XP, but less popular with farmers and is not so good with materials on harvesting. -10% beans on sales. +14.4% XP upon harvest. Chance of reduced materials. Conflicts with Limited Efficiency and Unlucky for Some.",
+    "traitEffect": "-10% beans on sales. +14.4% XP upon harvest. Chance of reduced materials. Conflicts with Limited Efficiency and Unlucky for Some.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Spiders",
+    "traitName": "Nightmare",
+    "description": "Kill it with fire! Attractiveness--. Conflicts with Handsome.",
+    "traitEffect": "Attractiveness--. Conflicts with Handsome.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Chinchompas",
+    "traitName": "Nuclear",
+    "description": "Be REALLY careful with this one! Chinchompa has a chance of exploding on harvest, awarding XP and materials equivalent to aging to elder. Useful for Tickety Boom! achievement.",
+    "traitEffect": "Chinchompa has a chance of exploding on harvest, awarding XP and materials equivalent to aging to elder. Useful for Tickety Boom! achievement.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Old at Heart",
+    "description": "This animal ages faster than most others. Animal ages 25% more quickly than normal. Does not affect rabbits. Conflicts with Young at Heart.",
+    "traitEffect": "Animal ages 25% more quickly than normal. Does not affect rabbits. Conflicts with Young at Heart.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "Rabbits",
+    "traitName": "Owsla",
+    "description": "This rabbit guards the warren carefully. Cosmetic. Dominant trait.",
+    "traitEffect": "Cosmetic. Dominant trait.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Perfected",
+    "description": "This animal is a perfect example of its breed. Weight+, Speed+, Attractiveness+",
+    "traitEffect": "Weight+, Speed+, Attractiveness+",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Plain",
+    "description": "This animal is not as attractive as some of the other animals. Attractiveness-. Conflicts with Handsome.",
+    "traitEffect": "Attractiveness-. Conflicts with Handsome.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "Dragons",
+    "traitName": "Poisonous Breath",
+    "description": "It can breathe a deadly cloud of poison. Required to breed royal dragons.",
+    "traitEffect": "Required to breed royal dragons.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Prize Specimen",
+    "description": "A shining example of what this breed is capable of. Weight++, Speed++, Attractiveness++",
+    "traitEffect": "Weight++, Speed++, Attractiveness++",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Producer",
+    "description": "This animal awards more materials when harvested. Chance of receiving more materials when harvesting produce. Conflicts with Stingy.",
+    "traitEffect": "Chance of receiving more materials when harvesting produce. Conflicts with Stingy.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Radiant",
+    "description": "This animal is practically shining. Shiny+++. Adds 5% to shiny chance",
+    "traitEffect": "Shiny+++. Adds 5% to shiny chance",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Ravensworn",
+    "description": "This animal knows the secret handshake and has knowledge of the deeper mystery that is the Ravensworn. It won't share. Has 9 associated achievements, 1 per animal species. Requires having the Ravensworn title unlocked. Animals can only be born with this trait, it cannot be acquired with an animal trait re-roller or by checking an unchecked animal.",
+    "traitEffect": "Has 9 associated achievements, 1 per animal species. Requires having the Ravensworn title unlocked. Animals can only be born with this trait, it cannot be acquired with an animal trait re-roller or by checking an unchecked animal.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Regular",
+    "description": "This animal produces dung regularly. Changes the chance of manure from 50% to 100% every manure cycle. Conflicts with Constipated. No traitEffect on Zygomites/Spiders.",
+    "traitEffect": "Changes the chance of manure from 50% to 100% every manure cycle. Conflicts with Constipated. No traitEffect on Zygomites/Spiders.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Robust",
+    "description": "This animal is more resistant to disease. Healthy+. Health stays at 50% when food runs out. Conflicts with Sickly.",
+    "traitEffect": "Healthy+. Health stays at 50% when food runs out. Conflicts with Sickly.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "Dragons",
+    "traitName": "Shock Breath",
+    "description": "It can breathe a deadly blast of lightning. Required to breed royal dragons.",
+    "traitEffect": "Required to breed royal dragons.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Sickly",
+    "description": "This animal gets sick more easily. Healthy-. Conflicts with Immune and Robust.",
+    "traitEffect": "Healthy-. Conflicts with Immune and Robust.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Slowpoke",
+    "description": "This animal is slower than most others. Speed-. Conflicts with Hyperactive.",
+    "traitEffect": "Speed-. Conflicts with Hyperactive.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Smelly",
+    "description": "This animal smells really bad. Attractiveness-. Conflicts with Handsome.",
+    "traitEffect": "Attractiveness-. Conflicts with Handsome.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Sparkling",
+    "description": "There's something almost 'shiny' about this animal. Shiny+. Adds 2% to shiny chance.",
+    "traitEffect": "Shiny+. Adds 2% to shiny chance.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Stingy",
+    "description": "This animal isn't as generous with harvested materials. Chance of reduced materials upon harvesting. Conflicts with Producer.",
+    "traitEffect": "Chance of reduced materials upon harvesting. Conflicts with Producer.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "Cows",
+    "traitName": "Strawberry Scented",
+    "description": "It smells delicious. Higher chance of offspring being strawberry cows.",
+    "traitEffect": "Higher chance of offspring being strawberry cows.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Stressed",
+    "description": "This animal suffers from 'performance anxiety'. Breeding-. Conflicts with Studly and Virile.",
+    "traitEffect": "Breeding-. Conflicts with Studly and Virile.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Strong Genes",
+    "description": "This animal is more likely to produce offspring of the same breed. Increased chance of the same breed as the parent. Conflicts with Good Breeding.",
+    "traitEffect": "Increased chance of the same breed as the parent. Conflicts with Good Breeding.",
+    "traitSlot1": false,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Studly",
+    "description": "This animal has a much higher breeding chance than other animals. Breeding++. Conflicts with Stressed.",
+    "traitEffect": "Breeding++. Conflicts with Stressed.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Sullen",
+    "description": "This animal always sees the glass as half empty. Happy-. Happiness decreases down to 0% even when the animal is fed and healthy. Conflicts with Jovial and Joyful.",
+    "traitEffect": "Happy-. Happiness decreases down to 0% even when the animal is fed and healthy. Conflicts with Jovial and Joyful.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Surly",
+    "description": "This animal is unpleasant and so worth fewer beans. -5% beans on sales. Conflicts with Lucky and Fortunate.",
+    "traitEffect": "-5% beans on sales. Conflicts with Lucky and Fortunate.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Taker",
+    "description": "This animal isn't as generous with harvested XP. 3% less XP when gathering produce.",
+    "traitEffect": "3% less XP when gathering produce.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  },
+  {
+    "animal": "Cows",
+    "traitName": "Touch of Vanilla",
+    "description": "It sweats vanilla essential oils for some reason. Higher chance offspring being vanilla cows.",
+    "traitEffect": "Higher chance offspring being vanilla cows.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Unlucky for Some",
+    "description": "Other farmers will happily purchase this animal, but it's not so good for you for XP or materials. +3% beans on sales. Reduced XP and chance of reduced materials. Conflicts with Nice but Dim and Limited Efficiency.",
+    "traitEffect": "+3% beans on sales. Reduced XP and chance of reduced materials. Conflicts with Nice but Dim and Limited Efficiency.",
+    "traitSlot1": false,
+    "traitSlot2": false,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Chinchompas",
+    "traitName": "Unstable",
+    "description": "Careful, this one could explode at any moment. Chinchompa has a slight chance of exploding on harvest, awarding XP and materials equivalent to aging to elder. Useful for Tickety Boom! achievement.",
+    "traitEffect": "Chinchompa has a slight chance of exploding on harvest, awarding XP and materials equivalent to aging to elder. Useful for Tickety Boom! achievement.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Virile",
+    "description": "This animal has a higher breeding chance than some others. Breeding+. Conflicts with Stressed.",
+    "traitEffect": "Breeding+. Conflicts with Stressed.",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": false
+  },
+  {
+    "animal": "All",
+    "traitName": "Whimsical",
+    "description": "You're not sure what this trait does. If, indeed, it does anything. Cosmetic.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "Spiders",
+    "traitName": "Wincy",
+    "description": "Keeps flinching. Seems to expect everyone to crush it with a rolled-up paper. Cosmetic.",
+    "traitEffect": "Cosmetic",
+    "traitSlot1": true,
+    "traitSlot2": true,
+    "traitSlot3": true
+  },
+  {
+    "animal": "All",
+    "traitName": "Young at Heart",
+    "description": "This animal ages much slower than normal. Animal ages 25% more slowly than normal. Conflicts with Old at Heart.",
+    "traitEffect": "Animal ages 25% more slowly than normal. Conflicts with Old at Heart.",
+    "traitSlot1": true,
+    "traitSlot2": false,
+    "traitSlot3": false
+  }
+]

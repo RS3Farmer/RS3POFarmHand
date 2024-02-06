@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Red Blossom Seed",
+    "growthTime": 1200000,
+    "checkHealth": false,
+    "plantExperience": 52,
+    "harvestExperience": 255,
+    "totalAssumedExperience": 307,
+    "uses": [
+      "Red vine blossoms are used as payment to protect Argway herb patches and Lergberry bushes"
+    ]
+  },
+  {
+    "name": "Blue Blossom Seed",
+    "growthTime": 1200000,
+    "checkHealth": false,
+    "plantExperience": 52,
+    "harvestExperience": 255,
+    "totalAssumedExperience": 307,
+    "uses": [
+      "Blue vine blossoms are used as payment to protect Ugune herb patches"
+    ]
+  },
+
+  {
+    "name": "Green Blossom Seed",
+    "growthTime": 1200000,
+    "checkHealth": false,
+    "plantExperience": 52,
+    "harvestExperience": 255,
+    "totalAssumedExperience": 307,
+    "uses": [
+      "Green vine blossoms are used as payment to protect Erzille herb patches"
+    ]
+  }
+]

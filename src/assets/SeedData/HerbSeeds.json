@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Toadflax Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 34,
+    "HarvestingExperience": 38.5,
+    "totalAssumedExperience": 303.5,
+    "uses": [
+      "Ingredient of agility potion",
+      "Ingredient of antipoison+",
+      "Ingredient of saradomin brew"
+    ]
+  },
+  {
+    "name": "Guam Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 11,
+    "HarvestingExperience": 12.5,
+    "totalAssumedExperience": 98.5,
+    "uses": [
+      "Ingredient of attack potion",
+      "Ingredient of guam tar",
+      "Ingredient of guthix rest",
+      "Ingredient of super fishing explosive",
+      "Ingredient of macaw pouch"
+    ]
+  },
+  {
+    "name": "Marrentill Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 13.5,
+    "HarvestingExperience": 15,
+    "totalAssumedExperience": 118.5,
+    "uses": [
+      "Ingredient of antipoison",
+      "guthix rest",
+      "Lighting burners on altar in Chapel of player-owned house"
+    ]
+  },
+  {
+    "name": "Tarromin",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "cleanHerbLevel": 16,
+    "grimyHerbLevel": 18,
+    "totalAssumedExperience": 142,
+    "uses": ["Ingredient of strength potion, serum 207, and tarromin tar"]
+  },
+  {
+    "name": "Harralander Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 21.5,
+    "HarvestingExperience": 24,
+    "totalAssumedExperience": 189.5,
+    "uses": [
+      "Ingredient of guthix rest",
+      "Ingredient of stat restore potion",
+      "Ingredient of guthix balance",
+      "Ingredient of energy potion",
+      "Ingredient of combat potion",
+      "Ingredient of harralander tar"
+    ]
+  },
+  {
+    "name": "Gout Tuber Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 105,
+    "HarvestingExperience": 45,
+    "totalAssumedExperience": 420,
+    "uses": [
+      "Ingredient of Making a gem-bladed machete",
+      "Ingredient of Exchange with Sanfew for random herbs"
+    ]
+  },
+  {
+    "name": "Ranarr Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 27,
+    "HarvestingExperience": 30.5,
+    "totalAssumedExperience": 240.5,
+    "uses": [
+      "Ingredient of Ingredient of defence potion",
+      "Ingredient of prayer potion"
+    ]
+  },
+  {
+    "name": "Spirit Weed Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 32,
+    "HarvestingExperience": 36,
+    "totalAssumedExperience": 284,
+    "uses": [
+      "Ingredient of Ingredient of summoning potion",
+      "Ingredient of super necromancy"
+    ]
+  },
+  {
+    "name": "Irit",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "cleanHerbLevel": 43,
+    "grimyHerbLevel": 48.5,
+    "totalAssumedExperience": 382.5,
+    "uses": [
+      "Making Divine herb patch II",
+      "Ingredient of super attack, super antipoison, antipoison++, and poison bomb"
+    ]
+  },
+  {
+    "name": "Wergali Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 52.8,
+    "HarvestingExperience": 52.8,
+    "totalAssumedExperience": 422.4,
+    "uses": [
+      "Ingredient of Ingredient of crafting potion",
+      "Ingredient of fletching potion"
+    ]
+  },
+  {
+    "name": "Avantoe Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 54.5,
+    "HarvestingExperience": 61.5,
+    "totalAssumedExperience": 485,
+    "uses": [
+      "Ingredient of fishing potion",
+      "Ingredient of super energy",
+      "Ingredient of hunting potion",
+      "Ingredient of extreme attack"
+    ]
+  },
+  {
+    "name": "Kwuarm Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 69,
+    "HarvestingExperience": 78,
+    "totalAssumedExperience": 615,
+    "uses": ["Ingredient of super strength", "Ingredient of weapon poison"]
+  },
+  {
+    "name": "Bloodweed Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 72,
+    "HarvestingExperience": 81.4,
+    "totalAssumedExperience": 641.8,
+    "uses": [
+      "Ingredient of luck potion",
+      "Ingredient of camouflage potion",
+      "Ingredient of aggression potion"
+    ]
+  },
+  {
+    "name": "Snapdragon Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 87.5,
+    "HarvestingExperience": 98.5,
+    "totalAssumedExperience": 777,
+    "uses": ["Ingredient of super restore", "Ingredient of sanfew serum"]
+  },
+  {
+    "name": "Cadantine Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 106.5,
+    "HarvestingExperience": 120,
+    "totalAssumedExperience": 465.5,
+    "uses": ["Ingredient of super defence", "Ingredient of sticky bomb"]
+  },
+  {
+    "name": "Lantadyme Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 134.5,
+    "HarvestingExperience": 151.5,
+    "totalAssumedExperience": 1195,
+    "uses": [
+      "Ingredient of antifire potion",
+      "Ingredient of super magic potion",
+      "Ingredient of extreme defence"
+    ]
+  },
+  {
+    "name": "Arbuck Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 185,
+    "HarvestingExperience": 205.6,
+    "totalAssumedExperience": 1624.2,
+    "uses": [
+      "Ingredient of aggroverload",
+      "Ingredient of extended super antifire",
+      "Ingredient of stamina potion",
+      "Ingredient of adrenaline renewal"
+    ]
+  },
+  {
+    "name": "Dwarf Weed Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 170.5,
+    "HarvestingExperience": 192,
+    "totalAssumedExperience": 1514.5,
+    "uses": [
+      "Ingredient of Super ranging potion",
+      "Ingredient of extreme strength",
+      "Ingredient of vulnerability bomb"
+    ]
+  },
+  {
+    "name": "Torstol Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 199.5,
+    "HarvestingExperience": 224.5,
+    "totalAssumedExperience": 1771,
+    "uses": ["Ingredient of zamorak brew", "Ingredient of overload"]
+  },
+  {
+    "name": "Fellstalk Seed",
+    "growthTime": 4800000,
+    "checkHealth": false,
+    "PlantingExperience": 225,
+    "HarvestingExperience": 315.6,
+    "totalAssumedExperience": 2434.2,
+    "uses": ["Ingredient of prayer renewal", "Ingredient of elder overload"]
+  }
+]

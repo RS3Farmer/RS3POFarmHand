@@ -1,0 +1,44 @@
+[
+  {
+    "numberOfAnimals": 1,
+    "timeToEmptyTroughDays": 41.67,
+    "timeToEmptyTroughHours": 1000,
+    "timeToEmptyTroughMinutes": 60000,
+    "timeToEmptyTroughMilliseconds": 3600000000
+  },
+  {
+    "numberOfAnimals": 2,
+    "timeToEmptyTroughDays": 20.83,
+    "timeToEmptyTroughHours": 500,
+    "timeToEmptyTroughMinutes": 30000,
+    "timeToEmptyTroughMilliseconds": 1800000000
+  },
+  {
+    "numberOfAnimals": 3,
+    "timeToEmptyTroughDays": 13.89,
+    "timeToEmptyTroughHours": 333.33,
+    "timeToEmptyTroughMinutes": 19999.8,
+    "timeToEmptyTroughMilliseconds": 1119998000
+  },
+  {
+    "numberOfAnimals": 4,
+    "timeToEmptyTroughDays": 10.42,
+    "timeToEmptyTroughHours": 250,
+    "timeToEmptyTroughMinutes": 15000,
+    "timeToEmptyTroughMilliseconds": 900000000
+  },
+  {
+    "numberOfAnimals": 5,
+    "timeToEmptyTroughDays": 8.33,
+    "timeToEmptyTroughHours": 200,
+    "timeToEmptyTroughMinutes": 12000,
+    "timeToEmptyTroughMilliseconds": 720000000
+  },
+  {
+    "numberOfAnimals": 6,
+    "timeToEmptyTroughDays": 6.94,
+    "timeToEmptyTroughHours": 166.67,
+    "timeToEmptyTroughMinutes": 2500.2,
+    "timeToEmptyTroughMilliseconds": 150012000
+  }
+]

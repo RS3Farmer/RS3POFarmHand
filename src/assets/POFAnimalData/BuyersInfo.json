@@ -1,0 +1,117 @@
+[
+  {
+    "buyer": "Myfi",
+    "animal": "Rabbit",
+    "amountCanBuy": 12
+  },
+  {
+    "buyer": "Henrietta",
+    "animal": "Chicken",
+    "amountCanBuy": 12
+  },
+  {
+    "buyer": "Mieliki Tapio",
+    "animal": "Chinchompa",
+    "amountCanBuy": 12
+  },
+  {
+    "buyer": "Ralph",
+    "animal": "Sheep",
+    "amountCanBuy": 8
+  },
+  {
+    "buyer": "Rumbleguts",
+    "animal": "Spider",
+    "amountCanBuy": 8
+  },
+  {
+    "buyer": "Zoe",
+    "animal": "Zygomite",
+    "amountCanBuy": 8
+  },
+  {
+    "buyer": "Milkshake",
+    "animal": "Cow",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Prezleek",
+    "animal": "Yak",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Raptor",
+    "animal": "Dragon",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Anphi",
+    "animal": "Frog",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Steven",
+    "animal": "Salamander",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Papa Mambo",
+    "animal": " Jadinko",
+    "amountCanBuy": 8
+  },
+  {
+    "buyer": "Laniakea",
+    "animal": "Varanusaurs",
+    "amountCanBuy": 8
+  },
+  {
+    "buyer": "General Bentnoze",
+    "animal": "Brutish dinosaurs",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Glout",
+    "animal": "Arcane apoterrasaurs",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Wizard Ilona",
+    "animal": "Spicati apoterrasaurs",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Odd Billy",
+    "animal": "Oculi apoterrasaurs",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Doric",
+    "animal": "Scimitops",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Evil Dave",
+    "animal": "Asciatops",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Mesalina",
+    "animal": "Malletops",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Daya",
+    "animal": "Bagrada rex",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Thok",
+    "animal": "Corbicula rex",
+    "amountCanBuy": 6
+  },
+  {
+    "buyer": "Irwinsson",
+    "animal": "Pavosaurus rex",
+    "amountCanBuy": 6
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cactus Seed",
+    "growthTime": 33600000,
+    "checkHealth": true,
+    "plantExperience": 66.5,
+    "harvestExperience": 25,
+    "totalAssumedExperience": 515.5,
+    "uses": ["Weapon poison+ ingredient"]
+  },
+  {
+    "name": "Prickly Pear Seed",
+    "growthTime": 33600000,
+    "checkHealth": true,
+    "plantExperience": 170,
+    "harvestExperience": 50,
+    "totalAssumedExperience": 2470,
+    "uses": ["Defence experience"]
+  },
+
+  {
+    "name": "Potato Cactus Seed",
+    "growthTime": 33600000,
+    "checkHealth": true,
+    "plantExperience": 205,
+    "harvestExperience": 93,
+    "totalAssumedExperience": 2998,
+    "uses": [
+      "Summoning ingredient",
+      "Super magic potion ingredient",
+      "Payment to protect Dragonfruit"
+    ]
+  },
+
+  {
+    "name": "Dragonfruit Seed",
+    "growthTime": 33600000,
+    "checkHealth": true,
+    "plantExperience": 400,
+    "harvestExperience": 259.4,
+    "totalAssumedExperience": 7066.9,
+    "uses": [
+      "Making primal fruit pulp",
+      "Making primal dessert",
+      "Payment to protect Carambola"
+    ]
+  },
+
+  {
+    "name": "Golden Dragonfruit Seed",
+    "growthTime": 33600000,
+    "checkHealth": true,
+    "plantExperience": 920,
+    "harvestExperience": 2719.6,
+    "totalAssumedExperience": 28479.9,
+    "uses": ["Making primal fruit pulp"]
+  }
+]
