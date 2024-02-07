@@ -1,11 +1,6 @@
 import { Accordion } from "@mantine/core";
 import { useState } from "react";
-require("./../assets/Images/Hops Patches/SEChampGuild3dHopsPatch.png");
-require("./../assets/Images/Hops Patches/Entrana3dHopPatch.png");
-require("./../assets/Images/Hops Patches/YanilleHopsPatch3d.png");
-require("./../assets/Images/Hops Patches/North McGruborsWoods.png");
-require("./../assets/Images/Hops Patches/HopsPatchReg.png");
-require("./../assets/Images/Hops Patches/HopsPatchComplete.png");
+
 export const HopsPatches = () => {
   const [isChampionsGuildSouthWestComplete] = useState(false);
   const [isEntranaComplete] = useState(false);

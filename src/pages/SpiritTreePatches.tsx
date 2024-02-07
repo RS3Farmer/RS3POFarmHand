@@ -1,9 +1,6 @@
 import { Accordion } from "@mantine/core";
 import { useState } from "react";
-require("./../assets/Images/Spirit Tree Patches/SpiritTreePatchPortSarim3d.png");
-require("./../assets/Images/Spirit Tree Patches/ardougneTreePatch.png");
-require("./../assets/Images/Spirit Tree Patches/EscentiaSpiritTreePatch.png");
-require("./../assets/Images/Spirit Tree Patches/BrimhavenSpiritTreePatch3d.png");
+
 export const SpiritTreePatches = () => {
   const [isBrimhavenComplete] = useState(false);
   const [isEscentiaComplete] = useState(false);

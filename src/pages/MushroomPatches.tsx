@@ -1,10 +1,6 @@
 import { Accordion } from "@mantine/core";
 import { useState } from "react";
-require("./../assets/Images/Mushroom Patches/CanifisMushroomPatch.png");
-require("./../assets/Images/Mushroom Patches/cityofummushroompatch3d.png");
-require("./../assets/Images/Mushroom Patches/TyrawynnMushroomPatch3d.png");
-require("./../assets/Images/Mushroom Patches/MushroomPatchBareBonesReg.png");
-require("./../assets/Images/Mushroom Patches/MushroomPatchBareBonesComplete.png");
+
 export const MushroomPatches: React.FC = () => {
   const [isCanifisComplete] = useState(false);
   const [isCityOfUmComplete] = useState(false);

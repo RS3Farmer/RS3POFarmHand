@@ -1,12 +1,6 @@
 import { Accordion } from "@mantine/core";
 import { useState } from "react";
-require("./../assets/Images/Fruit Tree Patches/BrimHavenFruitTreePatch3d.png");
-require("./../assets/Images/Fruit Tree Patches/CatherbyFruitTreePatch3d.png");
-require("./../assets/Images/Fruit Tree Patches/FruitTreePatchGnomeStronghold3d.png");
-require("./../assets/Images/Fruit Tree Patches/FruitTreePatchHerbloreHabitat.png");
-require("./../assets/Images/Fruit Tree Patches/LletyaFruitTreePatch3d.png");
-require("./../assets/Images/Fruit Tree Patches/FruitTreePatchWestGnomeVill3d.png");
-require("./../assets/Images/Fruit Tree Patches/FruitTreePatchPriffdinas.png");
+
 export const FruitTreePatches = () => {
   const [isBrimhavenComplete] = useState(false);
   const [isCatherbyComplete] = useState(false);

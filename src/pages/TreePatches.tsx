@@ -1,13 +1,6 @@
 import { Accordion } from "@mantine/core";
 import { useState } from "react";
-require("./../assets/Images/Tree Patches/TreePatchFalador3d.png");
-require("./../assets/Images/Tree Patches/LumbridgeTreePatch3d.png");
-require("./../assets/Images/Tree Patches/WoodCuttersGroveTreePatch3d.png");
-require("./../assets/Images/Tree Patches/TaverlyTreePatch3d.png");
-require("./../assets/Images/Tree Patches/TraehornTreePatch3d.png");
-require("./../assets/Images/Tree Patches/gnomeStrongholdTreePatch.png");
-require("./../assets/Images/Tree Patches/TreePatchReg.png");
-require("./../assets/Images/Tree Patches/TreePatchCompleted.png");
+
 export const TreePatches: React.FC = () => {
   const [isGnomeStrongholdCompleted] = useState(false);
   const [isLumbridgeCompleted] = useState(false);

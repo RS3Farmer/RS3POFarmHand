@@ -1,13 +1,6 @@
 import { Accordion } from "@mantine/core";
 import { useState } from "react";
-//Ardougne South Bush Patch
-require("./../assets/Images/Bush Patches/ArdougneSouthBushPatch.png");
-//Champions Guild West Bush Patch
-require("./../assets/Images/Bush Patches/ChampionGuildBush3d.png");
-//Etceteria Bush Patch
-require("./../assets/Images/Bush Patches/escentiaBush3d.png");
-//Rimmington Bush Patch
-require("./../assets/Images/Bush Patches/RimmingtonBushPatch3d.png");
+
 export const BushList: React.FC = () => {
   const [showArdougneSouth] = useState(false);
   const [showChampionsGuildWest] = useState(false);

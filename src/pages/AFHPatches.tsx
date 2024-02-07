@@ -4,36 +4,7 @@ import { useState } from "react";
 //Styles
 require("@mantine/core/styles/Accordion.css");
 require("./../assets/index.css");
-//Ardougne Images
-require("./../assets/Images/Allotment Herb Patches/ArdougneFarmingPatchReg.png");
-require("./../assets/Images/Allotment Herb Patches/ArdyAllotmentTopPatch.png");
-require("./../assets/Images/Allotment Herb Patches/ArdyAllotmentBottomPatch.png");
-require("./../assets/Images/Allotment Herb Patches/Ardy3dPatch.png");
-require("./../assets/Images/Allotment Herb Patches/HerbOrFlowerPatch.png");
-//Canifis and Falador Images
-require("./../assets/Images/Allotment Herb Patches/NECanifisPatchBareBones.png");
-require("./../assets/Images/Allotment Herb Patches/CanafisAllotmentCompleted.png");
-require("./../assets/Images/Allotment Herb Patches/CanafisAllotmentCompletedR.png");
-require("./../assets/Images/Allotment Herb Patches/CanifisPatch3d.png");
-require("./../assets/Images/Allotment Herb Patches/Falador3dPatch.png");
-//Catherby Images
-require("./../assets/Images/Allotment Herb Patches/Catherby3dPatch.png");
-require("./../assets/Images/Allotment Herb Patches/CatherByPatchBareBones.png");
-require("./../assets/Images/Allotment Herb Patches/Catherby3dPatch.png");
-//Harmony Island Images
-require("./../assets/Images/Allotment Herb Patches/HarmonyIsland3dPatch.png");
-require("./../assets/Images/Allotment Herb Patches/HarmonyIslandAllotmentOnlyBareBones.png");
-require("./../assets/Images/Allotment Herb Patches/HarmonyIslandAllotmentOnlyBareBonesCompleted.png");
-//Priffdinas Images
-require("./../assets/Images/Allotment Herb Patches/PriffHerbBushPatch.png");
-require("./../assets/Images/Allotment Herb Patches/HerbOrFlowerPatchReg.png");
-// Troll Stronghold Images
-require("./../assets/Images/Allotment Herb Patches/TrollheimHerbPatch3d.png");
-//Wilderness Images
-require("./../assets/Images/Allotment Herb Patches/Wildernesslvl22HerbPatch.png");
-require("./../assets/Images/Allotment Herb Patches/Wildernesslvl38HerbPatch3d.png");
-//Garnden of Kharid Images
-require("./../assets/Images/Allotment Herb Patches/GardenofKharidHerbPatch3d.png");
+
 export const AllotmentHerbFlowerPatches: React.FC = () => {
   // Ardougne Patch Finished Variables
   const [isCompleteArdyUA] = useState(false);

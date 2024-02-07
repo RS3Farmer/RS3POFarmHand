@@ -16,6 +16,7 @@ import { Select, Modal, Button, ScrollAreaAutosize } from "@mantine/core";
 import TeleportFetch from "./Fetchers/Fetchers";
 import TeleportModalContent from "./Modal Content/TeleportModal";
 import { useDisclosure } from "@mantine/hooks";
+import { RequiredImages } from "./ImportImages";
 export const FarmingIndex: React.FC = () => {
   const [showAllotment, setShowAllotment] = useState(false);
   const [showMushroom, setShowMushroom] = useState(false);
@@ -141,6 +142,7 @@ export const FarmingIndex: React.FC = () => {
 
   return (
     <>
+      <RequiredImages />
       <TeleportFetch />
       <Modal
         className="TPModal"

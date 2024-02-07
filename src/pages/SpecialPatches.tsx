@@ -1,34 +1,6 @@
 import { Accordion } from "@mantine/core";
 import React, { useState } from "react";
-//Ardougne Images
-require("./../assets/Images/Special Patches/ArdougneSpecialPatch.png");
-require("./../assets/Images/Special Patches/ManorFarmSpecialPatches.png");
-//Anachronia Images
-require("./../assets/Images/Special Patches/VilebloomPatchAnachronia.png");
-//Draynor Images
-require("./../assets/Images/Special Patches/EvilturnipPatch3d.png");
-require("./../assets/Images/Special Patches/NightshadePatch3d.png");
-//Herblore Habitat Images
-require("./../assets/Images/Special Patches/HerbloreHabitatVineHerblorePatch.png");
-require("./../assets/Images/Special Patches/HerbloreHabitatVineHerblorePatch2.png");
-require("./../assets/Images/Special Patches/HerbloreHabitatFlowerPatch.png");
-require("./../assets/Images/Special Patches/HerbloreHabitatBushPatch.png");
-//Tai Bwo Wannai Images
-require("./../assets/Images/Special Patches/calquatpatch3d.png");
-//Priffdinas Images
-require("./../assets/Images/Special Patches/CrystalTreePatchPriff3d.png");
-require("./../assets/Images/Special Patches/PriffElderTreePatch3d.png");
-require("./../assets/Images/Special Patches/HarmoneyMoss.png");
-//Tuai Leit Images
-require("./../assets/Images/Special Patches/TuaiLeitArcBerryBushPatch3d.png");
-//Taverly Images
-require("./../assets/Images/Special Patches/PotatoePatchReg.png");
-require("./../assets/Images/Special Patches/PotatoePatchComplete.png");
-require("./../assets/Images/Special Patches/PotatoePatch.png");
-//Livid Farm Images
-require("./../assets/Images/Special Patches/SingleUsePlot3dLunarIsle.png");
-require("./../assets/Images/Special Patches/SingleUseAllotmentReg.png");
-require("./../assets/Images/Special Patches/SingleUseAllotmentComplete.png");
+
 export const SpecialPatches: React.FC = () => {
   //Anachronia
   const [isAnachroniaCompleted] = useState(false);
