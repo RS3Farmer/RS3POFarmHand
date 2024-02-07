@@ -109,7 +109,7 @@ export const BushList: React.FC = () => {
           </Accordion.Panel>
         </Accordion.Item>
         <Accordion.Item value="Etceteria">
-          <Accordion.Control>Etceteria</Accordion.Control>
+          <Accordion.Control>Etceteria South-West</Accordion.Control>
           <Accordion.Panel>
             <img
               src="./dist/escentiaBush3d.png"
@@ -136,7 +136,7 @@ export const BushList: React.FC = () => {
           </Accordion.Panel>
         </Accordion.Item>
         <Accordion.Item value="Priffdinas">
-          <Accordion.Control>Priffdinas</Accordion.Control>
+          <Accordion.Control>Priffdinas (Crwys District)</Accordion.Control>
           <Accordion.Panel>
             <img
               src="./dist/PriffHerbBushPatch.png"

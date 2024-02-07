@@ -220,7 +220,7 @@ export const FruitTreePatches = () => {
           </Accordion.Panel>
         </Accordion.Item>
         <Accordion.Item value="West Tree Gnome Village">
-          <Accordion.Control>West Tree Gnome Village</Accordion.Control>
+          <Accordion.Control>West of Tree Gnome Village</Accordion.Control>
           <Accordion.Panel>
             <img
               src="./dist/FruitTreePatchWestGnomeVill3d.png"

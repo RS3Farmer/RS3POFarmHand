@@ -66,6 +66,7 @@ export const AllotmentHerbFlowerPatches: React.FC = () => {
   const [isCompleteKharidHP] = useState(false);
   //Harmony Island Patch Finished Variables
   const [isCompleteHarmonyHP] = useState(false);
+
   return (
     <>
       <div className="TopPadding" />
@@ -97,76 +98,6 @@ export const AllotmentHerbFlowerPatches: React.FC = () => {
         }}
         variant="contained"
       >
-        <Accordion.Item value="Ardougne">
-          <Accordion.Control>Ardougne</Accordion.Control>
-          <Accordion.Panel>
-            <img
-              src="./dist/Ardy3dPatch.png"
-              style={{ borderRadius: "3px", margin: "3px auto" }}
-            />{" "}
-            <div style={{ height: "15px" }}></div>
-            <div
-              className="ArdyPatch"
-              style={{ margin: "0px auto", position: "relative" }}
-            >
-              <div style={{ position: "absolute", left: "115px", top: "10px" }}>
-                <ol>
-                  <li>2 x Allotment Patches</li>
-                  <li>1 x Herb Patch</li>
-                  <li>1 x Flower Patch</li>
-                </ol>
-              </div>
-              <img
-                src="./dist/ArdougneFarmingPatchReg.png"
-                style={{ position: "static" }}
-              />
-              {isCompleteArdyUA && (
-                <img
-                  style={{
-                    position: "absolute",
-                    margin: "0px",
-                    left: "4px",
-                    bottom: "58px",
-                  }}
-                  src="./dist/ArdyAllotmentTopPatch.png"
-                />
-              )}
-              {isCompleteArdyBA && (
-                <img
-                  style={{
-                    position: "absolute",
-                    left: "3px",
-                    bottom: "2px",
-                  }}
-                  className="ardyBottomPatch"
-                  src="./dist/ArdyAllotmentBottomPatch.png"
-                />
-              )}
-              {isCompleteArdyHP && (
-                <img
-                  style={{
-                    position: "absolute",
-                    left: "35px",
-                    bottom: "35px",
-                  }}
-                  className="ardyFlowerPatch"
-                  src="./dist/HerbOrFlowerPatch.png"
-                />
-              )}
-              {isCompleteArdyFP && (
-                <img
-                  style={{
-                    position: "absolute",
-                    left: "67px",
-                    bottom: "35px",
-                  }}
-                  className="ardyHerbPatch"
-                  src="./dist/HerbOrFlowerPatch.png"
-                />
-              )}
-            </div>
-          </Accordion.Panel>
-        </Accordion.Item>
         <Accordion.Item value="Catherby">
           <Accordion.Control>Catherby</Accordion.Control>
           <Accordion.Panel>
@@ -401,8 +332,78 @@ export const AllotmentHerbFlowerPatches: React.FC = () => {
             </div>
           </Accordion.Panel>
         </Accordion.Item>
+        <Accordion.Item value="Manor Farm">
+          <Accordion.Control>Manor Farm</Accordion.Control>
+          <Accordion.Panel>
+            <img
+              src="./dist/Ardy3dPatch.png"
+              style={{ borderRadius: "3px", margin: "3px auto" }}
+            />{" "}
+            <div style={{ height: "15px" }}></div>
+            <div
+              className="ArdyPatch"
+              style={{ margin: "0px auto", position: "relative" }}
+            >
+              <div style={{ position: "absolute", left: "115px", top: "10px" }}>
+                <ol>
+                  <li>2 x Allotment Patches</li>
+                  <li>1 x Herb Patch</li>
+                  <li>1 x Flower Patch</li>
+                </ol>
+              </div>
+              <img
+                src="./dist/ArdougneFarmingPatchReg.png"
+                style={{ position: "static" }}
+              />
+              {isCompleteArdyUA && (
+                <img
+                  style={{
+                    position: "absolute",
+                    margin: "0px",
+                    left: "4px",
+                    bottom: "58px",
+                  }}
+                  src="./dist/ArdyAllotmentTopPatch.png"
+                />
+              )}
+              {isCompleteArdyBA && (
+                <img
+                  style={{
+                    position: "absolute",
+                    left: "3px",
+                    bottom: "2px",
+                  }}
+                  className="ardyBottomPatch"
+                  src="./dist/ArdyAllotmentBottomPatch.png"
+                />
+              )}
+              {isCompleteArdyHP && (
+                <img
+                  style={{
+                    position: "absolute",
+                    left: "35px",
+                    bottom: "35px",
+                  }}
+                  className="ardyFlowerPatch"
+                  src="./dist/HerbOrFlowerPatch.png"
+                />
+              )}
+              {isCompleteArdyFP && (
+                <img
+                  style={{
+                    position: "absolute",
+                    left: "67px",
+                    bottom: "35px",
+                  }}
+                  className="ardyHerbPatch"
+                  src="./dist/HerbOrFlowerPatch.png"
+                />
+              )}
+            </div>
+          </Accordion.Panel>
+        </Accordion.Item>
         <Accordion.Item value="Prifddinas">
-          <Accordion.Control>Prifddinas</Accordion.Control>
+          <Accordion.Control>Prifddinas (Crwys District)</Accordion.Control>
           <Accordion.Panel>
             <img src="./dist/PriffHerbBushPatch.png" />
             <div style={{ height: "15px" }}></div>

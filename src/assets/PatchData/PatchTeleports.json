@@ -1,6 +1,15 @@
 [
   {
-    "location": "Draynor",
+    "location": "Catherby Allotment",
+    "teleports": [
+      "Modified botanist's mask (3 teleports daily)",
+      "Catherby lodestone",
+      "Camelot Teleport",
+      "Catherby Teleport (Lunar Spellbook)"
+    ]
+  },
+  {
+    "location": "Falador South",
     "teleports": [
       "Cabbage-port using Explorer's ring 3 and above",
       "South Falador Teleport (Lunar Spellbook)",
@@ -11,7 +20,7 @@
     ]
   },
   {
-    "location": "Phasmatys Patch",
+    "location": "NE Canifis/NW Port Phasmatys",
     "teleports": [
       "Modified farmer's hat (3 teleports daily)",
       "Ectophial",
@@ -23,16 +32,17 @@
     ]
   },
   {
-    "location": "Catherby Patch",
+    "location": "Harmony Island",
     "teleports": [
-      "Modified botanist's mask (3 teleports daily)",
-      "Catherby lodestone",
-      "Camelot Teleport",
-      "Catherby Teleport (Lunar Spellbook)"
+      "Charter ship to Mos Le'Harmless",
+      "Rum (Trouble Brewing)",
+      "Pirate spell sheet",
+      "Big Book o' Piracy",
+      "Ectophial to Port Phasmatys"
     ]
   },
   {
-    "location": "Ardougne Patch",
+    "location": "Manor Farm",
     "teleports": [
       "Manor farm Teleport (requires Ardougne cloak 2 and above or using any of the master farmer outfit variants)",
       "Ardougne lodestone",
@@ -47,6 +57,24 @@
     ]
   },
   {
+    "location": "Inner circle of the Crwys Clan of Prifddinas",
+    "teleports": [
+      "Crystal teleport seed to Crwys section",
+      "Lodestone to Prifddinas",
+      "Prifddinas camouflage outfit to Crwys district (5 teleports daily)",
+      "Master camouflage outfit to Crwys district",
+      "Spirit Tree to Prifddinas"
+    ]
+  },
+  {
+    "location": "Troll Stronghold (roof)",
+    "teleports": [
+      "Trollheim farm teleport spell or tablet (Lunar spell unlocked at Livid Farm)",
+      "Trollheim Teleport, then West, enter in Troll Stronghold's Cave Entrance and climb the Troll Ladder following the South-West patch inside there",
+      "Fairy ring code AJR, Ring of slaying, or Mask of Stone teleport to Fremennik Slayer Dungeon, then north and east path - requires Climbing boots - then enter in the Troll Stronghold's secret entrance, go north, climb two sections of stone staircase, follow the south-west path and climb the troll ladder"
+    ]
+  },
+  {
     "location": "Wilderness (level 22)",
     "teleports": [
       "Wilderness obelisk teleport to level 27 wilderness and run south-west.",
@@ -56,13 +84,287 @@
     ]
   },
   {
-    "location": "Harmony Island",
+    "location": "Wilderness (level 38)",
     "teleports": [
-      "Charter ship to Mos Le'Harmless",
-      "Rum (Trouble Brewing)",
-      "Pirate spell sheet",
-      "Big Book o' Piracy",
-      "Ectophial to Port Phasmatys"
+      "Wilderness sword 1 (and up) teleport to herb patch",
+      "Use a waka canoe from stations along the River Lum to the Wilderness (requires 57 Woodcutting)",
+      "Use Wilderness Obelisk, obelisk shards, or portable obelisk to level 35 and run north-east",
+      "Wilderness Crater lodestone to Wilderness and run north around the Wilderness Crater",
+      "Use the lever to the Deserted Keep and run south"
+    ]
+  },
+  {
+    "location": "Garden of Kharid",
+    "teleports": [
+      "Mystical sand seed or sand seed",
+      "Ring of duelling to Het's Oasis and then run north",
+      "Wicked hood's fire altar teleport and then run north",
+      "Dungeoneering cape to the Al Kharid resource dungeon",
+      "Teleport to the Al Kharid lodestone and run north"
+    ]
+  },
+  {
+    "location": "Champions Guild South",
+    "teleports": [
+      "Canoe",
+      "Lumbridge Teleport",
+      "Varrock lodestone",
+      "Combat bracelet to Champions' Guild"
+    ]
+  },
+  {
+    "location": "North of McGrubor's Wood",
+    "teleports": [
+      "Seers' Village lodestone",
+      "Camelot Teleport",
+      "Combat bracelet to Ranging Guild",
+      "Fairy ring code ALS to McGrubor's Wood"
+    ]
+  },
+  {
+    "location": "Entrana",
+    "teleports": [
+      "Balloon transport system",
+      "Port Sarim lodestone",
+      "'Cabbage-port' using explorer's ring 3 and above to north of Port Sarim",
+      "Amulet of glory to Draynor",
+      "Arc journal Port Sarim teleport",
+      "Wicked Hood teleport to Law altar, or Law altar teleport tablet"
+    ]
+  },
+  {
+    "location": "Yanille",
+    "teleports": [
+      "Watchtower Teleport; can change this teleport to appear inside Yanille walls if the Hard Ardougne achievements are completed",
+      "Fairy ring code CIQ",
+      "Yanille House Teleport if player-owned house is in Yanille",
+      "Yanille tablet after completion of the Love Story quest",
+      "Yanille lodestone"
+    ]
+  },
+
+  {
+    "location": "Champions' Guild West ",
+    "teleports": [
+      "Combat bracelet to Champions' Guild",
+      "Master quest cape to Champions' Guild",
+      "Canoe",
+      "Varrock lodestone"
+    ]
+  },
+  {
+    "location": "Ardougne South ",
+    "teleports": [
+      "Ardougne cloak teleport to Kandarin Monastery",
+      "Fairy ring code DJP",
+      "Ardougne Teleport",
+      "Spirit tree 3",
+      "Ardougne lodestone",
+      "Clocktower Teleport"
+    ]
+  },
+  {
+    "location": "Prifddinas (Crwys District)",
+    "teleports": [
+      "Crystal teleport seed to Crwys section",
+      "Spirit Tree in Prifddinas 0",
+      "Prifddinas lodestone"
+    ]
+  },
+  {
+    "location": "Rimmington",
+    "teleports": [
+      "House Teleport to Rimmington",
+      "Remora's necklace teleport",
+      "Port Sarim lodestone",
+      "Skills necklace to Crafting Guild",
+      "Balloon transport system to Crafting Guild",
+      "Clan vexillum teleport",
+      "Armadylean token",
+      "Nature's sentinel outfit teleport to Rimmington's Elder tree"
+    ]
+  },
+  {
+    "location": "South-West Etceteria",
+    "teleports": [
+      "Spirit tree 7",
+      "Enchanted lyre",
+      "Fairy ring code CIP (Miscellania)",
+      "Ring of Wealth to Miscellania",
+      "Miscellania teleport scroll",
+      "Fremennik Province lodestone"
+    ]
+  },
+  {
+    "location": "Gnome Stronghold",
+    "teleports": [
+      "Gnome glider",
+      "Nature's sentinel outfit teleport to Tree gnome stronghold's Elder tree",
+      "Spirit tree",
+      "Balloon transport system",
+      "Grand seed pod",
+      "Eagles' Peak lodestone with an agility shortcut (fair amount of walking)"
+    ]
+  },
+  {
+    "location": "Falador Park",
+    "teleports": [
+      "Artisans' Workshop teleport using the Modified Blacksmith's Helmet",
+      "Falador Teleport",
+      "'Cabbage-port' using Explorer's ring 3 and above",
+      "Skills necklace to Mining Guild",
+      "Falador lodestone"
+    ]
+  },
+  {
+    "location": "Lumbridge (East of General Store)",
+    "teleports": [
+      "Artisans' Workshop teleport using the Modified Blacksmith's Helmet",
+      "Falador Teleport",
+      "'Cabbage-port' using Explorer's ring 3 and above",
+      "Skills necklace to Mining Guild",
+      "Falador lodestone"
+    ]
+  },
+  {
+    "location": "Varrock Castle Courtyard",
+    "teleports": [
+      "Varrock Teleport",
+      "Master quest cape to Varrock Museum",
+      "Spirit tree",
+      "Ring of Wealth to Grand Exchange",
+      "Varrock lodestone",
+      "'Chipped' Varrock teleport (Dave's Spellbook)"
+    ]
+  },
+  {
+    "location": "North Taverley",
+    "teleports": [
+      "House Teleport if house is in Taverley",
+      "Taverley tablet after completion of the Love Story quest",
+      "Taverley lodestone and head North"
+    ]
+  },
+  {
+    "location": "Prifddinas (Trahaearn District)",
+    "teleports": [
+      "Prifddinas lodestone",
+      "Crystal teleport seed to Trahaearn section",
+      "Spirit Tree in Prifddinas"
+    ]
+  },
+  {
+    "location": "Woodcutters Grove",
+    "teleports": [
+      "Fort Forinthry lodestone",
+      "Fairy ring to Fort Forinthry (BJP)"
+    ]
+  },
+  {
+    "location": "West of Tree Gnome Village",
+    "teleports": [
+      "Spirit tree 1 to Tree Gnome Village; Elkoy will guide players out of the maze placing them near the patch",
+      "Fairy ring code CIQ",
+      "Ardougne Cloak to Kandarin Monastery, then west",
+      "Gnome glider 7 to Tree Gnome Village (unlocked after completion of the The Prisoner of Glouphrie quest)",
+      "Lodestone to Yanille",
+      "Use a Ring of Dueling to teleport to Castle wars, then run north"
+    ]
+  },
+  {
+    "location": "North Brimhaven",
+    "teleports": [
+      "Spirit tree 8 if planted in Brimhaven",
+      "Karamja Gloves 3 to gem mine, then use Shilo Village Cart Ride",
+      "House Teleport if house is in Brimhaven",
+      "Brimhaven Tablet after completion of the Love Story quest",
+      "Lodestone to Karamja K",
+      "Use the Ardougne teleport (normal Spellbook) and head south, the ship there goes to Brimhaven",
+      "Charter Ships from numerous ports to Brimhaven for a tiny fee. This option is convenient for players not on regular magics."
+    ]
+  },
+  {
+    "location": "Lletya",
+    "teleports": [
+      "Crystal teleport seed 1",
+      "Tirannwn quiver 1 or higher",
+      "Charter ship to Port Tyras",
+      "Lodestone to Tirannwn"
+    ]
+  },
+  {
+    "location": "Herblore Habitat",
+    "teleports": [
+      "Juju teleport spiritbag",
+      "Witchdoctor mask",
+      "Master farmer hat (If you have Juju teleport spiritbag or Witchdoctor mask unlocked)",
+      "Gnome glider 5 to Gandius (South Karamja)"
+    ]
+  },
+  {
+    "location": "Prifddinas (Meilyr District)",
+    "teleports": [
+      "Crystal teleport seed 8",
+      "Lodestone to Prifddinas",
+      "Gnome glider 8",
+      "Tirannwn quiver 4 to Harmony pillars then run north",
+      "Dungeoneering cape"
+    ]
+  },
+  {
+    "location": "Prifddinas (Center)",
+    "teleports": [
+      "Crystal teleport seed 8",
+      "Lodestone to Prifddinas",
+      "Gnome glider 8",
+      "Tirannwn quiver 4 to Harmony pillars then run north",
+      "Dungeoneering cape"
+    ]
+  },
+  {
+    "location": "West of Canifis",
+    "teleports": [
+      "Fairy ring code CKS",
+      "Kharyrll Teleport (Ancient Magicks)",
+      "Canifis lodestone",
+      "Slayer Cape to Mazchna",
+      "Dungeoneering Cape to Morytania slayer tower dungeon"
+    ]
+  },
+  {
+    "location": "South-west of Tirannwn lodestone",
+    "teleports": [
+      "Tirannwn lodestone",
+      "Tirannwn quiver 3 and up",
+      "Canifis lodestone",
+      "Slayer Cape to Mazchna",
+      "Dungeoneering Cape to Morytania slayer tower dungeon"
+    ]
+  },
+  {
+    "location": "East of City of Um",
+    "teleports": [
+      "Tome of Um 1 and up",
+      "City of Um Teleport",
+      "City of Um lodestone"
+    ]
+  },
+  {
+    "location": "Al Kharid",
+    "teleports": [
+      "Al Kharid lodestone",
+      "Amulet of glory to Al Kharid",
+      "Ring of duelling to Het's Oasis",
+      "Broomstick teleport"
+    ]
+  },
+
+  {
+    "location": "North Anachronia",
+    "teleports": [
+      "Totem of the Abyss (North totem hotspot)",
+      "Orthen teleportation device to Observation outpost",
+      "Anachronia lodestone"
     ]
   },
   {
@@ -74,7 +376,37 @@
     ]
   },
   {
-    "location": "Troll Stronghold",
-    "teleports": [""]
+    "location": "Menaphos (Imperial District)",
+    "teleports": [
+      "Menaphos lodestone",
+      "Imperial district teleport",
+      "Sceptre of the gods"
+    ]
+  },
+  {
+    "location": "North Tai Bwo Wannai",
+    "teleports": [
+      "Tai bwo wannai teleport",
+      "Karamja lodestone",
+      "Fairy ring code CKR",
+      "House Teleport to Brimhaven if house is in Brimhaven",
+      "Brimhaven Tablet after completion of the Love Story quest"
+    ]
+  },
+  {
+    "location": "North Taverley",
+    "teleports": [
+      "House Teleport if house is in Taverley",
+      "Taverley tablet after completion of the Love Story quest",
+      "Taverley lodestone and head North"
+    ]
+  },
+  {
+    "location": "Tuai Leit",
+    "teleports": [
+      "Tuai Leit teleport",
+      "Gnome glider (Kai-Undri)",
+      "Quartermaster Gully on the Port Sarim docks"
+    ]
   }
 ]

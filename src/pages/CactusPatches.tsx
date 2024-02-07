@@ -41,8 +41,8 @@ export const CactusPatches = () => {
         }}
         variant="contained"
       >
-        <Accordion.Item value="Alkharid (north)">
-          <Accordion.Control>Alkharid (North)</Accordion.Control>
+        <Accordion.Item value="Alkharid">
+          <Accordion.Control>Alkharid</Accordion.Control>
           <Accordion.Panel>
             <img
               src="./dist/CactusPatchAlkharid3d.png"
@@ -133,9 +133,7 @@ export const CactusPatches = () => {
           </Accordion.Panel>
         </Accordion.Item>
         <Accordion.Item value="West Menaphos (Imperial District)">
-          <Accordion.Control>
-            West Menaphos (Imperial District)
-          </Accordion.Control>
+          <Accordion.Control>Menaphos (Imperial District)</Accordion.Control>
           <Accordion.Panel>
             <img
               src="./dist/MenaphosCactusPatch3d.png"

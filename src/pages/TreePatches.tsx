@@ -77,7 +77,9 @@ export const TreePatches: React.FC = () => {
           </Accordion.Panel>
         </Accordion.Item>
         <Accordion.Item value="North East Lumbridge">
-          <Accordion.Control>North East Lumbridge</Accordion.Control>
+          <Accordion.Control>
+            Lumbridge (East of General Store)
+          </Accordion.Control>
           <Accordion.Panel>
             <img
               src="./dist/LumbridgeTreePatch3d.png"

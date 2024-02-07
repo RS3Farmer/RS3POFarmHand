@@ -521,34 +521,6 @@ export const SpecialPatches: React.FC = () => {
             </div>
           </Accordion.Panel>
         </Accordion.Item>
-
-        <Accordion.Item value="Tai Bwo Wannai">
-          <Accordion.Control>Tai Bwo Wannai</Accordion.Control>
-          <Accordion.Panel>
-            <img
-              src="./dist/calquatpatch3d.png"
-              style={{ borderRadius: "3px" }}
-            />{" "}
-            <div style={{ height: "15px" }}></div>
-            <div style={{ position: "relative", margin: "0px auto" }}>
-              <div style={{ position: "absolute", left: "65px", top: "0px" }}>
-                <ol>
-                  <li>1 x Calquat Tree Patch</li>
-                </ol>
-              </div>
-              <img
-                src="./dist/TreePatchReg.png"
-                style={{ position: "static" }}
-              />
-              {isTaiBwoWannaiCompleted && (
-                <img
-                  src="./dist/TreePatchCompleted.png"
-                  style={{ position: "absolute", bottom: "0px" }}
-                />
-              )}
-            </div>
-          </Accordion.Panel>
-        </Accordion.Item>
         <Accordion.Item value="Taverly">
           <Accordion.Control>Taverly</Accordion.Control>
           <Accordion.Panel>
@@ -570,6 +542,33 @@ export const SpecialPatches: React.FC = () => {
               {isTaverlyCompleted && (
                 <img
                   src="./dist/PotatoePatchComplete.png"
+                  style={{ position: "absolute", bottom: "0px" }}
+                />
+              )}
+            </div>
+          </Accordion.Panel>
+        </Accordion.Item>{" "}
+        <Accordion.Item value="Tai Bwo Wannai">
+          <Accordion.Control>North Tai Bwo Wannai</Accordion.Control>
+          <Accordion.Panel>
+            <img
+              src="./dist/calquatpatch3d.png"
+              style={{ borderRadius: "3px" }}
+            />{" "}
+            <div style={{ height: "15px" }}></div>
+            <div style={{ position: "relative", margin: "0px auto" }}>
+              <div style={{ position: "absolute", left: "65px", top: "0px" }}>
+                <ol>
+                  <li>1 x Calquat Tree Patch</li>
+                </ol>
+              </div>
+              <img
+                src="./dist/TreePatchReg.png"
+                style={{ position: "static" }}
+              />
+              {isTaiBwoWannaiCompleted && (
+                <img
+                  src="./dist/TreePatchCompleted.png"
                   style={{ position: "absolute", bottom: "0px" }}
                 />
               )}

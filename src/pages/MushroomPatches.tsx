@@ -41,7 +41,7 @@ export const MushroomPatches: React.FC = () => {
         variant="contained"
       >
         <Accordion.Item value="Canifis">
-          <Accordion.Control>Canifis</Accordion.Control>
+          <Accordion.Control>West of Canifis</Accordion.Control>
           <Accordion.Panel>
             <img
               src="./dist/CanifisMushroomPatch.png"
@@ -72,7 +72,7 @@ export const MushroomPatches: React.FC = () => {
           </Accordion.Panel>
         </Accordion.Item>
         <Accordion.Item value="City of Um">
-          <Accordion.Control>City of Um</Accordion.Control>
+          <Accordion.Control>East of City of Um</Accordion.Control>
           <Accordion.Panel>
             <img
               src="./dist/cityofummushroompatch3d.png"
@@ -105,7 +105,9 @@ export const MushroomPatches: React.FC = () => {
           </Accordion.Panel>
         </Accordion.Item>
         <Accordion.Item value="Tirannwn">
-          <Accordion.Control>Tirannwn</Accordion.Control>
+          <Accordion.Control>
+            South-west of Tirannwn lodestone
+          </Accordion.Control>
           <Accordion.Panel>
             <img
               src="./dist/TyrawynnMushroomPatch3d.png"
