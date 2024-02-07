@@ -142,7 +142,6 @@
       "Yanille lodestone"
     ]
   },
-
   {
     "location": "Champions' Guild West ",
     "teleports": [
@@ -150,6 +149,17 @@
       "Master quest cape to Champions' Guild",
       "Canoe",
       "Varrock lodestone"
+    ]
+  },
+  {
+    "location": "South-West Etceteria",
+    "teleports": [
+      "Spirit tree 7",
+      "Enchanted lyre",
+      "Fairy ring code CIP (Miscellania)",
+      "Ring of Wealth to Miscellania",
+      "Miscellania teleport scroll",
+      "Fremennik Province lodestone"
     ]
   },
   {
@@ -161,14 +171,6 @@
       "Spirit tree 3",
       "Ardougne lodestone",
       "Clocktower Teleport"
-    ]
-  },
-  {
-    "location": "Prifddinas (Crwys District)",
-    "teleports": [
-      "Crystal teleport seed to Crwys section",
-      "Spirit Tree in Prifddinas 0",
-      "Prifddinas lodestone"
     ]
   },
   {
@@ -185,14 +187,73 @@
     ]
   },
   {
-    "location": "South-West Etceteria",
+    "location": "Prifddinas (Crwys District)",
     "teleports": [
-      "Spirit tree 7",
-      "Enchanted lyre",
-      "Fairy ring code CIP (Miscellania)",
-      "Ring of Wealth to Miscellania",
-      "Miscellania teleport scroll",
-      "Fremennik Province lodestone"
+      "Crystal teleport seed to Crwys section",
+      "Spirit Tree in Prifddinas 0",
+      "Prifddinas lodestone"
+    ]
+  },
+  {
+    "location": "Al Kharid",
+    "teleports": [
+      "Al Kharid lodestone",
+      "Amulet of glory to Al Kharid",
+      "Ring of duelling to Het's Oasis",
+      "Broomstick teleport"
+    ]
+  },
+  {
+    "location": "North Anachronia",
+    "teleports": [
+      "Totem of the Abyss (North totem hotspot)",
+      "Orthen teleportation device to Observation outpost",
+      "Anachronia lodestone"
+    ]
+  },
+  {
+    "location": "Hets Oasis",
+    "teleports": [
+      "Master archaeologist's outfit to Kharid-et",
+      "Ring of duelling to Het's Oasis",
+      "Sceptre of the gods"
+    ]
+  },
+  {
+    "location": "Menaphos (Imperial District)",
+    "teleports": [
+      "Menaphos lodestone",
+      "Imperial district teleport",
+      "Al Kharid lodestone",
+      "Amulet of glory to Al Kharid"
+    ]
+  },
+  {
+    "location": "West of Canifis",
+    "teleports": [
+      "Fairy ring code CKS",
+      "Kharyrll Teleport (Ancient Magicks)",
+      "Canifis lodestone",
+      "Slayer Cape to Mazchna",
+      "Dungeoneering Cape to Morytania slayer tower dungeon"
+    ]
+  },
+  {
+    "location": "South-west of Tirannwn lodestone",
+    "teleports": [
+      "Tirannwn lodestone",
+      "Tirannwn quiver 3 and up",
+      "Canifis lodestone",
+      "Slayer Cape to Mazchna",
+      "Dungeoneering Cape to Morytania slayer tower dungeon"
+    ]
+  },
+  {
+    "location": "East of City of Um",
+    "teleports": [
+      "Tome of Um 1 and up",
+      "City of Um Teleport",
+      "City of Um lodestone"
     ]
   },
   {
@@ -261,17 +322,6 @@
     ]
   },
   {
-    "location": "West of Tree Gnome Village",
-    "teleports": [
-      "Spirit tree 1 to Tree Gnome Village; Elkoy will guide players out of the maze placing them near the patch",
-      "Fairy ring code CIQ",
-      "Ardougne Cloak to Kandarin Monastery, then west",
-      "Gnome glider 7 to Tree Gnome Village (unlocked after completion of the The Prisoner of Glouphrie quest)",
-      "Lodestone to Yanille",
-      "Use a Ring of Dueling to teleport to Castle wars, then run north"
-    ]
-  },
-  {
     "location": "North Brimhaven",
     "teleports": [
       "Spirit tree 8 if planted in Brimhaven",
@@ -281,6 +331,27 @@
       "Lodestone to Karamja K",
       "Use the Ardougne teleport (normal Spellbook) and head south, the ship there goes to Brimhaven",
       "Charter Ships from numerous ports to Brimhaven for a tiny fee. This option is convenient for players not on regular magics."
+    ]
+  },
+  {
+    "location": "Catherby East",
+    "teleports": [
+      "Catherby Teleport (Lunar Spellbook)",
+      "Gnome glider 2 to White Wolf Mountain",
+      "Camelot Teleport",
+      "Lodestone to Catherby C",
+      "Lodestone to Yanille",
+      "Chipped' Camelot Teleport (Dave's Spellbook)"
+    ]
+  },
+  {
+    "location": "Gnome Stronghold",
+    "teleports": [
+      "Gnome glider 1",
+      "Spirit tree 2 Run North of Agility Course",
+      "Balloon transport system",
+      "Use a Hazelmere's signet ring to teleport to Hazelmere (Tree Gnome Stronghold)",
+      "Lodestone to Eagles' Peak with Agility shortcut (obnoxious amount of walking)"
     ]
   },
   {
@@ -312,6 +383,29 @@
     ]
   },
   {
+    "location": "West of Tree Gnome Village",
+    "teleports": [
+      "Spirit tree 1 to Tree Gnome Village; Elkoy will guide players out of the maze placing them near the patch",
+      "Fairy ring code CIQ",
+      "Ardougne Cloak to Kandarin Monastery, then west",
+      "Gnome glider 7 to Tree Gnome Village (unlocked after completion of the The Prisoner of Glouphrie quest)",
+      "Lodestone to Yanille",
+      "Use a Ring of Dueling to teleport to Castle wars, then run north"
+    ]
+  },
+  {
+    "location": "Anachronia (East)",
+    "teleports": ["Lodestone to Anachronia"]
+  },
+  {
+    "location": "Draynor Manor",
+    "teleports": [
+      "Cabbage-port using Explorer's ring 3 and above",
+      "Draynor Village lodestone",
+      "Captain's log to Player Owned Ports"
+    ]
+  },
+  {
     "location": "Prifddinas (Center)",
     "teleports": [
       "Crystal teleport seed 8",
@@ -321,52 +415,7 @@
       "Dungeoneering cape"
     ]
   },
-  {
-    "location": "West of Canifis",
-    "teleports": [
-      "Fairy ring code CKS",
-      "Kharyrll Teleport (Ancient Magicks)",
-      "Canifis lodestone",
-      "Slayer Cape to Mazchna",
-      "Dungeoneering Cape to Morytania slayer tower dungeon"
-    ]
-  },
-  {
-    "location": "South-west of Tirannwn lodestone",
-    "teleports": [
-      "Tirannwn lodestone",
-      "Tirannwn quiver 3 and up",
-      "Canifis lodestone",
-      "Slayer Cape to Mazchna",
-      "Dungeoneering Cape to Morytania slayer tower dungeon"
-    ]
-  },
-  {
-    "location": "East of City of Um",
-    "teleports": [
-      "Tome of Um 1 and up",
-      "City of Um Teleport",
-      "City of Um lodestone"
-    ]
-  },
-  {
-    "location": "Al Kharid",
-    "teleports": [
-      "Al Kharid lodestone",
-      "Amulet of glory to Al Kharid",
-      "Ring of duelling to Het's Oasis",
-      "Broomstick teleport"
-    ]
-  },
 
-  {
-    "location": "North Anachronia",
-    "teleports": [
-      "Totem of the Abyss (North totem hotspot)",
-      "Orthen teleportation device to Observation outpost",
-      "Anachronia lodestone"
-    ]
-  },
   {
     "location": "Livid Farm",
     "teleports": [
@@ -375,14 +424,7 @@
       "Seal of passage teleport option"
     ]
   },
-  {
-    "location": "Menaphos (Imperial District)",
-    "teleports": [
-      "Menaphos lodestone",
-      "Imperial district teleport",
-      "Sceptre of the gods"
-    ]
-  },
+
   {
     "location": "North Tai Bwo Wannai",
     "teleports": [
@@ -401,12 +443,68 @@
       "Taverley lodestone and head North"
     ]
   },
+
   {
     "location": "Tuai Leit",
     "teleports": [
       "Tuai Leit teleport",
       "Gnome glider (Kai-Undri)",
       "Quartermaster Gully on the Port Sarim docks"
+    ]
+  },
+  {
+    "location": "South-East Etceteria",
+    "teleports": [
+      "Enchanted lyre",
+      "Fairy ring code CIP",
+      "Miscellania teleport",
+      "Tier 2 Luck ring or higher",
+      "Rellekka tablet after completion of the Love Story quest",
+      "House Teleport if house is in Rellekka"
+    ]
+  },
+  {
+    "location": "East Port Sarim",
+    "teleports": [
+      "Captain's log teleport",
+      "'Cabbage-port' using Explorer's ring 3 and above",
+      "Amulet of glory to Draynor",
+      "Lodestone to Draynor or Port Sarim",
+      "Arc journal"
+    ]
+  },
+  {
+    "location": "North-East Brimhaven",
+    "teleports": [
+      "House Teleport to Brimhaven if house is in Brimhaven",
+      "Boat from Ardougne to Brimhaven",
+      "Brimhaven Tablet after completion of the Love Story quest",
+      "Travel Cart from Shilo Village to Brimhaven (use Karamja gloves 3 to teleport to Shilo Village)",
+      "Lodestone to Karamja",
+      "HUse the Ardougne teleport (normal Spellbook) and head south, the ship there goes to Brimhaven"
+    ]
+  },
+  {
+    "location": "Manor Farm",
+    "teleports": [
+      "Manor farm Teleport (requires Ardougne cloak 2 and above or using any of the master farmer outfit variants)",
+      "Ardougne lodestone",
+      "Ardougne Teleport",
+      "North Ardougne Teleport (Lunar Spellbook)",
+      "Skills necklace to Fishing Guild",
+      "Fishing Guild Teleport (Lunar Spellbook)",
+      "Combat bracelet to Ranging Guild",
+      "Fairy ring code BLR",
+      "Teleport to Stormguard Citadel Dig Site via Master archaeologist's outfit or dig sites map in Archaeology Guild",
+      "Cape of legends to Legends' Guild"
+    ]
+  },
+  {
+    "location": "North Taverley",
+    "teleports": [
+      "House Teleport if house is in Taverley",
+      "Taverley tablet after completion of the Love Story quest",
+      "Taverley lodestone and head North"
     ]
   }
 ]

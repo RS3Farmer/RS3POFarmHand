@@ -1,0 +1,9 @@
+0-9 Allotment
+10-13 Hops
+14-18 Bush
+19-22 Cactus
+23-25 Mushroom
+26-32 Tree
+33-39 Fruit Tree
+40-47 Special Patches
+48-52 Spirit Tree Patches

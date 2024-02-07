@@ -12,9 +12,10 @@ import { SpiritTreePatches } from "./SpiritTreePatches";
 import { FruitTreePatches } from "./FruitTreePatches";
 import { HopsPatches } from "./HopPatches";
 import { SpecialPatches } from "./SpecialPatches";
-import { Select } from "@mantine/core";
-import TeleportFetch from "./Fetchers/TeleportFetch";
-
+import { Select, Modal, Button, ScrollAreaAutosize } from "@mantine/core";
+import TeleportFetch from "./Fetchers/Fetchers";
+import TeleportModalContent from "./Modal Content/TeleportModal";
+import { useDisclosure } from "@mantine/hooks";
 export const FarmingIndex: React.FC = () => {
   const [showAllotment, setShowAllotment] = useState(false);
   const [showMushroom, setShowMushroom] = useState(false);
@@ -26,7 +27,7 @@ export const FarmingIndex: React.FC = () => {
   const [showHops, setShowHops] = useState(false);
   const [showSpecial, setShowSpecial] = useState(false);
   const [value, setValue] = useState<string | null>("");
-
+  const [opened, { open, close }] = useDisclosure(false);
   function handleSelectChange(value: string | null) {
     if (value === "Allotment, Herb, and Flower Patches") {
       setShowAllotment(true);
@@ -134,9 +135,29 @@ export const FarmingIndex: React.FC = () => {
     }
   }
 
+  function handleTPModal() {
+    open();
+  }
+
   return (
     <>
       <TeleportFetch />
+      <Modal
+        className="TPModal"
+        opened={opened}
+        onClose={close}
+        withCloseButton={false}
+        scrollAreaComponent={ScrollAreaAutosize}
+        styles={{
+          content: {
+            backgroundColor: "#2c3e50",
+            maxHeight: "100vh",
+            overflowY: "auto",
+          },
+        }}
+      >
+        <TeleportModalContent />
+      </Modal>
       <NavList />
       <div className="TopPadding" />
       <Select
@@ -159,6 +180,7 @@ export const FarmingIndex: React.FC = () => {
           setValue(value);
         }}
       />
+      <Button onClick={handleTPModal}>All Teleport Locations</Button>
       <div className="Container">
         {showAllotment && <AllotmentHerbFlowerPatches />}
         {showMushroom && <MushroomPatches />}
