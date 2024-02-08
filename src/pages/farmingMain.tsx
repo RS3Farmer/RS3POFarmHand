@@ -29,113 +29,17 @@ export const FarmingIndex: React.FC = () => {
   const [showSpecial, setShowSpecial] = useState(false);
   const [value, setValue] = useState<string | null>("");
   const [opened, { open, close }] = useDisclosure(false);
-  function handleSelectChange(value: string | null) {
-    if (value === "Allotment, Herb, and Flower Patches") {
-      setShowAllotment(true);
-      setShowMushroom(false);
-      setShowBush(false);
-      setShowCactus(false);
-      setShowSpiritTree(false);
-      setShowFruitTree(false);
-      setShowHops(false);
-      setShowSpecial(false);
-      setShowTree(false);
-    }
-    if (value === "Mushroom Patches") {
-      setShowAllotment(false);
-      setShowMushroom(true);
-      setShowBush(false);
-      setShowCactus(false);
-      setShowSpiritTree(false);
-      setShowFruitTree(false);
-      setShowHops(false);
-      setShowSpecial(false);
-      setShowTree(false);
-    }
-    if (value === "Bush Patches") {
-      setShowAllotment(false);
-      setShowMushroom(false);
-      setShowBush(true);
-      setShowCactus(false);
-      setShowSpiritTree(false);
-      setShowFruitTree(false);
-      setShowHops(false);
-      setShowSpecial(false);
-      setShowTree(false);
-    }
-    if (value === "Tree Patches") {
-      setShowAllotment(false);
-      setShowMushroom(false);
-      setShowBush(false);
-      setShowCactus(false);
-      setShowSpiritTree(false);
-      setShowFruitTree(false);
-      setShowHops(false);
-      setShowSpecial(false);
-      setShowTree(true);
-    }
-    if (value === "Cactus Patches") {
-      setShowAllotment(false);
-      setShowAllotment(false);
-      setShowMushroom(false);
-      setShowBush(false);
-      setShowCactus(true);
-      setShowSpiritTree(false);
-      setShowFruitTree(false);
-      setShowHops(false);
-      setShowSpecial(false);
-      setShowTree(false);
-    }
-    if (value === "Spirit Tree Patches") {
-      setShowAllotment(false);
-      setShowAllotment(false);
-      setShowMushroom(false);
-      setShowBush(false);
-      setShowCactus(false);
-      setShowSpiritTree(true);
-      setShowFruitTree(false);
-      setShowHops(false);
-      setShowSpecial(false);
-      setShowTree(false);
-    }
-    if (value === "Fruit Tree Patches") {
-      setShowAllotment(false);
-      setShowAllotment(false);
-      setShowMushroom(false);
-      setShowBush(false);
-      setShowCactus(false);
-      setShowSpiritTree(false);
-      setShowFruitTree(true);
-      setShowHops(false);
-      setShowSpecial(false);
-      setShowTree(false);
-    }
-    if (value === "Hops Patches") {
-      setShowAllotment(false);
-      setShowAllotment(false);
-      setShowMushroom(false);
-      setShowBush(false);
-      setShowCactus(false);
-      setShowSpiritTree(false);
-      setShowFruitTree(false);
-      setShowHops(true);
-      setShowSpecial(false);
-      setShowTree(false);
-    }
-    if (value === "Special Patches") {
-      setShowAllotment(false);
-      setShowAllotment(false);
-      setShowMushroom(false);
-      setShowBush(false);
-      setShowCactus(false);
-      setShowSpiritTree(false);
-      setShowFruitTree(false);
-      setShowHops(false);
-      setShowSpecial(true);
-      setShowTree(false);
-    }
+  function setShowPatch(value: string | null) {
+    setShowAllotment(value!.includes("Allotment"));
+    setShowBush(value === "Bush Patches");
+    setShowCactus(value === "Cactus Patches");
+    setShowFruitTree(value === "Fruit Tree Patches");
+    setShowHops(value === "Hops Patches");
+    setShowMushroom(value === "Mushroom Patches");
+    setShowTree(value === "Tree Patches");
+    setShowSpecial(value === "Special Patches");
+    setShowSpiritTree(value === "Spirit Tree Patches");
   }
-
   function handleTPModal() {
     open();
   }
@@ -178,7 +82,7 @@ export const FarmingIndex: React.FC = () => {
         ]}
         value={value}
         onChange={(value) => {
-          handleSelectChange(value);
+          setShowPatch(value);
           setValue(value);
         }}
       />
