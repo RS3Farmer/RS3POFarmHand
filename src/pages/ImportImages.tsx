@@ -152,6 +152,7 @@ export const RequiredImages: React.FC = () => {
   require("./../assets/Images/TeleportImages/GardenOfKharidTeles.png");
   require("./../assets/Images/TeleportImages/GnomeStrongholdTelesFruitTree.png");
   require("./../assets/Images/TeleportImages/GnomeStrongholdTelesTreePatch.png");
+  require("./../assets/Images/TeleportImages/HarmonyIslandTeles.png");
   require("./../assets/Images/TeleportImages/HerbloreHabitatTeles.png");
   require("./../assets/Images/TeleportImages/HetsOasisTeles.png");
   require("./../assets/Images/TeleportImages/LletyaTeles.png");
@@ -214,5 +215,6 @@ export const RequiredImages: React.FC = () => {
   require("./../assets/SeedData/MushroomSeeds.json");
   require("./../assets/SeedData/SpecialSeeds.json");
   require("./../assets/SeedData/TreeSeeds.json");
+
   return null;
 };

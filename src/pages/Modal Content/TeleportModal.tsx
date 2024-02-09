@@ -40,46 +40,80 @@ const TeleportModalContent: React.FC = () => {
       {/* Allotment */}
       <div className="rounded-md Patches">
         <h1 className="PatchesH1 rounded-b-md text-xl">Allotment Patches</h1>
-        {teleData?.slice(0, 10)?.map((value) => {
-          return (
-            <React.Fragment key={create_UUID()}>
-              <div className="smallPadding" />
-              <div>
-                <h3>{value.location}</h3>
-                <ol className="text-sm">
-                  {value.teleports.map((teleport: string) => (
-                    <li key={create_UUID()}>{teleport}</li>
-                  ))}
-                </ol>
+        {teleData?.slice(0, 10).map((value) => (
+          <React.Fragment key={value.id}>
+            <div className="smallPadding" />
+            <div
+              style={{
+                display: "grid",
+                gridTemplateAreas: ` "title title""list image" `,
+                gridGap: "20px", // Increased spacing
+              }}
+            >
+              <h2 style={{ gridArea: "title", justifySelf: "center" }}>
+                {value.location}
+              </h2>
+              <div style={{ gridArea: "image", marginBottom: "20px" }}>
+                <img src={value.teleImage} alt={value.teleImage} />
               </div>
-              <div className="smallPadding" />
-              <hr
-                className={`HR${value.location}`}
-                style={{ borderColor: "#3da648" }}
-              />
-            </React.Fragment>
-          );
-        })}
+              <ol
+                className="text-sm"
+                style={{ gridArea: "list", marginTop: "20px" }} // Added spacing
+              >
+                {value.teleports.map((teleport: string) => {
+                  return (
+                    <>
+                      <li key={create_UUID()}>-{teleport}</li>
+                      <div style={{ height: "45px" }} />
+                    </>
+                  );
+                })}
+              </ol>
+            </div>
+            <hr
+              className={`HR${value.location}`}
+              style={{ borderColor: "#3da648", margin: "20px 0" }}
+            />
+          </React.Fragment>
+        ))}
       </div>
 
       {/* Hops */}
       <div className="rounded-md Patches">
         <h1 className="PatchesH1 rounded-b-md text-xl">Hops</h1>
         {teleData?.slice(10, 14)?.map((value) => (
-          <React.Fragment key={create_UUID()}>
+          <React.Fragment key={value.id}>
             <div className="smallPadding" />
-            <div>
-              <h3>{value.location}</h3>
-              <ol className="text-sm">
-                {value.teleports.map((teleport: string) => (
-                  <li key={create_UUID()}>{teleport}</li>
-                ))}
+            <div
+              style={{
+                display: "grid",
+                gridTemplateAreas: ` "title title""list image" `,
+                gridGap: "20px", // Increased spacing
+              }}
+            >
+              <h2 style={{ gridArea: "title", justifySelf: "center" }}>
+                {value.location}
+              </h2>
+              <div style={{ gridArea: "image", marginBottom: "20px" }}>
+                <img src={value.teleImage} alt={value.teleImage} />
+              </div>
+              <ol
+                className="text-sm"
+                style={{ gridArea: "list", marginTop: "20px" }} // Added spacing
+              >
+                {value.teleports.map((teleport: string) => {
+                  return (
+                    <>
+                      <li key={create_UUID()}>-{teleport}</li>
+                      <div style={{ height: "45px" }} />
+                    </>
+                  );
+                })}
               </ol>
             </div>
-            <div className="smallPadding" />
             <hr
               className={`HR${value.location}`}
-              style={{ borderColor: "#3da648" }}
+              style={{ borderColor: "#3da648", margin: "20px 0" }}
             />
           </React.Fragment>
         ))}
@@ -89,20 +123,38 @@ const TeleportModalContent: React.FC = () => {
       <div className="rounded-md Patches">
         <h1 className="PatchesH1 rounded-b-md text-xl">Bush Patches</h1>
         {teleData?.slice(14, 19)?.map((value) => (
-          <React.Fragment key={create_UUID()}>
+          <React.Fragment key={value.id}>
             <div className="smallPadding" />
-            <div>
-              <h3>{value.location}</h3>
-              <ol className="text-sm">
-                {value.teleports.map((teleport: string) => (
-                  <li key={create_UUID()}>{teleport}</li>
-                ))}
+            <div
+              style={{
+                display: "grid",
+                gridTemplateAreas: ` "title title""list image" `,
+                gridGap: "20px", // Increased spacing
+              }}
+            >
+              <h2 style={{ gridArea: "title", justifySelf: "center" }}>
+                {value.location}
+              </h2>
+              <div style={{ gridArea: "image", marginBottom: "20px" }}>
+                <img src={value.teleImage} alt={value.teleImage} />
+              </div>
+              <ol
+                className="text-sm"
+                style={{ gridArea: "list", marginTop: "20px" }} // Added spacing
+              >
+                {value.teleports.map((teleport: string) => {
+                  return (
+                    <>
+                      <li key={create_UUID()}>-{teleport}</li>
+                      <div style={{ height: "45px" }} />
+                    </>
+                  );
+                })}
               </ol>
             </div>
-            <div className="smallPadding" />
             <hr
               className={`HR${value.location}`}
-              style={{ borderColor: "#3da648" }}
+              style={{ borderColor: "#3da648", margin: "20px 0" }}
             />
           </React.Fragment>
         ))}
@@ -112,20 +164,38 @@ const TeleportModalContent: React.FC = () => {
       <div className="rounded-md Patches">
         <h1 className="PatchesH1 rounded-b-md text-xl">Cactus Patches</h1>
         {teleData?.slice(19, 23)?.map((value) => (
-          <React.Fragment key={create_UUID()}>
+          <React.Fragment key={value.id}>
             <div className="smallPadding" />
-            <div>
-              <h3>{value.location}</h3>
-              <ol className="text-sm">
-                {value.teleports.map((teleport: string) => (
-                  <li key={create_UUID()}>{teleport}</li>
-                ))}
+            <div
+              style={{
+                display: "grid",
+                gridTemplateAreas: ` "title title""list image" `,
+                gridGap: "20px", // Increased spacing
+              }}
+            >
+              <h2 style={{ gridArea: "title", justifySelf: "center" }}>
+                {value.location}
+              </h2>
+              <div style={{ gridArea: "image", marginBottom: "20px" }}>
+                <img src={value.teleImage} alt={value.teleImage} />
+              </div>
+              <ol
+                className="text-sm"
+                style={{ gridArea: "list", marginTop: "20px" }} // Added spacing
+              >
+                {value.teleports.map((teleport: string) => {
+                  return (
+                    <>
+                      <li key={create_UUID()}>-{teleport}</li>
+                      <div style={{ height: "45px" }} />
+                    </>
+                  );
+                })}
               </ol>
             </div>
-            <div className="smallPadding" />
             <hr
               className={`HR${value.location}`}
-              style={{ borderColor: "#3da648" }}
+              style={{ borderColor: "#3da648", margin: "20px 0" }}
             />
           </React.Fragment>
         ))}
@@ -135,20 +205,39 @@ const TeleportModalContent: React.FC = () => {
       <div className="rounded-md Patches">
         <h1 className="PatchesH1 rounded-b-md text-xl">Mushroom Patches</h1>
         {teleData?.slice(23, 26)?.map((value) => (
-          <React.Fragment key={create_UUID()}>
+          <React.Fragment key={value.id}>
             <div className="smallPadding" />
-            <div>
-              <h3>{value.location}</h3>
-              <ol className="text-sm">
-                {value.teleports.map((teleport: string) => (
-                  <li key={create_UUID()}>{teleport}</li>
-                ))}
+            <div
+              style={{
+                display: "grid",
+                gridTemplateAreas: ` "title title""list image" `,
+                gridGap: "20px", // Increased spacing
+              }}
+            >
+              <h2 style={{ gridArea: "title", justifySelf: "center" }}>
+                {value.location}
+              </h2>
+              <div style={{ gridArea: "image", marginBottom: "20px" }}>
+                <img src={value.teleImage} alt={value.teleImage} />
+              </div>
+              <ol
+                className="text-sm"
+                style={{ gridArea: "list", marginTop: "20px" }} // Added spacing
+              >
+                {value.teleports.map((teleport: string) => {
+                  return (
+                    <>
+                      <li key={create_UUID()}>-{teleport}</li>
+
+                      <div style={{ height: "45px" }} />
+                    </>
+                  );
+                })}
               </ol>
             </div>
-            <div className="smallPadding" />
             <hr
               className={`HR${value.location}`}
-              style={{ borderColor: "#3da648" }}
+              style={{ borderColor: "#3da648", margin: "20px 0" }}
             />
           </React.Fragment>
         ))}
@@ -158,20 +247,38 @@ const TeleportModalContent: React.FC = () => {
       <div className="rounded-md Patches">
         <h1 className="PatchesH1 rounded-b-md text-xl">Tree Patches</h1>
         {teleData?.slice(26, 33)?.map((value) => (
-          <React.Fragment key={create_UUID()}>
+          <React.Fragment key={value.id}>
             <div className="smallPadding" />
-            <div>
-              <h3>{value.location}</h3>
-              <ol className="text-sm">
-                {value.teleports.map((teleport: string) => (
-                  <li key={create_UUID()}>{teleport}</li>
-                ))}
+            <div
+              style={{
+                display: "grid",
+                gridTemplateAreas: ` "title title""list image" `,
+                gridGap: "20px", // Increased spacing
+              }}
+            >
+              <h2 style={{ gridArea: "title", justifySelf: "center" }}>
+                {value.location}
+              </h2>
+              <div style={{ gridArea: "image", marginBottom: "20px" }}>
+                <img src={value.teleImage} alt={value.teleImage} />
+              </div>
+              <ol
+                className="text-sm"
+                style={{ gridArea: "list", marginTop: "20px" }} // Added spacing
+              >
+                {value.teleports.map((teleport: string) => {
+                  return (
+                    <>
+                      <li key={create_UUID()}>-{teleport}</li>
+                      <div style={{ height: "45px" }} />
+                    </>
+                  );
+                })}
               </ol>
             </div>
-            <div className="smallPadding" />
             <hr
               className={`HR${value.location}`}
-              style={{ borderColor: "#3da648" }}
+              style={{ borderColor: "#3da648", margin: "20px 0" }}
             />
           </React.Fragment>
         ))}
@@ -181,20 +288,38 @@ const TeleportModalContent: React.FC = () => {
       <div className="rounded-md Patches">
         <h1 className="PatchesH1 rounded-b-md text-xl">Fruit Tree Patches</h1>
         {teleData?.slice(33, 40)?.map((value) => (
-          <React.Fragment key={create_UUID()}>
+          <React.Fragment key={value.id}>
             <div className="smallPadding" />
-            <div>
-              <h3>{value.location}</h3>
-              <ol className="text-sm">
-                {value.teleports.map((teleport: string) => (
-                  <li key={create_UUID()}>{teleport}</li>
-                ))}
+            <div
+              style={{
+                display: "grid",
+                gridTemplateAreas: ` "title title""list image" `,
+                gridGap: "20px", // Increased spacing
+              }}
+            >
+              <h2 style={{ gridArea: "title", justifySelf: "center" }}>
+                {value.location}
+              </h2>
+              <div style={{ gridArea: "image", marginBottom: "20px" }}>
+                <img src={value.teleImage} alt={value.teleImage} />
+              </div>
+              <ol
+                className="text-sm"
+                style={{ gridArea: "list", marginTop: "20px" }} // Added spacing
+              >
+                {value.teleports.map((teleport: string) => {
+                  return (
+                    <>
+                      <li key={create_UUID()}>-{teleport}</li>
+                      <div style={{ height: "45px" }} />
+                    </>
+                  );
+                })}
               </ol>
             </div>
-            <div className="smallPadding" />
             <hr
               className={`HR${value.location}`}
-              style={{ borderColor: "#3da648" }}
+              style={{ borderColor: "#3da648", margin: "20px 0" }}
             />
           </React.Fragment>
         ))}
@@ -204,20 +329,38 @@ const TeleportModalContent: React.FC = () => {
       <div className="rounded-md Patches">
         <h1 className="PatchesH1 rounded-b-md text-xl">Special Patches</h1>
         {teleData?.slice(40, 48)?.map((value) => (
-          <React.Fragment key={create_UUID()}>
+          <React.Fragment key={value.id}>
             <div className="smallPadding" />
-            <div>
-              <h3>{value.location}</h3>
-              <ol className="text-sm">
-                {value.teleports.map((teleport: string) => (
-                  <li key={create_UUID()}>{teleport}</li>
-                ))}
+            <div
+              style={{
+                display: "grid",
+                gridTemplateAreas: ` "title title""list image" `,
+                gridGap: "20px", // Increased spacing
+              }}
+            >
+              <h2 style={{ gridArea: "title", justifySelf: "center" }}>
+                {value.location}
+              </h2>
+              <div style={{ gridArea: "image", marginBottom: "20px" }}>
+                <img src={value.teleImage} alt={value.teleImage} />
+              </div>
+              <ol
+                className="text-sm"
+                style={{ gridArea: "list", marginTop: "20px" }} // Added spacing
+              >
+                {value.teleports.map((teleport: string) => {
+                  return (
+                    <>
+                      <li key={create_UUID()}>-{teleport}</li>
+                      <div style={{ height: "45px" }} />
+                    </>
+                  );
+                })}
               </ol>
             </div>
-            <div className="smallPadding" />
             <hr
               className={`HR${value.location}`}
-              style={{ borderColor: "#3da648" }}
+              style={{ borderColor: "#3da648", margin: "20px 0" }}
             />
           </React.Fragment>
         ))}
@@ -227,20 +370,38 @@ const TeleportModalContent: React.FC = () => {
       <div className="rounded-md Patches">
         <h1 className="PatchesH1 rounded-b-md text-xl">Spirit Tree Patches</h1>
         {teleData?.slice(48)?.map((value) => (
-          <React.Fragment key={create_UUID()}>
+          <React.Fragment key={value.id}>
             <div className="smallPadding" />
-            <div>
-              <h3>{value.location}</h3>
-              <ol className="text-sm">
-                {value.teleports.map((teleport: string) => (
-                  <li key={create_UUID()}>{teleport}</li>
-                ))}
+            <div
+              style={{
+                display: "grid",
+                gridTemplateAreas: ` "title title""list image" `,
+                gridGap: "20px", // Increased spacing
+              }}
+            >
+              <h2 style={{ gridArea: "title", justifySelf: "center" }}>
+                {value.location}
+              </h2>
+              <div style={{ gridArea: "image", marginBottom: "20px" }}>
+                <img src={value.teleImage} alt={value.teleImage} />
+              </div>
+              <ol
+                className="text-sm"
+                style={{ gridArea: "list", marginTop: "20px" }} // Added spacing
+              >
+                {value.teleports.map((teleport: string) => {
+                  return (
+                    <>
+                      <li key={create_UUID()}>-{teleport}</li>
+                      <div style={{ height: "45px" }} />
+                    </>
+                  );
+                })}
               </ol>
             </div>
-            <div className="smallPadding" />
             <hr
               className={`HR${value.location}`}
-              style={{ borderColor: "#3da648" }}
+              style={{ borderColor: "#3da648", margin: "20px 0" }}
             />
           </React.Fragment>
         ))}
