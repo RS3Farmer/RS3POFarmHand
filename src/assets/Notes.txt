@@ -7,3 +7,13 @@
 33-39 Fruit Tree
 40-47 Special Patches
 48-52 Spirit Tree Patches
+
+54 images in allotment
+19 images Hops
+26 images bushes
+13 images cactus
+10 images mushroom
+27 images trees
+33 Images fruit trees
+23 Images special Trees
+27 images spirit trees
