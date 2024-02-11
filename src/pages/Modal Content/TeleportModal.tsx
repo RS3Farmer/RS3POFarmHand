@@ -209,16 +209,24 @@ const TeleportModalContent: React.FC = () => {
 
                 <ol
                   className="text-sm"
-                  style={{ gridArea: "list", marginTop: "20px" }} // Added spacing
+                  style={{ marginTop: "20px" }} // Added spacing
                 >
-                  {value.teleports.map((teleport: string) => {
-                    return (
+                  {value.teleports.value.map(
+                    (teleport: string, index: number) => (
                       <>
-                        <li key={create_UUID()}>-{teleport}</li>
+                        <div key={create_UUID()}>
+                          <li style={{ gridArea: "list" }} key={index}>
+                            - {teleport}
+                          </li>
+                        </div>
+                        <img
+                          src={value.teleports.image[index]}
+                          style={{ gridArea: "image" }}
+                        />
                         <div style={{ height: "45px" }} />
                       </>
-                    );
-                  })}
+                    )
+                  )}
                 </ol>
               </div>
               <hr

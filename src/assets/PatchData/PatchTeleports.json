@@ -206,7 +206,12 @@
         "Varrock lodestone",
         "Combat bracelet to Champions' Guild"
       ],
-      "image": ["", "", "", ""]
+      "image": [
+        "./dist/Waka.png",
+        "./dist/LumbridgeLodestone.png",
+        "./dist/VarrockTeleport.png",
+        "./dist/CombatBracelet.png"
+      ]
     }
   },
   {
@@ -218,7 +223,12 @@
         "Combat bracelet to Ranging Guild",
         "Fairy ring code ALS to McGrubor's Wood"
       ],
-      "image": ["", "", "", ""]
+      "image": [
+        "./dist/SeersVillageLodestone.png",
+        "./dist/CamelotTeleport.png",
+        "./dist/CombatBracelet.png",
+        "./dist/FairyRingTeleALS.png"
+      ]
     }
   },
   {
@@ -232,7 +242,14 @@
         "Arc journal Port Sarim teleport",
         "Wicked Hood teleport to Law altar, or Law altar teleport tablet"
       ],
-      "image": ["", "", "", "", "", ""]
+      "image": [
+        "./dist/balloonSys.png",
+        "./dist/PortSarimlodestone.png",
+        "./dist/ExplorersRing3.png",
+        "./dist/AmuletOfGlory.png",
+        "./dist/ArcJournal.png",
+        "./dist/WickedHood.png"
+      ]
     }
   },
   {
@@ -245,7 +262,13 @@
         "Yanille tablet after completion of the Love Story quest",
         "Yanille lodestone"
       ],
-      "image": ["", "", "", "", ""]
+      "image": [
+        "./dist/WatchtowerTeleport.png",
+        "./dist/FairyRingTeleCIQ.png",
+        "./dist/TeleportToHouse.png",
+        "./dist/HouseTeleport.png",
+        "./dist/YanilleLodestone.png"
+      ]
     }
   },
   {
@@ -257,7 +280,12 @@
         "Canoe",
         "Varrock lodestone"
       ],
-      "image": ["", "", "", ""]
+      "image": [
+        "./dist/CombatBracelet.png",
+        "./dist/MasterQuestCape.png",
+        "./dist/Waka.png",
+        "./dist/VarrockLodestone.png"
+      ]
     }
   },
   {
@@ -271,7 +299,14 @@
         "Miscellania teleport scroll",
         "Fremennik Province lodestone"
       ],
-      "image": ["", "", "", "", "", ""]
+      "image": [
+        "./dist/SpiritTree.png",
+        "./dist/Enchanted_lyre.png",
+        "./dist/FairyRingCodeCIP.png",
+        "./dist/RingOfWealth.png",
+        "./dist/MiscellaniaTeleport.png",
+        "./dist/FremennikLodestone.png"
+      ]
     }
   },
   {
@@ -285,7 +320,14 @@
         "Ardougne lodestone",
         "Clocktower Teleport"
       ],
-      "image": ["", "", "", "", "", ""]
+      "image": [
+        "./dist/ArdougneCloak1.png",
+        "./dist/FairyRingTeleDJP.png",
+        "./dist/ArdougneTeleport.png",
+        "./dist/SpiritTree.png",
+        "./dist/ArdougneLodestone.png",
+        "./dist/ClockTowerTeleport.png"
+      ]
     }
   },
   {
@@ -300,7 +342,15 @@
         "Clan vexillum teleport",
         "Nature's sentinel outfit teleport to Rimmington's Elder tree"
       ],
-      "image": ["", "", "", "", "", "", "", ""]
+      "image": [
+        "../dist/HouseTeleport.png",
+        "./dist/RemorasNecklace.png",
+        "./dist/PortSarimlodestone.png",
+        "./dist/SkillsNecklace.png",
+        "./dist/balloonSys.png",
+        "./dist/ClanVexillum.png",
+        "./dist/NatureSentinelOutfit.png"
+      ]
     }
   },
   {
@@ -311,7 +361,11 @@
         "Spirit Tree in Prifddinas 0",
         "Prifddinas lodestone"
       ],
-      "image": ["", "", ""]
+      "image": [
+        "./dist/CrystalTeleportSeed.png",
+        "./dist/SpiritTree.png",
+        "./dist/PriffdinasLodestone.png"
+      ]
     }
   },
   {
@@ -323,7 +377,12 @@
         "Ring of duelling to Het's Oasis",
         "Broomstick teleport"
       ],
-      "image": ["", "", "", ""]
+      "image": [
+        "./dist/AlkharidLodeStone.png",
+        "./dist/AmuletOfGlory.png",
+        "./dist/RingOfDueling.png",
+        "./dist/BroomStick.png"
+      ]
     }
   },
   {
@@ -334,7 +393,11 @@
         "Orthen teleportation device to Observation outpost",
         "Anachronia lodestone"
       ],
-      "image": ["", "", ""]
+      "image": [
+        "./dist/TotemOfTheAbyss.png",
+        "./dist/OrthernTeleportation.png",
+        "./dist/AnachroniaLodestone.png"
+      ]
     }
   },
   {
@@ -346,14 +409,22 @@
         "Sceptre of the gods",
         "Wicked Hood teleport to Fire altar, or Fire altar teleport tablet"
       ],
-      "image": ["", "", "", ""]
+      "image": [
+        "./dist/MasterArchaeologistsOutfit.png",
+        "./dist/RingOfDueling.png",
+        "./dist/SceptreOfTheGods.png",
+        "./dist/WickedHood.png"
+      ]
     }
   },
   {
     "location": "Menaphos (Imperial District)",
     "teleports": {
       "value": ["Menaphos lodestone", "Imperial district teleport"],
-      "image": ["", ""]
+      "image": [
+        "./dist/MenaphosLodestone.png",
+        "./dist/ImperialDistrictTeleport.png"
+      ]
     }
   },
   {
@@ -366,14 +437,20 @@
         "Slayer Cape to Mazchna",
         "Dungeoneering Cape to Morytania slayer tower dungeon"
       ],
-      "image": ["", "", "", "", ""]
+      "image": [
+        "/dist/FairyRingTeleCKS.png",
+        "/dist/KharyllTeleport.png",
+        "/dist/CanifisLodestone.png",
+        "/dist/SlayerCape(t).png",
+        "/dist/DungeoneeringCape(t).png"
+      ]
     }
   },
   {
     "location": "South-west of Tirannwn lodestone",
     "teleports": {
       "value": ["Tirannwn lodestone", "Tirannwn quiver 3 and up"],
-      "image": ["", ""]
+      "image": ["/dist/TirannwnLodestone.png", "/dist/TirannwnQuiver3.png"]
     }
   },
   {
@@ -384,7 +461,11 @@
         "City of Um Teleport",
         "City of Um lodestone"
       ],
-      "image": ["", "", ""]
+      "image": [
+        "/dist/TomeOfUm1.png",
+        "/dist/CityofUmTele.png",
+        "/dist/CityOfUmLodestone.png"
+      ]
     }
   },
   {
@@ -397,7 +478,13 @@
         "Grand seed pod",
         "Balloon transport system"
       ],
-      "image": ["", "", "", "", ""]
+      "image": [
+        "/dist/GnomeGlider.png",
+        "/dist/NatureSentinelOutfit.png",
+        "/dist/SpiritTree.png",
+        "/dist/GrandSeedPod.png",
+        "/dist/balloonSys.png"
+      ]
     }
   },
   {
@@ -410,27 +497,43 @@
         "Skills necklace to Mining Guild",
         "Falador lodestone"
       ],
-      "image": ["", "", "", "", ""]
+      "image": [
+        "/dist/ModifiedBlacksmithsHelmet.png",
+        "/dist/FaladorTeleport.png",
+        "/dist/ExplorersRing3.png",
+        "/dist/SkillsNecklace.png",
+        "/dist/FaladorLodestone.png"
+      ]
     }
   },
   {
     "location": "Lumbridge (East of General Store)",
     "teleports": {
       "value": ["Lumbridge Teleport", "Lodestone to Lumbridge", "Canoe"],
-      "image": ["", "", ""]
+      "image": [
+        "/dist/LumbridgeTeleport.png",
+        "/dist/LumbridgeLodestone.png",
+        "/dist/Waka.png"
+      ]
     }
   },
   {
     "location": "Varrock Castle Courtyard",
     "teleports": {
       "value": [
-        "Varrock Teleport or 'Chipped' Varrock teleport (Dave's Spellbook)",
+        "Varrock Teleport",
         "Master quest cape to Varrock Museum",
         "Spirit tree",
         "Ring of Wealth to Grand Exchange",
         "Varrock lodestone"
       ],
-      "image": ["", "", "", "", ""]
+      "image": [
+        "/dist/VarrockTeleport.png",
+        "/dist/MasterQuestCape.png",
+        "/dist/SpiritTree.png",
+        "/dist/RingOfWealth.png",
+        "/dist/VarrockLodestone.png"
+      ]
     }
   },
   {
@@ -441,7 +544,11 @@
         "Taverley tablet after completion of the Love Story quest",
         "Taverley lodestone and head North"
       ],
-      "image": ["", "", ""]
+      "image": [
+        "/dist/HouseTeleport.png",
+        "/dist/TeleportToHouse.png",
+        "/dist/TaverlyLodestone.png"
+      ]
     }
   },
   {
@@ -452,7 +559,11 @@
         "Spirit Tree in Prifddinas",
         "Prifddinas lodestone"
       ],
-      "image": ["", "", ""]
+      "image": [
+        "/dist/CrystalTeleportSeed.png",
+        "/dist/SpiritTree.png",
+        "/dist/PriffdinasLodestone.png"
+      ]
     }
   },
   {
@@ -462,7 +573,10 @@
         "Fort Forinthry lodestone",
         "Fairy ring to Fort Forinthry (BJP)"
       ],
-      "image": ["", ""]
+      "image": [
+        "/dist/FortForinthryLodestone.png",
+        "/dist/FairyRingTeleBJP.png"
+      ]
     }
   },
   {
@@ -476,7 +590,14 @@
         "Lodestone to Karamja K",
         "Charter Ships from numerous ports to Brimhaven for a tiny fee. This option is convenient for players not on regular magics."
       ],
-      "image": ["", "", "", "", "", ""]
+      "image": [
+        "/dist/SpiritTree.png",
+        "/dist/KaramjaGloves3.png",
+        "/dist/TeleportToHouse.png",
+        "/dist/HomeTeleport.png",
+        "/dist/KaramjaLodeStone.png",
+        "./dist/CharterShip.png"
+      ]
     }
   },
   {
@@ -488,7 +609,12 @@
         "Camelot Teleport",
         "Catherby Teleport (Lunar Spellbook)"
       ],
-      "image": ["", "", "", ""]
+      "image": [
+        "/dist/ModifiedBotonistsMask.png",
+        "/dist/CatherbyLodestone.png",
+        "/dist/CamelotTeleport.png",
+        "/dist/CatherbyTeleport.png"
+      ]
     }
   },
   {
@@ -500,7 +626,12 @@
         "Use a Hazelmere's signet ring to teleport to Hazelmere (Tree Gnome Stronghold)",
         "Balloon transport system"
       ],
-      "image": ["", "", "", ""]
+      "image": [
+        "/dist/GnomeGlider.png",
+        "/dist/SpiritTree.png",
+        "/dist/HazlemeresSignetRing.png",
+        "/dist/balloonSys.png"
+      ]
     }
   },
   {
@@ -512,7 +643,12 @@
         "Charter ship to Port Tyras",
         "Lodestone to Tirannwn"
       ],
-      "image": ["", "", "", ""]
+      "image": [
+        "/dist/CrystalTeleportSeed.png",
+        "/dist/TirannwnQuiver4.png",
+        "/dist/CharterShip.png",
+        "/dist/TirannwnLodestone.png"
+      ]
     }
   },
   {
@@ -524,7 +660,12 @@
         "Master farmer hat (If you have Juju teleport spiritbag or Witchdoctor mask unlocked)",
         "Gnome glider 5 to Gandius (South Karamja)"
       ],
-      "image": ["", "", "", ""]
+      "image": [
+        "/dist/JujuTeleportBag.png",
+        "/dist/WitchDoctorsMask.png",
+        "/dist/FarmersHat.png",
+        "/dist/GnomeGlider.png"
+      ]
     }
   },
   {
@@ -537,7 +678,13 @@
         "Tirannwn quiver 4 to Harmony pillars then run north",
         "Dungeoneering cape"
       ],
-      "image": ["", "", "", "", ""]
+      "image": [
+        "/dist/CrystalTeleportSeed.png",
+        "/dist/PriffdinasLodestone.png",
+        "/dist/GnomeGlider.png",
+        "/dist/TirannwnQuiver4.png",
+        "/dist/DungeoneeringCape(t).png"
+      ]
     }
   },
   {
@@ -551,14 +698,21 @@
         "Lodestone to Yanille",
         "Use a Ring of Dueling to teleport to Castle wars, then run north"
       ],
-      "image": ["", "", "", "", "", ""]
+      "image": [
+        "/dist/SpiritTree.png",
+        "./dist/FairyRingTeleCIQ.png",
+        "/dist/ArdougneCloak1.png",
+        "/dist/GnomeGlider.png",
+        "/dist/YanilleLodestone.png",
+        "/dist/RingOfDueling.png"
+      ]
     }
   },
   {
     "location": "Anachronia (East)",
     "teleports": {
       "value": ["Lodestone to Anachronia"],
-      "image": [""]
+      "image": ["/dist/AnachroniaLodestone.png"]
     }
   },
   {
@@ -569,7 +723,11 @@
         "Draynor Village lodestone",
         "Captain's log to Player Owned Ports"
       ],
-      "image": ["", "", ""]
+      "image": [
+        "/dist/ExplorersRing4.png",
+        "/dist/DraynorLodestone.png",
+        "/dist/CaptainsLog.png"
+      ]
     }
   },
   {
@@ -582,7 +740,13 @@
         "Tirannwn quiver 4 to Harmony pillars then run north",
         "Dungeoneering cape"
       ],
-      "image": ["", "", "", "", ""]
+      "image": [
+        "/dist/CrystalTeleportSeed.png",
+        "/dist/PriffdinasLodestone.png",
+        "/dist/GnomeGlider.png",
+        "/dist/TirannwnQuiver4.png",
+        "/dist/DungeoneeringCape(t).png"
+      ]
     }
   },
   {
@@ -593,7 +757,11 @@
         "Moonclan Teleport",
         "Seal of passage teleport option"
       ],
-      "image": ["", "", ""]
+      "image": [
+        "/dist/LunarIsleLodestone.png",
+        "/dist/MoonClanTeleport.png",
+        "/dist/SealOfPassage.png"
+      ]
     }
   },
   {
@@ -606,7 +774,13 @@
         "House Teleport to Brimhaven if house is in Brimhaven",
         "Brimhaven Tablet after completion of the Love Story quest"
       ],
-      "image": ["", "", "", "", ""]
+      "image": [
+        "/dist/TaiBwoWannaiTeleport.png",
+        "/dist/KaramjaLodeStone.png",
+        "/dist/FairyRingTeleCKR.png",
+        "/dist/TeleportToHouse.png",
+        "/dist/HouseTeleport.png"
+      ]
     }
   },
   {
@@ -617,7 +791,11 @@
         "Taverley tablet after completion of the Love Story quest",
         "Taverley lodestone and head North"
       ],
-      "image": ["", "", ""]
+      "image": [
+        "/dist/TeleportToHouse.png",
+        "/dist/HouseTeleport.png",
+        "/dist/TaverlyLodestone.png"
+      ]
     }
   },
   {
@@ -628,7 +806,11 @@
         "Gnome glider (Kai-Undri)",
         "Quartermaster Gully on the Port Sarim docks"
       ],
-      "image": ["", "", ""]
+      "image": [
+        "/dist/TuaiLeitTeleport.png",
+        "/dist/GnomeGlider.png",
+        "/dist/MisterGully.png"
+      ]
     }
   },
   {
@@ -642,7 +824,14 @@
         "Miscellania teleport scroll",
         "Fremennik Province lodestone"
       ],
-      "image": ["", "", "", "", "", ""]
+      "image": [
+        "./dist/SpiritTree.png",
+        "./dist/Enchanted_lyre.png",
+        "./dist/FairyRingCodeCIP.png",
+        "./dist/RingOfWealth.png",
+        "./dist/MiscellaniaTeleport.png",
+        "./dist/FremennikLodestone.png"
+      ]
     }
   },
   {
@@ -655,7 +844,13 @@
         "Lodestone to Draynor or Port Sarim",
         "Arc journal"
       ],
-      "image": ["", "", "", "", ""]
+      "image": [
+        "/dist/CaptainsLog.png",
+        "/dist/ExplorersRing3.png",
+        "/dist/AmuletOfGlory.png",
+        "/dist/PortSarimlodestone.png",
+        "/dist/ArcJournal.png"
+      ]
     }
   },
   {
@@ -669,7 +864,14 @@
         "Lodestone to Karamja K",
         "Charter Ships from numerous ports to Brimhaven for a tiny fee. This option is convenient for players not on regular magics."
       ],
-      "image": ["", "", "", "", "", ""]
+      "image": [
+        "Spirit tree 8 if planted in Brimhaven",
+        "Karamja Gloves 3 to gem mine, then use Shilo Village Cart Ride",
+        "House Teleport if house is in Brimhaven",
+        "Brimhaven Tablet after completion of the Love Story quest",
+        "Lodestone to Karamja K",
+        "Charter Ships from numerous ports to Brimhaven for a tiny fee. This option is convenient for players not on regular magics."
+      ]
     }
   },
   {
@@ -687,7 +889,18 @@
         "Teleport to Stormguard Citadel Dig Site via Master archaeologist's outfit or dig sites map in Archaeology Guild",
         "Cape of legends to Legends' Guild"
       ],
-      "image": ["", "", "", "", "", "", "", "", "", ""]
+      "image": [
+        "Manor farm Teleport (requires Ardougne cloak 2 and above or using any of the master farmer outfit variants)",
+        "Ardougne lodestone",
+        "Ardougne Teleport",
+        "North Ardougne Teleport (Lunar Spellbook)",
+        "Skills necklace to Fishing Guild",
+        "Fishing Guild Teleport (Lunar Spellbook)",
+        "Combat bracelet to Ranging Guild",
+        "Fairy ring code BLR",
+        "Teleport to Stormguard Citadel Dig Site via Master archaeologist's outfit or dig sites map in Archaeology Guild",
+        "Cape of legends to Legends' Guild"
+      ]
     }
   }
 ]

@@ -157,6 +157,7 @@ export const RequiredImages: React.FC = () => {
   require("./../assets/Images/TeleportImages/ChippedVarrockTeletab.png");
   require("./../assets/Images/TeleportImages/CharterShip.png");
   require("./../assets/Images/TeleportImages/CityofUmTele.png");
+  require("./../assets/Images/TeleportImages/CityOfUmLodestone.png");
   require("./../assets/Images/TeleportImages/ClanVexillum.png");
   require("./../assets/Images/TeleportImages/ClockTowerTeleport.png");
   require("./../assets/Images/TeleportImages/CombatBracelet.png");
@@ -175,6 +176,7 @@ export const RequiredImages: React.FC = () => {
   require("./../assets/Images/TeleportImages/FairyRingTeleBJP.png");
   require("./../assets/Images/TeleportImages/FairyRingTeleBLR.png");
   require("./../assets/Images/TeleportImages/FairyRingTeleCIQ.png");
+  require("./../assets/Images/TeleportImages/FairyRingCodeCIP.png");
   require("./../assets/Images/TeleportImages/FairyRingTeleCKR.png");
   require("./../assets/Images/TeleportImages/FairyRingTeleCKS.png");
   require("./../assets/Images/TeleportImages/FairyRingTeleDJP.png");
@@ -201,6 +203,7 @@ export const RequiredImages: React.FC = () => {
   require("./../assets/Images/TeleportImages/ManorFarmTeleport.png");
   require("./../assets/Images/TeleportImages/MasterArchaeologistsOutfit.png");
   require("./../assets/Images/TeleportImages/MasterCamoOutFit.png");
+  require("./../assets/Images/TeleportImages/MasterQuestCape.png");
   require("./../assets/Images/TeleportImages/MenaphosLodestone.png");
   require("./../assets/Images/TeleportImages/MiscellaniaTeleport.png");
   require("./../assets/Images/TeleportImages/MisterGully.png");
@@ -245,6 +248,7 @@ export const RequiredImages: React.FC = () => {
   require("./../assets/Images/TeleportImages/VarrockLodestone.png");
   require("./../assets/Images/TeleportImages/VarrockTeleport.png");
   require("./../assets/Images/TeleportImages/Waka.png");
+  require("./../assets/Images/TeleportImages/WatchtowerTeleport.png");
   require("./../assets/Images/TeleportImages/WickedHood.png");
   require("./../assets/Images/TeleportImages/WildernessLodestone.png");
   require("./../assets/Images/TeleportImages/WildernessSword1.png");
